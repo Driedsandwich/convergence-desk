@@ -1,0 +1,4629 @@
+{
+  "started_utc": "2026-10-30T00:29:33Z",
+  "elapsed_seconds": 55.104,
+  "phases": [
+    {
+      "started_utc": "2026-10-30T00:29:33Z",
+      "elapsed_seconds": 39.754
+    },
+    {
+      "started_utc": "2026-10-30T00:31:37Z",
+      "elapsed_seconds": 6.915
+    },
+    {
+      "started_utc": "2026-10-30T00:33:04Z",
+      "elapsed_seconds": 7.412
+    },
+    {
+      "started_utc": "2026-10-30T00:36:14Z",
+      "elapsed_seconds": 1.023
+    }
+  ],
+  "request_counts": {
+    "Bluesky": 30,
+    "Telegram": 6,
+    "Reddit": 2,
+    "Mastodon": 19,
+    "Coinbase Exchange": 3,
+    "Kraken": 3,
+    "Binance market data": 3,
+    "CoinGecko": 3,
+    "Ethereum PublicNode": 4,
+    "Ethereum Cloudflare": 3,
+    "Ethereum LlamaRPC": 3,
+    "Ethereum Ankr": 3,
+    "CoinDesk RSS": 2,
+    "Cointelegraph RSS": 2,
+    "Decrypt RSS": 2,
+    "Telegram terms": 2
+  },
+  "interrupted": false,
+  "user_agent": "ConvergenceDesk-source-probe/0.1 (public read-only hackathon compatibility test; no credentials)",
+  "max_response_bytes": 524288,
+  "rows": [
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=coindesk.com&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:33Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "coindesk.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=coindesk.com&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:34 GMT",
+      "bytes_read": 7958,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "chat": "dict",
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "external": "dict"
+                },
+                "facets": {
+                  "type": "array",
+                  "first_item": "dict"
+                },
+                "langs": {
+                  "type": "array",
+                  "first_item": "str"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "external": {
+                  "uri": "str",
+                  "title": "str",
+                  "description": "str",
+                  "thumb": "str"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 3,
+        "first_own_created_at": "2025-02-25T20:55:45.537Z"
+      },
+      "latency_ms": 354.8,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=cointelegraph.com&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:34Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "cointelegraph.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=cointelegraph.com&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:34 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 195.4,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=decrypt.co&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:34Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "decrypt.co"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=decrypt.co&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:34 GMT",
+      "bytes_read": 5608,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "chat": "dict",
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "external": "dict"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "external": {
+                  "uri": "str",
+                  "title": "str",
+                  "description": "str",
+                  "thumb": "str"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 3,
+        "first_own_created_at": "2026-10-29T21:39:53.187Z"
+      },
+      "latency_ms": 195.7,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=theblock.co&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:35Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "theblock.co"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=theblock.co&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:35 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 174.1,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=blockworks.co&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:35Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "blockworks.co"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=blockworks.co&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:35 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 190.6,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bitcoinmagazine.com&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:35Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "bitcoinmagazine.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bitcoinmagazine.com&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:35 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 194.5,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=kraken.com&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:36Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "kraken.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=kraken.com&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:36 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 196.2,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=coinbase.com&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:36Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "coinbase.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=coinbase.com&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:36 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 191.9,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=messari.io&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:36Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "messari.io"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=messari.io&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:37 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 175.7,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=unchainedcrypto.com&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:37Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "unchainedcrypto.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=unchainedcrypto.com&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:37 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 188.5,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=thedefiant.io&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:37Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "thedefiant.io"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=thedefiant.io&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:37 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 192.5,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bankless.com&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:38Z",
+      "credentials_sent": false,
+      "status": 400,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "bankless.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bankless.com&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:38 GMT",
+      "bytes_read": 56,
+      "truncated": false,
+      "shape": {
+        "error": "str",
+        "message": "str"
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "latency_ms": 192.1,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=coindesk.com",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:38Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "profile",
+        "account": "coindesk.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=coindesk.com",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:38 GMT",
+      "bytes_read": 935,
+      "truncated": false,
+      "shape": {
+        "did": "str",
+        "handle": "str",
+        "displayName": "str",
+        "avatar": "str",
+        "associated": {
+          "lists": "int",
+          "feedgens": "int",
+          "starterPacks": "int",
+          "labeler": "bool",
+          "chat": {
+            "allowIncoming": "str"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "str"
+          }
+        },
+        "labels": {
+          "type": "array",
+          "first_item": null
+        },
+        "createdAt": "str",
+        "description": "str",
+        "indexedAt": "str",
+        "banner": "str",
+        "followersCount": "int",
+        "followsCount": "int",
+        "postsCount": "int",
+        "pinnedPost": {
+          "cid": "str",
+          "uri": "str"
+        }
+      },
+      "sample": {
+        "handle": "coindesk.com",
+        "postsCount": 26,
+        "followersCount": 1911,
+        "createdAt": "2023-05-08T22:53:31.485Z"
+      },
+      "latency_ms": 178.1,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=bitcoin&limit=3",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:38Z",
+      "credentials_sent": false,
+      "status": 403,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "search"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=bitcoin&limit=3",
+      "content_type": "text/html",
+      "server_date": "Fri, 30 Oct 2026 00:29:38 GMT",
+      "bytes_read": 2334,
+      "truncated": false,
+      "parse_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "latency_ms": 62.5,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=coindesk.com",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:39Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "profile",
+        "account": "coindesk.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=coindesk.com",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:39 GMT",
+      "bytes_read": 935,
+      "truncated": false,
+      "shape": {
+        "did": "str",
+        "handle": "str",
+        "displayName": "str",
+        "avatar": "str",
+        "associated": {
+          "lists": "int",
+          "feedgens": "int",
+          "starterPacks": "int",
+          "labeler": "bool",
+          "chat": {
+            "allowIncoming": "str"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "str"
+          }
+        },
+        "labels": {
+          "type": "array",
+          "first_item": null
+        },
+        "createdAt": "str",
+        "description": "str",
+        "indexedAt": "str",
+        "banner": "str",
+        "followersCount": "int",
+        "followsCount": "int",
+        "postsCount": "int",
+        "pinnedPost": {
+          "cid": "str",
+          "uri": "str"
+        }
+      },
+      "sample": {
+        "handle": "coindesk.com",
+        "postsCount": 26,
+        "followersCount": 1911,
+        "createdAt": "2023-05-08T22:53:31.485Z"
+      },
+      "latency_ms": 62.8,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=bitcoin&limit=3",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:39Z",
+      "credentials_sent": false,
+      "status": 403,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "search"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=bitcoin&limit=3",
+      "content_type": "text/html",
+      "server_date": "Fri, 30 Oct 2026 00:29:39 GMT",
+      "bytes_read": 2334,
+      "truncated": false,
+      "parse_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "latency_ms": 62.4,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Telegram",
+      "url": "https://t.me/s/cointelegraph",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:39Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "account": "cointelegraph"
+      },
+      "final_url": "https://t.me/s/cointelegraph",
+      "content_type": "text/html; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:40 GMT",
+      "bytes_read": 115196,
+      "truncated": false,
+      "shape": {
+        "html_classes_present": [
+          "tgme_widget_message",
+          "tgme_widget_message_author",
+          "tgme_widget_message_bubble",
+          "tgme_widget_message_bubble_tail",
+          "tgme_widget_message_centered",
+          "tgme_widget_message_date",
+          "tgme_widget_message_footer",
+          "tgme_widget_message_grouped",
+          "tgme_widget_message_grouped_layer",
+          "tgme_widget_message_grouped_wrap",
+          "tgme_widget_message_info",
+          "tgme_widget_message_link_preview",
+          "tgme_widget_message_meta",
+          "tgme_widget_message_owner_name",
+          "tgme_widget_message_photo",
+          "tgme_widget_message_photo_wrap",
+          "tgme_widget_message_reactions",
+          "tgme_widget_message_text",
+          "tgme_widget_message_user",
+          "tgme_widget_message_user_photo",
+          "tgme_widget_message_video",
+          "tgme_widget_message_video_player",
+          "tgme_widget_message_video_thumb",
+          "tgme_widget_message_video_wrap",
+          "tgme_widget_message_views",
+          "tgme_widget_message_wrap"
+        ],
+        "time_datetime_present": true
+      },
+      "sample": {
+        "post_count": 17,
+        "timestamp_count": 17,
+        "last_timestamp": "2026-10-29T23:37:58+00:00",
+        "requested_channel_matched": true
+      },
+      "latency_ms": 1394.7,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Telegram",
+      "url": "https://t.me/s/coindesk",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:41Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "account": "coindesk"
+      },
+      "final_url": "https://t.me/coindesk",
+      "content_type": "text/html; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:42 GMT",
+      "bytes_read": 11030,
+      "truncated": false,
+      "shape": {
+        "html_classes_present": [],
+        "time_datetime_present": false
+      },
+      "sample": {
+        "post_count": 0,
+        "timestamp_count": 0,
+        "last_timestamp": null,
+        "requested_channel_matched": false
+      },
+      "latency_ms": 1554.8,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Telegram",
+      "url": "https://t.me/s/binance_announcements",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:43Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "account": "binance_announcements"
+      },
+      "final_url": "https://t.me/s/binance_announcements",
+      "content_type": "text/html; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:43 GMT",
+      "bytes_read": 133316,
+      "truncated": false,
+      "shape": {
+        "html_classes_present": [
+          "tgme_widget_message",
+          "tgme_widget_message_author",
+          "tgme_widget_message_bubble",
+          "tgme_widget_message_bubble_tail",
+          "tgme_widget_message_centered",
+          "tgme_widget_message_date",
+          "tgme_widget_message_footer",
+          "tgme_widget_message_info",
+          "tgme_widget_message_meta",
+          "tgme_widget_message_owner_name",
+          "tgme_widget_message_photo",
+          "tgme_widget_message_photo_wrap",
+          "tgme_widget_message_reactions",
+          "tgme_widget_message_text",
+          "tgme_widget_message_user",
+          "tgme_widget_message_user_photo",
+          "tgme_widget_message_views",
+          "tgme_widget_message_wrap"
+        ],
+        "time_datetime_present": true
+      },
+      "sample": {
+        "post_count": 20,
+        "timestamp_count": 20,
+        "last_timestamp": "2026-10-29T13:01:53+00:00",
+        "requested_channel_matched": true
+      },
+      "latency_ms": 1409.5,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Telegram",
+      "url": "https://t.me/s/kraken_exchange",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:44Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "account": "kraken_exchange"
+      },
+      "final_url": "https://t.me/kraken_exchange",
+      "content_type": "text/html; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:50 GMT",
+      "bytes_read": 9701,
+      "truncated": false,
+      "shape": {
+        "html_classes_present": [],
+        "time_datetime_present": false
+      },
+      "sample": {
+        "post_count": 0,
+        "timestamp_count": 0,
+        "last_timestamp": null,
+        "requested_channel_matched": false
+      },
+      "latency_ms": 5713.7,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Telegram",
+      "url": "https://t.me/s/cointelegraph",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:50Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "account": "cointelegraph"
+      },
+      "final_url": "https://t.me/s/cointelegraph",
+      "content_type": "text/html; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:51 GMT",
+      "bytes_read": 115194,
+      "truncated": false,
+      "shape": {
+        "html_classes_present": [
+          "tgme_widget_message",
+          "tgme_widget_message_author",
+          "tgme_widget_message_bubble",
+          "tgme_widget_message_bubble_tail",
+          "tgme_widget_message_centered",
+          "tgme_widget_message_date",
+          "tgme_widget_message_footer",
+          "tgme_widget_message_grouped",
+          "tgme_widget_message_grouped_layer",
+          "tgme_widget_message_grouped_wrap",
+          "tgme_widget_message_info",
+          "tgme_widget_message_link_preview",
+          "tgme_widget_message_meta",
+          "tgme_widget_message_owner_name",
+          "tgme_widget_message_photo",
+          "tgme_widget_message_photo_wrap",
+          "tgme_widget_message_reactions",
+          "tgme_widget_message_text",
+          "tgme_widget_message_user",
+          "tgme_widget_message_user_photo",
+          "tgme_widget_message_video",
+          "tgme_widget_message_video_player",
+          "tgme_widget_message_video_thumb",
+          "tgme_widget_message_video_wrap",
+          "tgme_widget_message_views",
+          "tgme_widget_message_wrap"
+        ],
+        "time_datetime_present": true
+      },
+      "sample": {
+        "post_count": 17,
+        "timestamp_count": 17,
+        "last_timestamp": "2026-10-29T23:37:58+00:00",
+        "requested_channel_matched": true
+      },
+      "latency_ms": 1709.2,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Telegram",
+      "url": "https://t.me/s/binance_announcements",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:52Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "account": "binance_announcements"
+      },
+      "final_url": "https://t.me/s/binance_announcements",
+      "content_type": "text/html; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:53 GMT",
+      "bytes_read": 133316,
+      "truncated": false,
+      "shape": {
+        "html_classes_present": [
+          "tgme_widget_message",
+          "tgme_widget_message_author",
+          "tgme_widget_message_bubble",
+          "tgme_widget_message_bubble_tail",
+          "tgme_widget_message_centered",
+          "tgme_widget_message_date",
+          "tgme_widget_message_footer",
+          "tgme_widget_message_info",
+          "tgme_widget_message_meta",
+          "tgme_widget_message_owner_name",
+          "tgme_widget_message_photo",
+          "tgme_widget_message_photo_wrap",
+          "tgme_widget_message_reactions",
+          "tgme_widget_message_text",
+          "tgme_widget_message_user",
+          "tgme_widget_message_user_photo",
+          "tgme_widget_message_views",
+          "tgme_widget_message_wrap"
+        ],
+        "time_datetime_present": true
+      },
+      "sample": {
+        "post_count": 20,
+        "timestamp_count": 20,
+        "last_timestamp": "2026-10-29T13:01:53+00:00",
+        "requested_channel_matched": true
+      },
+      "latency_ms": 1383.0,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Reddit",
+      "url": "https://www.reddit.com/r/CryptoCurrency/new.json?limit=3&raw_json=1",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:54Z",
+      "credentials_sent": false,
+      "status": 403,
+      "usable": false,
+      "rate_limit_headers": {
+        "Retry-After": "0"
+      },
+      "context": {
+        "purpose": "reddit"
+      },
+      "final_url": "https://www.reddit.com/r/CryptoCurrency/new.json?limit=3&raw_json=1",
+      "content_type": "text/html",
+      "server_date": "Fri, 30 Oct 2026 00:29:54 GMT",
+      "bytes_read": 189908,
+      "truncated": false,
+      "parse_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "latency_ms": 327.9,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/timelines/public?limit=3&local=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:54Z",
+      "credentials_sent": false,
+      "status": 422,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "299",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:30:00.967090Z"
+      },
+      "context": {
+        "purpose": "mastodon"
+      },
+      "final_url": "https://mastodon.social/api/v1/timelines/public?limit=3&local=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:55 GMT",
+      "bytes_read": 54,
+      "truncated": false,
+      "shape": {
+        "error": "str"
+      },
+      "sample": {
+        "statuses_count": 0,
+        "first_created_at": null
+      },
+      "latency_ms": 525.0,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Reddit",
+      "url": "https://www.reddit.com/r/CryptoCurrency/new.json?limit=3&raw_json=1",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:55Z",
+      "credentials_sent": false,
+      "status": 403,
+      "usable": false,
+      "rate_limit_headers": {
+        "Retry-After": "0"
+      },
+      "context": {
+        "purpose": "reddit"
+      },
+      "final_url": "https://www.reddit.com/r/CryptoCurrency/new.json?limit=3&raw_json=1",
+      "content_type": "text/html",
+      "server_date": "Fri, 30 Oct 2026 00:29:55 GMT",
+      "bytes_read": 189908,
+      "truncated": false,
+      "parse_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "latency_ms": 347.4,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/timelines/public?limit=3&local=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:55Z",
+      "credentials_sent": false,
+      "status": 422,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:30:00.046805Z",
+        "x-ratelimit-remaining": "298"
+      },
+      "context": {
+        "purpose": "mastodon"
+      },
+      "final_url": "https://mastodon.social/api/v1/timelines/public?limit=3&local=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:56 GMT",
+      "bytes_read": 54,
+      "truncated": false,
+      "shape": {
+        "error": "str"
+      },
+      "sample": {
+        "statuses_count": 0,
+        "first_created_at": null
+      },
+      "latency_ms": 326.7,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Coinbase Exchange",
+      "url": "https://api.exchange.coinbase.com/products/ETH-USD/candles?granularity=300",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:56Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "coinbase"
+      },
+      "final_url": "https://api.exchange.coinbase.com/products/ETH-USD/candles?granularity=300",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:56 GMT",
+      "bytes_read": 20025,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": {
+          "type": "array",
+          "first_item": "int"
+        }
+      },
+      "sample": {
+        "candles_count": 350,
+        "first_candle_timestamp": 1793319600,
+        "first_candle_field_count": 6
+      },
+      "latency_ms": 99.7,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Kraken",
+      "url": "https://api.kraken.com/0/public/OHLC?pair=ETHUSD&interval=5",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:56Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "kraken"
+      },
+      "final_url": "https://api.kraken.com/0/public/OHLC?pair=ETHUSD&interval=5",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:29:57 GMT",
+      "bytes_read": 58306,
+      "truncated": false,
+      "shape": {
+        "error": {
+          "type": "array",
+          "first_item": null
+        },
+        "result": {
+          "XETHZUSD": {
+            "type": "array",
+            "first_item": {
+              "type": "array",
+              "first_item": "int"
+            }
+          },
+          "last": "int"
+        }
+      },
+      "sample": {
+        "result_keys": [
+          "XETHZUSD",
+          "last"
+        ],
+        "candles_count": 721,
+        "first_candle_timestamp": 1793103900
+      },
+      "latency_ms": 358.4,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Binance market data",
+      "url": "https://data-api.binance.vision/api/v3/klines?symbol=ETHUSDT&interval=5m&limit=3",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:57Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-mbx-used-weight": "2",
+        "x-mbx-used-weight-1m": "2"
+      },
+      "context": {
+        "purpose": "binance"
+      },
+      "final_url": "https://data-api.binance.vision/api/v3/klines?symbol=ETHUSDT&interval=5m&limit=3",
+      "content_type": "application/json;charset=UTF-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:57 GMT",
+      "bytes_read": 529,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": {
+          "type": "array",
+          "first_item": "int"
+        }
+      },
+      "sample": {
+        "candles_count": 3,
+        "first_candle_timestamp": 1793319300000,
+        "first_candle_field_count": 12
+      },
+      "latency_ms": 222.8,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "CoinGecko",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_vol=true&include_last_updated_at=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:57Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "coingecko"
+      },
+      "final_url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_vol=true&include_last_updated_at=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:57 GMT",
+      "bytes_read": 174,
+      "truncated": false,
+      "shape": {
+        "bitcoin": {
+          "usd": "int",
+          "usd_24h_vol": "float",
+          "last_updated_at": "int"
+        },
+        "ethereum": {
+          "usd": "float",
+          "usd_24h_vol": "float",
+          "last_updated_at": "int"
+        }
+      },
+      "sample": {
+        "asset_count": 2
+      },
+      "latency_ms": 269.1,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Coinbase Exchange",
+      "url": "https://api.exchange.coinbase.com/products/ETH-USD/candles?granularity=300",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:58Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "coinbase"
+      },
+      "final_url": "https://api.exchange.coinbase.com/products/ETH-USD/candles?granularity=300",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:58 GMT",
+      "bytes_read": 20025,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": {
+          "type": "array",
+          "first_item": "int"
+        }
+      },
+      "sample": {
+        "candles_count": 350,
+        "first_candle_timestamp": 1793319600,
+        "first_candle_field_count": 6
+      },
+      "latency_ms": 93.6,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Kraken",
+      "url": "https://api.kraken.com/0/public/OHLC?pair=ETHUSD&interval=5",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:58Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "kraken"
+      },
+      "final_url": "https://api.kraken.com/0/public/OHLC?pair=ETHUSD&interval=5",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:29:58 GMT",
+      "bytes_read": 58306,
+      "truncated": false,
+      "shape": {
+        "error": {
+          "type": "array",
+          "first_item": null
+        },
+        "result": {
+          "XETHZUSD": {
+            "type": "array",
+            "first_item": {
+              "type": "array",
+              "first_item": "int"
+            }
+          },
+          "last": "int"
+        }
+      },
+      "sample": {
+        "result_keys": [
+          "XETHZUSD",
+          "last"
+        ],
+        "candles_count": 721,
+        "first_candle_timestamp": 1793103900
+      },
+      "latency_ms": 344.1,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Binance market data",
+      "url": "https://data-api.binance.vision/api/v3/klines?symbol=ETHUSDT&interval=5m&limit=3",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:58Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-mbx-used-weight": "4",
+        "x-mbx-used-weight-1m": "4"
+      },
+      "context": {
+        "purpose": "binance"
+      },
+      "final_url": "https://data-api.binance.vision/api/v3/klines?symbol=ETHUSDT&interval=5m&limit=3",
+      "content_type": "application/json;charset=UTF-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:59 GMT",
+      "bytes_read": 529,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": {
+          "type": "array",
+          "first_item": "int"
+        }
+      },
+      "sample": {
+        "candles_count": 3,
+        "first_candle_timestamp": 1793319300000,
+        "first_candle_field_count": 12
+      },
+      "latency_ms": 106.5,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "CoinGecko",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_vol=true&include_last_updated_at=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:29:59Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "coingecko"
+      },
+      "final_url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_vol=true&include_last_updated_at=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:29:59 GMT",
+      "bytes_read": 174,
+      "truncated": false,
+      "shape": {
+        "bitcoin": {
+          "usd": "int",
+          "usd_24h_vol": "float",
+          "last_updated_at": "int"
+        },
+        "ethereum": {
+          "usd": "float",
+          "usd_24h_vol": "float",
+          "last_updated_at": "int"
+        }
+      },
+      "sample": {
+        "asset_count": 2
+      },
+      "latency_ms": 78.9,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Ethereum PublicNode",
+      "url": "https://ethereum-rpc.publicnode.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:29:59Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_blockNumber",
+        "params": []
+      },
+      "final_url": "https://ethereum-rpc.publicnode.com",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:29:59 GMT",
+      "bytes_read": 46,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "result": "str",
+        "id": "int"
+      },
+      "sample": {
+        "block_number": 26301990
+      },
+      "latency_ms": 96.6,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Ethereum PublicNode",
+      "url": "https://ethereum-rpc.publicnode.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:29:59Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_blockNumber",
+        "params": []
+      },
+      "final_url": "https://ethereum-rpc.publicnode.com",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:29:59 GMT",
+      "bytes_read": 46,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "result": "str",
+        "id": "int"
+      },
+      "sample": {
+        "block_number": 26301990
+      },
+      "latency_ms": 86.4,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Ethereum PublicNode",
+      "url": "https://ethereum-rpc.publicnode.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:00Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_getLogs",
+        "params": [
+          {
+            "address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "topics": [
+              "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef"
+            ],
+            "fromBlock": "0x1915624",
+            "toBlock": "0x1915626"
+          }
+        ]
+      },
+      "final_url": "https://ethereum-rpc.publicnode.com",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:30:00 GMT",
+      "bytes_read": 116907,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "id": "int",
+        "result": {
+          "type": "array",
+          "first_item": {
+            "address": "str",
+            "topics": {
+              "type": "array",
+              "first_item": "str"
+            },
+            "data": "str",
+            "blockNumber": "str",
+            "transactionHash": "str",
+            "transactionIndex": "str",
+            "blockHash": "str",
+            "logIndex": "str",
+            "removed": "bool",
+            "blockTimestamp": "str"
+          }
+        }
+      },
+      "sample": {
+        "logs_count": 184,
+        "first_block_number": 26301988
+      },
+      "latency_ms": 524.4,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Ethereum PublicNode",
+      "url": "https://ethereum-rpc.publicnode.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:00Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_getLogs",
+        "params": [
+          {
+            "address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "topics": [
+              "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef"
+            ],
+            "fromBlock": "0x191561d",
+            "toBlock": "0x1915626"
+          }
+        ]
+      },
+      "final_url": "https://ethereum-rpc.publicnode.com",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:30:01 GMT",
+      "bytes_read": 500065,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "id": "int",
+        "result": {
+          "type": "array",
+          "first_item": {
+            "address": "str",
+            "topics": {
+              "type": "array",
+              "first_item": "str"
+            },
+            "data": "str",
+            "blockNumber": "str",
+            "transactionHash": "str",
+            "transactionIndex": "str",
+            "blockHash": "str",
+            "logIndex": "str",
+            "removed": "bool",
+            "blockTimestamp": "str"
+          }
+        }
+      },
+      "sample": {
+        "logs_count": 787,
+        "first_block_number": 26301981
+      },
+      "latency_ms": 797.4,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Ethereum Cloudflare",
+      "url": "https://cloudflare-eth.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:01Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_blockNumber",
+        "params": []
+      },
+      "final_url": "https://cloudflare-eth.com",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:30:02 GMT",
+      "bytes_read": 83,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "error": {
+          "code": "int",
+          "message": "str"
+        },
+        "id": "int"
+      },
+      "sample": {
+        "api_error": {
+          "code": -32046,
+          "message": "Cannot fulfill request"
+        },
+        "block_number": null
+      },
+      "latency_ms": 138.0,
+      "api_error": {
+        "code": -32046,
+        "message": "Cannot fulfill request"
+      },
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Ethereum Cloudflare",
+      "url": "https://cloudflare-eth.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:02Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_blockNumber",
+        "params": []
+      },
+      "final_url": "https://cloudflare-eth.com",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:30:02 GMT",
+      "bytes_read": 83,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "error": {
+          "code": "int",
+          "message": "str"
+        },
+        "id": "int"
+      },
+      "sample": {
+        "api_error": {
+          "code": -32046,
+          "message": "Cannot fulfill request"
+        },
+        "block_number": null
+      },
+      "latency_ms": 110.6,
+      "api_error": {
+        "code": -32046,
+        "message": "Cannot fulfill request"
+      },
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Ethereum Cloudflare",
+      "url": "https://cloudflare-eth.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:02Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_getLogs",
+        "params": [
+          {
+            "address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "topics": [
+              "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef"
+            ],
+            "fromBlock": "latest",
+            "toBlock": "latest"
+          }
+        ]
+      },
+      "final_url": "https://cloudflare-eth.com",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:30:02 GMT",
+      "bytes_read": 75,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "error": {
+          "code": "int",
+          "message": "str"
+        },
+        "id": "int"
+      },
+      "sample": {
+        "api_error": {
+          "code": -32603,
+          "message": "Internal error"
+        },
+        "logs_count": null,
+        "first_block_number": null
+      },
+      "latency_ms": 154.2,
+      "api_error": {
+        "code": -32603,
+        "message": "Internal error"
+      },
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Ethereum LlamaRPC",
+      "url": "https://eth.llamarpc.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:02Z",
+      "credentials_sent": false,
+      "status": 525,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_blockNumber",
+        "params": []
+      },
+      "final_url": "https://eth.llamarpc.com",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:03 GMT",
+      "bytes_read": 1237,
+      "truncated": false,
+      "shape": {
+        "type": "str",
+        "title": "str",
+        "status": "int",
+        "detail": "str",
+        "instance": "str",
+        "error_code": "int",
+        "error_name": "str",
+        "error_category": "str",
+        "ray_id": "str",
+        "timestamp": "str",
+        "zone": "str",
+        "cloudflare_error": "bool",
+        "retryable": "bool",
+        "owner_action_required": "bool",
+        "what_you_should_do": "str",
+        "footer": "str"
+      },
+      "sample": {
+        "block_number": null
+      },
+      "latency_ms": 588.0,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Ethereum LlamaRPC",
+      "url": "https://eth.llamarpc.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:03Z",
+      "credentials_sent": false,
+      "status": 525,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_blockNumber",
+        "params": []
+      },
+      "final_url": "https://eth.llamarpc.com",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:04 GMT",
+      "bytes_read": 1237,
+      "truncated": false,
+      "shape": {
+        "type": "str",
+        "title": "str",
+        "status": "int",
+        "detail": "str",
+        "instance": "str",
+        "error_code": "int",
+        "error_name": "str",
+        "error_category": "str",
+        "ray_id": "str",
+        "timestamp": "str",
+        "zone": "str",
+        "cloudflare_error": "bool",
+        "retryable": "bool",
+        "owner_action_required": "bool",
+        "what_you_should_do": "str",
+        "footer": "str"
+      },
+      "sample": {
+        "block_number": null
+      },
+      "latency_ms": 741.1,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Ethereum LlamaRPC",
+      "url": "https://eth.llamarpc.com",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:04Z",
+      "credentials_sent": false,
+      "status": 525,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_getLogs",
+        "params": [
+          {
+            "address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "topics": [
+              "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef"
+            ],
+            "fromBlock": "latest",
+            "toBlock": "latest"
+          }
+        ]
+      },
+      "final_url": "https://eth.llamarpc.com",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:05 GMT",
+      "bytes_read": 1237,
+      "truncated": false,
+      "shape": {
+        "type": "str",
+        "title": "str",
+        "status": "int",
+        "detail": "str",
+        "instance": "str",
+        "error_code": "int",
+        "error_name": "str",
+        "error_category": "str",
+        "ray_id": "str",
+        "timestamp": "str",
+        "zone": "str",
+        "cloudflare_error": "bool",
+        "retryable": "bool",
+        "owner_action_required": "bool",
+        "what_you_should_do": "str",
+        "footer": "str"
+      },
+      "sample": {
+        "logs_count": null,
+        "first_block_number": null
+      },
+      "latency_ms": 736.9,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Ethereum Ankr",
+      "url": "https://rpc.ankr.com/eth",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:05Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_blockNumber",
+        "params": []
+      },
+      "final_url": "https://rpc.ankr.com/eth",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:30:06 GMT",
+      "bytes_read": 229,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "error": {
+          "code": "int",
+          "message": "str"
+        },
+        "id": "NoneType"
+      },
+      "sample": {
+        "api_error": {
+          "code": -32000,
+          "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free."
+        },
+        "block_number": null
+      },
+      "latency_ms": 611.9,
+      "api_error": {
+        "code": -32000,
+        "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free."
+      },
+      "key_or_login_required": "required (server explicitly requested API key)"
+    },
+    {
+      "source": "Ethereum Ankr",
+      "url": "https://rpc.ankr.com/eth",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:06Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_blockNumber",
+        "params": []
+      },
+      "final_url": "https://rpc.ankr.com/eth",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:30:06 GMT",
+      "bytes_read": 229,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "error": {
+          "code": "int",
+          "message": "str"
+        },
+        "id": "NoneType"
+      },
+      "sample": {
+        "api_error": {
+          "code": -32000,
+          "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free."
+        },
+        "block_number": null
+      },
+      "latency_ms": 256.1,
+      "api_error": {
+        "code": -32000,
+        "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free."
+      },
+      "key_or_login_required": "required (server explicitly requested API key)"
+    },
+    {
+      "source": "Ethereum Ankr",
+      "url": "https://rpc.ankr.com/eth",
+      "method": "POST",
+      "utc": "2026-10-30T00:30:06Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "rpc_request": {
+        "jsonrpc": "2.0",
+        "id": 1,
+        "method": "eth_getLogs",
+        "params": [
+          {
+            "address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "topics": [
+              "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef"
+            ],
+            "fromBlock": "latest",
+            "toBlock": "latest"
+          }
+        ]
+      },
+      "final_url": "https://rpc.ankr.com/eth",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:30:07 GMT",
+      "bytes_read": 229,
+      "truncated": false,
+      "shape": {
+        "jsonrpc": "str",
+        "error": {
+          "code": "int",
+          "message": "str"
+        },
+        "id": "NoneType"
+      },
+      "sample": {
+        "api_error": {
+          "code": -32000,
+          "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free."
+        },
+        "logs_count": null,
+        "first_block_number": null
+      },
+      "latency_ms": 259.3,
+      "api_error": {
+        "code": -32000,
+        "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free."
+      },
+      "key_or_login_required": "required (server explicitly requested API key)"
+    },
+    {
+      "source": "CoinDesk RSS",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:07Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "final_url": "https://www.coindesk.com/arc/outboundfeeds/rss",
+      "content_type": "application/xml",
+      "server_date": "Fri, 30 Oct 2026 00:28:33 GMT",
+      "bytes_read": 30848,
+      "truncated": false,
+      "shape": {
+        "root": "rss",
+        "first_item_fields": [
+          "title",
+          "link",
+          "{http://search.yahoo.com/mrss/}content",
+          "guid",
+          "pubDate",
+          "description",
+          "{http://purl.org/dc/elements/1.1/}creator",
+          "{http://purl.org/rss/1.0/modules/content/}encoded",
+          "{http://purl.org/dc/elements/1.1/}description",
+          "category",
+          "category",
+          "category"
+        ]
+      },
+      "sample": {
+        "items_count": 25,
+        "first_item_dates": [
+          "Fri, 30 Oct 2026 00:17:10 +0000"
+        ]
+      },
+      "latency_ms": 229.7,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Cointelegraph RSS",
+      "url": "https://cointelegraph.com/rss",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:07Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "final_url": "https://cointelegraph.com/rss",
+      "content_type": "application/xml; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:07 GMT",
+      "bytes_read": 53156,
+      "truncated": false,
+      "shape": {
+        "root": "rss",
+        "first_item_fields": [
+          "title",
+          "pubDate",
+          "{http://www.w3.org/2005/Atom}updated",
+          "guid",
+          "link",
+          "description",
+          "{http://purl.org/dc/elements/1.1/}creator",
+          "{http://search.yahoo.com/mrss/}content",
+          "enclosure",
+          "category"
+        ]
+      },
+      "sample": {
+        "items_count": 30,
+        "first_item_dates": [
+          "Fri, 30 Oct 2026 00:11:26 +0000",
+          "Fri, 30 Oct 2026 00:25:19 +0000"
+        ]
+      },
+      "latency_ms": 118.5,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Decrypt RSS",
+      "url": "https://decrypt.co/feed",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:08Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "final_url": "https://decrypt.co/feed",
+      "content_type": "application/xml",
+      "server_date": "Fri, 30 Oct 2026 00:30:08 GMT",
+      "bytes_read": 41988,
+      "truncated": false,
+      "shape": {
+        "root": "rss",
+        "first_item_fields": [
+          "title",
+          "link",
+          "pubDate",
+          "description",
+          "{http://purl.org/dc/elements/1.1/}creator",
+          "guid",
+          "enclosure",
+          "category",
+          "category",
+          "category",
+          "{http://search.yahoo.com/mrss/}thumbnail"
+        ]
+      },
+      "sample": {
+        "items_count": 38,
+        "first_item_dates": [
+          "Thu, 29 Oct 2026 22:57:48 +0000"
+        ]
+      },
+      "latency_ms": 138.1,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "CoinDesk RSS",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:08Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "final_url": "https://www.coindesk.com/arc/outboundfeeds/rss",
+      "content_type": "application/xml",
+      "server_date": "Fri, 30 Oct 2026 00:28:33 GMT",
+      "bytes_read": 30848,
+      "truncated": false,
+      "shape": {
+        "root": "rss",
+        "first_item_fields": [
+          "title",
+          "link",
+          "{http://search.yahoo.com/mrss/}content",
+          "guid",
+          "pubDate",
+          "description",
+          "{http://purl.org/dc/elements/1.1/}creator",
+          "{http://purl.org/rss/1.0/modules/content/}encoded",
+          "{http://purl.org/dc/elements/1.1/}description",
+          "category",
+          "category",
+          "category"
+        ]
+      },
+      "sample": {
+        "items_count": 25,
+        "first_item_dates": [
+          "Fri, 30 Oct 2026 00:17:10 +0000"
+        ]
+      },
+      "latency_ms": 236.0,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Cointelegraph RSS",
+      "url": "https://cointelegraph.com/rss",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:08Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "final_url": "https://cointelegraph.com/rss",
+      "content_type": "application/xml; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:08 GMT",
+      "bytes_read": 53156,
+      "truncated": false,
+      "shape": {
+        "root": "rss",
+        "first_item_fields": [
+          "title",
+          "pubDate",
+          "{http://www.w3.org/2005/Atom}updated",
+          "guid",
+          "link",
+          "description",
+          "{http://purl.org/dc/elements/1.1/}creator",
+          "{http://search.yahoo.com/mrss/}content",
+          "enclosure",
+          "category"
+        ]
+      },
+      "sample": {
+        "items_count": 30,
+        "first_item_dates": [
+          "Fri, 30 Oct 2026 00:11:26 +0000",
+          "Fri, 30 Oct 2026 00:25:19 +0000"
+        ]
+      },
+      "latency_ms": 92.4,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Decrypt RSS",
+      "url": "https://decrypt.co/feed",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:09Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {},
+      "final_url": "https://decrypt.co/feed",
+      "content_type": "application/xml",
+      "server_date": "Fri, 30 Oct 2026 00:30:09 GMT",
+      "bytes_read": 41988,
+      "truncated": false,
+      "shape": {
+        "root": "rss",
+        "first_item_fields": [
+          "title",
+          "link",
+          "pubDate",
+          "description",
+          "{http://purl.org/dc/elements/1.1/}creator",
+          "guid",
+          "enclosure",
+          "category",
+          "category",
+          "category",
+          "{http://search.yahoo.com/mrss/}thumbnail"
+        ]
+      },
+      "sample": {
+        "items_count": 38,
+        "first_item_dates": [
+          "Thu, 29 Oct 2026 22:57:48 +0000"
+        ]
+      },
+      "latency_ms": 84.2,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=coindesk.com&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:09Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "coindesk.com"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=coindesk.com&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:09 GMT",
+      "bytes_read": 7958,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "chat": "dict",
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "external": "dict"
+                },
+                "facets": {
+                  "type": "array",
+                  "first_item": "dict"
+                },
+                "langs": {
+                  "type": "array",
+                  "first_item": "str"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "external": {
+                  "uri": "str",
+                  "title": "str",
+                  "description": "str",
+                  "thumb": "str"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 3,
+        "first_own_created_at": "2025-02-25T20:55:45.537Z"
+      },
+      "latency_ms": 226.0,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=decrypt.co&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:09Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "decrypt.co"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=decrypt.co&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:09 GMT",
+      "bytes_read": 5608,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "chat": "dict",
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "external": "dict"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "external": {
+                  "uri": "str",
+                  "title": "str",
+                  "description": "str",
+                  "thumb": "str"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 3,
+        "first_own_created_at": "2026-10-29T21:39:53.187Z"
+      },
+      "latency_ms": 194.2,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/lookup?acct=cointelegraph",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:10Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-remaining": "299",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.401136Z"
+      },
+      "context": {
+        "purpose": "mastodon_lookup",
+        "account": "cointelegraph"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/lookup?acct=cointelegraph",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:10 GMT",
+      "bytes_read": 995,
+      "truncated": false,
+      "shape": {
+        "id": "str",
+        "username": "str",
+        "acct": "str",
+        "display_name": "str",
+        "locked": "bool",
+        "bot": "bool",
+        "discoverable": "NoneType",
+        "indexable": "bool",
+        "group": "bool",
+        "created_at": "str",
+        "note": "str",
+        "url": "str",
+        "uri": "str",
+        "avatar": "str",
+        "avatar_static": "str",
+        "avatar_description": "str",
+        "header": "str",
+        "header_static": "str",
+        "header_description": "str",
+        "followers_count": "int",
+        "following_count": "int",
+        "statuses_count": "int",
+        "last_status_at": "NoneType",
+        "hide_collections": "NoneType",
+        "show_media": "bool",
+        "show_media_replies": "bool",
+        "show_featured": "bool",
+        "noindex": "bool",
+        "feature_approval": {
+          "automatic": {
+            "type": "array",
+            "first_item": null
+          },
+          "manual": {
+            "type": "array",
+            "first_item": null
+          },
+          "current_user": "str"
+        },
+        "emojis": {
+          "type": "array",
+          "first_item": null
+        },
+        "roles": {
+          "type": "array",
+          "first_item": null
+        },
+        "fields": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "id": "280129",
+        "acct": "cointelegraph",
+        "statuses_count": 1
+      },
+      "latency_ms": 343.3,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/280129/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:10Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-remaining": "298",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.946720Z"
+      },
+      "context": {
+        "purpose": "mastodon",
+        "account": "cointelegraph"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/280129/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:11 GMT",
+      "bytes_read": 2942,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": {
+          "id": "str",
+          "created_at": "str",
+          "in_reply_to_id": "NoneType",
+          "in_reply_to_account_id": "NoneType",
+          "sensitive": "bool",
+          "spoiler_text": "str",
+          "visibility": "str",
+          "language": "str",
+          "uri": "str",
+          "url": "str",
+          "replies_count": "int",
+          "reblogs_count": "int",
+          "favourites_count": "int",
+          "quotes_count": "int",
+          "edited_at": "NoneType",
+          "content": "str",
+          "reblog": "NoneType",
+          "application": {
+            "name": "str",
+            "website": "NoneType"
+          },
+          "account": {
+            "id": "str",
+            "username": "str",
+            "acct": "str",
+            "display_name": "str",
+            "locked": "bool",
+            "bot": "bool",
+            "discoverable": "NoneType",
+            "indexable": "bool",
+            "group": "bool",
+            "created_at": "str",
+            "note": "str",
+            "url": "str",
+            "uri": "str",
+            "avatar": "str",
+            "avatar_static": "str",
+            "avatar_description": "str",
+            "header": "str",
+            "header_static": "str",
+            "header_description": "str",
+            "followers_count": "int",
+            "following_count": "int",
+            "statuses_count": "int",
+            "last_status_at": "NoneType",
+            "hide_collections": "NoneType",
+            "show_media": "bool",
+            "show_media_replies": "bool",
+            "show_featured": "bool",
+            "noindex": "bool",
+            "feature_approval": {
+              "automatic": {
+                "type": "array",
+                "first_item": null
+              },
+              "manual": {
+                "type": "array",
+                "first_item": null
+              },
+              "current_user": "str"
+            },
+            "emojis": {
+              "type": "array",
+              "first_item": null
+            },
+            "roles": {
+              "type": "array",
+              "first_item": null
+            },
+            "fields": {
+              "type": "array",
+              "first_item": null
+            }
+          },
+          "media_attachments": {
+            "type": "array",
+            "first_item": null
+          },
+          "mentions": {
+            "type": "array",
+            "first_item": null
+          },
+          "tags": {
+            "type": "array",
+            "first_item": null
+          },
+          "emojis": {
+            "type": "array",
+            "first_item": null
+          },
+          "tagged_collections": {
+            "type": "array",
+            "first_item": null
+          },
+          "quote": "NoneType",
+          "card": {
+            "url": "str",
+            "title": "str",
+            "description": "str",
+            "language": "NoneType",
+            "type": "str",
+            "author_name": "str",
+            "author_url": "str",
+            "provider_name": "str",
+            "provider_url": "str",
+            "html": "str",
+            "width": "int",
+            "height": "int",
+            "image": "NoneType",
+            "image_description": "str",
+            "embed_url": "str",
+            "blurhash": "NoneType",
+            "published_at": "NoneType",
+            "authors": {
+              "type": "array",
+              "first_item": null
+            }
+          },
+          "poll": "NoneType",
+          "quote_approval": {
+            "automatic": {
+              "type": "array",
+              "first_item": null
+            },
+            "manual": {
+              "type": "array",
+              "first_item": null
+            },
+            "current_user": "str"
+          }
+        }
+      },
+      "sample": {
+        "statuses_count": 1,
+        "first_created_at": "2018-01-29T14:15:06.438Z"
+      },
+      "latency_ms": 355.5,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/lookup?acct=bitcoinmagazine",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:11Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "297",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.513707Z"
+      },
+      "context": {
+        "purpose": "mastodon_lookup",
+        "account": "bitcoinmagazine"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/lookup?acct=bitcoinmagazine",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:11 GMT",
+      "bytes_read": 930,
+      "truncated": false,
+      "shape": {
+        "id": "str",
+        "username": "str",
+        "acct": "str",
+        "display_name": "str",
+        "locked": "bool",
+        "bot": "bool",
+        "discoverable": "NoneType",
+        "indexable": "bool",
+        "group": "bool",
+        "created_at": "str",
+        "note": "str",
+        "url": "str",
+        "uri": "str",
+        "avatar": "str",
+        "avatar_static": "str",
+        "avatar_description": "str",
+        "header": "str",
+        "header_static": "str",
+        "header_description": "str",
+        "followers_count": "int",
+        "following_count": "int",
+        "statuses_count": "int",
+        "last_status_at": "NoneType",
+        "hide_collections": "NoneType",
+        "show_media": "bool",
+        "show_media_replies": "bool",
+        "show_featured": "bool",
+        "noindex": "bool",
+        "feature_approval": {
+          "automatic": {
+            "type": "array",
+            "first_item": null
+          },
+          "manual": {
+            "type": "array",
+            "first_item": null
+          },
+          "current_user": "str"
+        },
+        "emojis": {
+          "type": "array",
+          "first_item": null
+        },
+        "roles": {
+          "type": "array",
+          "first_item": null
+        },
+        "fields": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "id": "419188",
+        "acct": "BitcoinMagazine",
+        "statuses_count": 0
+      },
+      "latency_ms": 362.8,
+      "key_or_login_required": "not required for this response"
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/419188/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:11Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.082748Z",
+        "x-ratelimit-remaining": "296"
+      },
+      "context": {
+        "purpose": "mastodon",
+        "account": "bitcoinmagazine"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/419188/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:12 GMT",
+      "bytes_read": 2,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": null
+      },
+      "sample": {
+        "statuses_count": 0,
+        "first_created_at": null
+      },
+      "latency_ms": 358.9,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Telegram terms",
+      "url": "https://telegram.org/tos/content-licensing",
+      "method": "GET",
+      "utc": "2026-10-30T00:30:12Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "final_url": "https://telegram.org/tos/content-licensing",
+      "content_type": "text/html; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:30:13 GMT",
+      "bytes_read": 8333,
+      "truncated": false,
+      "shape": {
+        "html": true
+      },
+      "sample": {
+        "text_character_count": 2516
+      },
+      "latency_ms": 791.0,
+      "key_or_login_required": "undetermined from this response"
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=cointelegraph.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:37Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "cointelegraph.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=cointelegraph.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:38 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 2460,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "chat": "dict",
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "images": "list"
+                },
+                "facets": {
+                  "type": "array",
+                  "first_item": "dict"
+                },
+                "langs": {
+                  "type": "array",
+                  "first_item": "str"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "images": {
+                  "type": "array",
+                  "first_item": "dict"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": {
+                  "cid": "str",
+                  "cts": "str",
+                  "src": "str",
+                  "uri": "str",
+                  "val": "str",
+                  "ver": "int"
+                }
+              }
+            },
+            "reason": {
+              "by": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "uri": "str",
+              "cid": "str",
+              "indexedAt": "str",
+              "$type": "str"
+            }
+          }
+        }
+      },
+      "sample": {
+        "feed_count": 1,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 244.2
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=theblock.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:38Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "theblock.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=theblock.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:38 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 5925,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "external": "dict"
+                },
+                "langs": {
+                  "type": "array",
+                  "first_item": "str"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "external": {
+                  "uri": "str",
+                  "title": "str",
+                  "description": "str",
+                  "thumb": "str"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 3,
+        "first_own_created_at": "2025-11-06T17:26:15.985Z"
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 212.3
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=blockworks.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:38Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "blockworks.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=blockworks.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:38 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 11,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 186.6
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bitcoinmagazine.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:39Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "bitcoinmagazine.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bitcoinmagazine.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:39 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 5424,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "external": "dict"
+                },
+                "facets": {
+                  "type": "array",
+                  "first_item": "dict"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "external": {
+                  "uri": "str",
+                  "title": "str",
+                  "description": "str"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 3,
+        "first_own_created_at": "2023-05-23T04:03:28.382Z"
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 200.9
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=thedefiant.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:39Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "thedefiant.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=thedefiant.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:39 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 9853,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "chat": "dict",
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "langs": {
+                  "type": "array",
+                  "first_item": "str"
+                },
+                "text": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 2,
+        "first_own_created_at": "2024-10-17T15:48:57.354Z"
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 224.8
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bankless.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:39Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "bankless.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bankless.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:40 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 11,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 195.7
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=messari.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:40Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "messari.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=messari.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:40 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 11,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 243.5
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=unchainedcrypto.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:40Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "unchainedcrypto.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=unchainedcrypto.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:40 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 6715,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "external": "dict"
+                },
+                "langs": {
+                  "type": "array",
+                  "first_item": "str"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "external": {
+                  "uri": "str",
+                  "title": "str",
+                  "description": "str",
+                  "thumb": "str"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 3,
+        "first_own_created_at": "2024-03-29T13:45:59.971Z"
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 201.6
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=coinbase.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:41Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "coinbase.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=coinbase.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:41 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 11,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 197.3
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=krakenfx.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:41Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "krakenfx.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=krakenfx.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:41 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 11,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "feed_count": 0,
+        "own_posts_count": 0,
+        "first_own_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 184.6
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=theblock.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:41Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "theblock.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=theblock.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:41 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 5925,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "external": "dict"
+                },
+                "langs": {
+                  "type": "array",
+                  "first_item": "str"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "external": {
+                  "uri": "str",
+                  "title": "str",
+                  "description": "str",
+                  "thumb": "str"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 3,
+        "first_own_created_at": "2025-11-06T17:26:15.985Z"
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 69.5
+    },
+    {
+      "source": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bitcoinmagazine.bsky.social&limit=3&filter=posts_no_replies",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:42Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "feed",
+        "account": "bitcoinmagazine.bsky.social"
+      },
+      "final_url": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=bitcoinmagazine.bsky.social&limit=3&filter=posts_no_replies",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:42 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=30"
+      },
+      "bytes_read": 5424,
+      "truncated": false,
+      "shape": {
+        "feed": {
+          "type": "array",
+          "first_item": {
+            "post": {
+              "uri": "str",
+              "cid": "str",
+              "author": {
+                "did": "str",
+                "handle": "str",
+                "displayName": "str",
+                "avatar": "str",
+                "associated": {
+                  "activitySubscription": "dict"
+                },
+                "labels": {
+                  "type": "array",
+                  "first_item": null
+                },
+                "createdAt": "str"
+              },
+              "record": {
+                "$type": "str",
+                "createdAt": "str",
+                "embed": {
+                  "$type": "str",
+                  "external": "dict"
+                },
+                "facets": {
+                  "type": "array",
+                  "first_item": "dict"
+                },
+                "text": "str"
+              },
+              "embed": {
+                "external": {
+                  "uri": "str",
+                  "title": "str",
+                  "description": "str"
+                },
+                "$type": "str"
+              },
+              "bookmarkCount": "int",
+              "replyCount": "int",
+              "repostCount": "int",
+              "likeCount": "int",
+              "quoteCount": "int",
+              "indexedAt": "str",
+              "labels": {
+                "type": "array",
+                "first_item": null
+              }
+            }
+          }
+        },
+        "cursor": "str"
+      },
+      "sample": {
+        "feed_count": 3,
+        "own_posts_count": 3,
+        "first_own_created_at": "2023-05-23T04:03:28.382Z"
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 66.4
+    },
+    {
+      "source": "Coinbase Exchange",
+      "url": "https://api.exchange.coinbase.com/products/ETH-USD/candles?granularity=300",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:42Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "coinbase"
+      },
+      "final_url": "https://api.exchange.coinbase.com/products/ETH-USD/candles?granularity=300",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:42 GMT",
+      "cache_headers": {
+        "Cache-Control": "public, max-age=300, must-revalidate",
+        "Age": "103",
+        "cf-cache-status": "HIT"
+      },
+      "bytes_read": 20024,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": {
+          "type": "array",
+          "first_item": "int"
+        }
+      },
+      "sample": {
+        "candles_count": 350,
+        "first_candle_timestamp": 1793319900,
+        "first_candle_field_count": 6,
+        "newest_candle_timestamp": 1793319900,
+        "newest_candle_age_seconds": 403
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 79.2
+    },
+    {
+      "source": "Kraken",
+      "url": "https://api.kraken.com/0/public/OHLC?pair=ETHUSD&interval=5",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:42Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "kraken"
+      },
+      "final_url": "https://api.kraken.com/0/public/OHLC?pair=ETHUSD&interval=5",
+      "content_type": "application/json",
+      "server_date": "Fri, 30 Oct 2026 00:31:43 GMT",
+      "cache_headers": {
+        "CF-Cache-Status": "HIT",
+        "Cache-Control": "public, max-age=2"
+      },
+      "bytes_read": 58306,
+      "truncated": false,
+      "shape": {
+        "error": {
+          "type": "array",
+          "first_item": null
+        },
+        "result": {
+          "XETHZUSD": {
+            "type": "array",
+            "first_item": {
+              "type": "array",
+              "first_item": "int"
+            }
+          },
+          "last": "int"
+        }
+      },
+      "sample": {
+        "result_keys": [
+          "XETHZUSD",
+          "last"
+        ],
+        "candles_count": 721,
+        "first_candle_timestamp": 1793104200,
+        "newest_candle_timestamp": 1793320200,
+        "newest_candle_age_seconds": 103
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 344.3
+    },
+    {
+      "source": "Binance market data",
+      "url": "https://data-api.binance.vision/api/v3/klines?symbol=ETHUSDT&interval=5m&limit=3",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:43Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-mbx-used-weight": "2",
+        "x-mbx-used-weight-1m": "2"
+      },
+      "context": {
+        "purpose": "binance"
+      },
+      "final_url": "https://data-api.binance.vision/api/v3/klines?symbol=ETHUSDT&interval=5m&limit=3",
+      "content_type": "application/json;charset=UTF-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:43 GMT",
+      "cache_headers": {
+        "Cache-Control": "no-cache, no-store, must-revalidate"
+      },
+      "bytes_read": 526,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": {
+          "type": "array",
+          "first_item": "int"
+        }
+      },
+      "sample": {
+        "candles_count": 3,
+        "first_candle_timestamp": 1793319600000,
+        "first_candle_field_count": 12,
+        "newest_candle_timestamp": 1793320200000,
+        "newest_candle_age_seconds": 103
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 212.4
+    },
+    {
+      "source": "CoinGecko",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_vol=true&include_last_updated_at=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:43Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {},
+      "context": {
+        "purpose": "coingecko"
+      },
+      "final_url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_vol=true&include_last_updated_at=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:43 GMT",
+      "cache_headers": {
+        "Cache-Control": "max-age=30, public, must-revalidate, s-maxage=60",
+        "cf-cache-status": "EXPIRED"
+      },
+      "bytes_read": 174,
+      "truncated": false,
+      "shape": {
+        "bitcoin": {
+          "usd": "int",
+          "usd_24h_vol": "float",
+          "last_updated_at": "int"
+        },
+        "ethereum": {
+          "usd": "float",
+          "usd_24h_vol": "float",
+          "last_updated_at": "int"
+        }
+      },
+      "sample": {
+        "asset_count": 2,
+        "last_updated_at": 1793320290
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 283.7
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/timelines/public?limit=3&local=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:31:44Z",
+      "credentials_sent": false,
+      "status": 422,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "295",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.360334Z"
+      },
+      "context": {
+        "purpose": "mastodon"
+      },
+      "final_url": "https://mastodon.social/api/v1/timelines/public?limit=3&local=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:31:44 GMT",
+      "cache_headers": {
+        "cache-control": "private, no-store",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 54,
+      "truncated": false,
+      "shape": {
+        "error": "str"
+      },
+      "api_error": "This method requires an authenticated user",
+      "sample": {
+        "statuses_count": 0,
+        "first_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 349.7
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/lookup?acct=protos",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:05Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "294",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.355510Z"
+      },
+      "context": {
+        "purpose": "mastodon_lookup",
+        "account": "protos"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/lookup?acct=protos",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:05 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 922,
+      "truncated": false,
+      "shape": {
+        "id": "str",
+        "username": "str",
+        "acct": "str",
+        "display_name": "str",
+        "locked": "bool",
+        "bot": "bool",
+        "discoverable": "bool",
+        "indexable": "bool",
+        "group": "bool",
+        "created_at": "str",
+        "note": "str",
+        "url": "str",
+        "uri": "str",
+        "avatar": "str",
+        "avatar_static": "str",
+        "avatar_description": "str",
+        "header": "str",
+        "header_static": "str",
+        "header_description": "str",
+        "followers_count": "int",
+        "following_count": "int",
+        "statuses_count": "int",
+        "last_status_at": "str",
+        "hide_collections": "bool",
+        "show_media": "bool",
+        "show_media_replies": "bool",
+        "show_featured": "bool",
+        "noindex": "bool",
+        "feature_approval": {
+          "automatic": {
+            "type": "array",
+            "first_item": null
+          },
+          "manual": {
+            "type": "array",
+            "first_item": null
+          },
+          "current_user": "str"
+        },
+        "emojis": {
+          "type": "array",
+          "first_item": null
+        },
+        "roles": {
+          "type": "array",
+          "first_item": null
+        },
+        "fields": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "id": "108194299134124221",
+        "acct": "protos",
+        "statuses_count": 19
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 342.3
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/108194299134124221/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:05Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "293",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.883246Z"
+      },
+      "context": {
+        "purpose": "mastodon",
+        "account": "protos"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/108194299134124221/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:06 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 2,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": null
+      },
+      "sample": {
+        "statuses_count": 0,
+        "first_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 329.9
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/lookup?acct=coindesk",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:06Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-ratelimit-reset": "2026-10-30T00:35:00.487072Z",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-remaining": "292"
+      },
+      "context": {
+        "purpose": "mastodon_lookup",
+        "account": "coindesk"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/lookup?acct=coindesk",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:06 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 902,
+      "truncated": false,
+      "shape": {
+        "id": "str",
+        "username": "str",
+        "acct": "str",
+        "display_name": "str",
+        "locked": "bool",
+        "bot": "bool",
+        "discoverable": "NoneType",
+        "indexable": "bool",
+        "group": "bool",
+        "created_at": "str",
+        "note": "str",
+        "url": "str",
+        "uri": "str",
+        "avatar": "str",
+        "avatar_static": "str",
+        "avatar_description": "str",
+        "header": "str",
+        "header_static": "str",
+        "header_description": "str",
+        "followers_count": "int",
+        "following_count": "int",
+        "statuses_count": "int",
+        "last_status_at": "NoneType",
+        "hide_collections": "NoneType",
+        "show_media": "bool",
+        "show_media_replies": "bool",
+        "show_featured": "bool",
+        "noindex": "bool",
+        "feature_approval": {
+          "automatic": {
+            "type": "array",
+            "first_item": null
+          },
+          "manual": {
+            "type": "array",
+            "first_item": null
+          },
+          "current_user": "str"
+        },
+        "emojis": {
+          "type": "array",
+          "first_item": null
+        },
+        "roles": {
+          "type": "array",
+          "first_item": null
+        },
+        "fields": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "id": "406396",
+        "acct": "coindesk",
+        "statuses_count": 0
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 424.2
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/406396/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:06Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "291",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.030075Z",
+        "x-ratelimit-limit": "300"
+      },
+      "context": {
+        "purpose": "mastodon",
+        "account": "coindesk"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/406396/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:07 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 2,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": null
+      },
+      "sample": {
+        "statuses_count": 0,
+        "first_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 331.4
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/lookup?acct=decrypt",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:07Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "290",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.574279Z"
+      },
+      "context": {
+        "purpose": "mastodon_lookup",
+        "account": "decrypt"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/lookup?acct=decrypt",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:07 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 1193,
+      "truncated": false,
+      "shape": {
+        "id": "str",
+        "username": "str",
+        "acct": "str",
+        "display_name": "str",
+        "locked": "bool",
+        "bot": "bool",
+        "discoverable": "bool",
+        "indexable": "bool",
+        "group": "bool",
+        "created_at": "str",
+        "note": "str",
+        "url": "str",
+        "uri": "str",
+        "avatar": "str",
+        "avatar_static": "str",
+        "avatar_description": "str",
+        "header": "str",
+        "header_static": "str",
+        "header_description": "str",
+        "followers_count": "int",
+        "following_count": "int",
+        "statuses_count": "int",
+        "last_status_at": "str",
+        "hide_collections": "bool",
+        "show_media": "bool",
+        "show_media_replies": "bool",
+        "show_featured": "bool",
+        "noindex": "bool",
+        "feature_approval": {
+          "automatic": {
+            "type": "array",
+            "first_item": "str"
+          },
+          "manual": {
+            "type": "array",
+            "first_item": null
+          },
+          "current_user": "str"
+        },
+        "emojis": {
+          "type": "array",
+          "first_item": null
+        },
+        "roles": {
+          "type": "array",
+          "first_item": null
+        },
+        "fields": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "id": "109287325649504801",
+        "acct": "decrypt",
+        "statuses_count": 3
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 354.7
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/109287325649504801/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:07Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-remaining": "289",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.539411Z"
+      },
+      "context": {
+        "purpose": "mastodon",
+        "account": "decrypt"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/109287325649504801/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:08 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 10463,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": {
+          "id": "str",
+          "created_at": "str",
+          "in_reply_to_id": "NoneType",
+          "in_reply_to_account_id": "NoneType",
+          "sensitive": "bool",
+          "spoiler_text": "str",
+          "visibility": "str",
+          "language": "str",
+          "uri": "str",
+          "url": "str",
+          "replies_count": "int",
+          "reblogs_count": "int",
+          "favourites_count": "int",
+          "quotes_count": "int",
+          "edited_at": "NoneType",
+          "content": "str",
+          "reblog": "NoneType",
+          "application": {
+            "name": "str",
+            "website": "NoneType"
+          },
+          "account": {
+            "id": "str",
+            "username": "str",
+            "acct": "str",
+            "display_name": "str",
+            "locked": "bool",
+            "bot": "bool",
+            "discoverable": "bool",
+            "indexable": "bool",
+            "group": "bool",
+            "created_at": "str",
+            "note": "str",
+            "url": "str",
+            "uri": "str",
+            "avatar": "str",
+            "avatar_static": "str",
+            "avatar_description": "str",
+            "header": "str",
+            "header_static": "str",
+            "header_description": "str",
+            "followers_count": "int",
+            "following_count": "int",
+            "statuses_count": "int",
+            "last_status_at": "str",
+            "hide_collections": "bool",
+            "show_media": "bool",
+            "show_media_replies": "bool",
+            "show_featured": "bool",
+            "noindex": "bool",
+            "feature_approval": {
+              "automatic": {
+                "type": "array",
+                "first_item": "str"
+              },
+              "manual": {
+                "type": "array",
+                "first_item": null
+              },
+              "current_user": "str"
+            },
+            "emojis": {
+              "type": "array",
+              "first_item": null
+            },
+            "roles": {
+              "type": "array",
+              "first_item": null
+            },
+            "fields": {
+              "type": "array",
+              "first_item": null
+            }
+          },
+          "media_attachments": {
+            "type": "array",
+            "first_item": null
+          },
+          "mentions": {
+            "type": "array",
+            "first_item": null
+          },
+          "tags": {
+            "type": "array",
+            "first_item": {
+              "name": "str",
+              "url": "str"
+            }
+          },
+          "emojis": {
+            "type": "array",
+            "first_item": null
+          },
+          "tagged_collections": {
+            "type": "array",
+            "first_item": null
+          },
+          "quote": "NoneType",
+          "card": {
+            "url": "str",
+            "title": "str",
+            "description": "str",
+            "language": "str",
+            "type": "str",
+            "author_name": "str",
+            "author_url": "str",
+            "provider_name": "str",
+            "provider_url": "str",
+            "html": "str",
+            "width": "int",
+            "height": "int",
+            "image": "NoneType",
+            "image_description": "str",
+            "embed_url": "str",
+            "blurhash": "str",
+            "published_at": "NoneType",
+            "authors": {
+              "type": "array",
+              "first_item": {
+                "name": "str",
+                "url": "str",
+                "account": "NoneType"
+              }
+            }
+          },
+          "poll": "NoneType",
+          "quote_approval": {
+            "automatic": {
+              "type": "array",
+              "first_item": null
+            },
+            "manual": {
+              "type": "array",
+              "first_item": null
+            },
+            "current_user": "str"
+          }
+        }
+      },
+      "sample": {
+        "statuses_count": 3,
+        "first_created_at": "2022-11-04T22:57:23.402Z"
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 789.7
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/lookup?acct=blockworks",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:08Z",
+      "credentials_sent": false,
+      "status": 404,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "288",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.525082Z"
+      },
+      "context": {
+        "purpose": "mastodon_lookup",
+        "account": "blockworks"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/lookup?acct=blockworks",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:09 GMT",
+      "cache_headers": {
+        "cache-control": "private, no-store",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 28,
+      "truncated": false,
+      "shape": {
+        "error": "str"
+      },
+      "api_error": "Record not found",
+      "sample": {
+        "id": null,
+        "acct": null,
+        "statuses_count": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 728.4
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/lookup?acct=cryptoslate",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:09Z",
+      "credentials_sent": false,
+      "status": 404,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-reset": "2026-10-30T00:35:00.055888Z",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-remaining": "287"
+      },
+      "context": {
+        "purpose": "mastodon_lookup",
+        "account": "cryptoslate"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/lookup?acct=cryptoslate",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:10 GMT",
+      "cache_headers": {
+        "cache-control": "private, no-store",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 28,
+      "truncated": false,
+      "shape": {
+        "error": "str"
+      },
+      "api_error": "Record not found",
+      "sample": {
+        "id": null,
+        "acct": null,
+        "statuses_count": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 335.7
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/lookup?acct=cryptonews",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:10Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "286",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.579269Z"
+      },
+      "context": {
+        "purpose": "mastodon_lookup",
+        "account": "cryptonews"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/lookup?acct=cryptonews",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:10 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 910,
+      "truncated": false,
+      "shape": {
+        "id": "str",
+        "username": "str",
+        "acct": "str",
+        "display_name": "str",
+        "locked": "bool",
+        "bot": "bool",
+        "discoverable": "NoneType",
+        "indexable": "bool",
+        "group": "bool",
+        "created_at": "str",
+        "note": "str",
+        "url": "str",
+        "uri": "str",
+        "avatar": "str",
+        "avatar_static": "str",
+        "avatar_description": "str",
+        "header": "str",
+        "header_static": "str",
+        "header_description": "str",
+        "followers_count": "int",
+        "following_count": "int",
+        "statuses_count": "int",
+        "last_status_at": "NoneType",
+        "hide_collections": "NoneType",
+        "show_media": "bool",
+        "show_media_replies": "bool",
+        "show_featured": "bool",
+        "noindex": "bool",
+        "feature_approval": {
+          "automatic": {
+            "type": "array",
+            "first_item": null
+          },
+          "manual": {
+            "type": "array",
+            "first_item": null
+          },
+          "current_user": "str"
+        },
+        "emojis": {
+          "type": "array",
+          "first_item": null
+        },
+        "roles": {
+          "type": "array",
+          "first_item": null
+        },
+        "fields": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "id": "271000",
+        "acct": "cryptonews",
+        "statuses_count": 0
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 347.4
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/271000/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:10Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "285",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.140584Z"
+      },
+      "context": {
+        "purpose": "mastodon",
+        "account": "cryptonews"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/271000/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:11 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 2,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": null
+      },
+      "sample": {
+        "statuses_count": 0,
+        "first_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 349.0
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/lookup?acct=TheBlock",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:11Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": true,
+      "rate_limit_headers": {
+        "x-ratelimit-remaining": "284",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-reset": "2026-10-30T00:35:00.680645Z"
+      },
+      "context": {
+        "purpose": "mastodon_lookup",
+        "account": "TheBlock"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/lookup?acct=TheBlock",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:11 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 921,
+      "truncated": false,
+      "shape": {
+        "id": "str",
+        "username": "str",
+        "acct": "str",
+        "display_name": "str",
+        "locked": "bool",
+        "bot": "bool",
+        "discoverable": "bool",
+        "indexable": "bool",
+        "group": "bool",
+        "created_at": "str",
+        "note": "str",
+        "url": "str",
+        "uri": "str",
+        "avatar": "str",
+        "avatar_static": "str",
+        "avatar_description": "str",
+        "header": "str",
+        "header_static": "str",
+        "header_description": "str",
+        "followers_count": "int",
+        "following_count": "int",
+        "statuses_count": "int",
+        "last_status_at": "NoneType",
+        "hide_collections": "NoneType",
+        "show_media": "bool",
+        "show_media_replies": "bool",
+        "show_featured": "bool",
+        "noindex": "bool",
+        "feature_approval": {
+          "automatic": {
+            "type": "array",
+            "first_item": "str"
+          },
+          "manual": {
+            "type": "array",
+            "first_item": null
+          },
+          "current_user": "str"
+        },
+        "emojis": {
+          "type": "array",
+          "first_item": null
+        },
+        "roles": {
+          "type": "array",
+          "first_item": null
+        },
+        "fields": {
+          "type": "array",
+          "first_item": null
+        }
+      },
+      "sample": {
+        "id": "113695123223093208",
+        "acct": "Theblock",
+        "statuses_count": 0
+      },
+      "key_or_login_required": "not required for this response",
+      "latency_ms": 346.9
+    },
+    {
+      "source": "Mastodon",
+      "url": "https://mastodon.social/api/v1/accounts/113695123223093208/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "method": "GET",
+      "utc": "2026-10-30T00:33:12Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {
+        "x-ratelimit-reset": "2026-10-30T00:35:00.219044Z",
+        "x-ratelimit-limit": "300",
+        "x-ratelimit-remaining": "283"
+      },
+      "context": {
+        "purpose": "mastodon",
+        "account": "TheBlock"
+      },
+      "final_url": "https://mastodon.social/api/v1/accounts/113695123223093208/statuses?limit=3&exclude_reblogs=true&exclude_replies=true",
+      "content_type": "application/json; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:33:12 GMT",
+      "cache_headers": {
+        "cache-control": "max-age=15, public, stale-while-revalidate=30, stale-if-error=86400",
+        "Age": "0",
+        "X-Cache": "MISS, MISS, MISS"
+      },
+      "bytes_read": 2,
+      "truncated": false,
+      "shape": {
+        "type": "array",
+        "first_item": null
+      },
+      "sample": {
+        "statuses_count": 0,
+        "first_created_at": null
+      },
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 322.6
+    },
+    {
+      "source": "Telegram terms",
+      "url": "https://telegram.org/tos/content-licensing",
+      "method": "GET",
+      "utc": "2026-10-30T00:36:14Z",
+      "credentials_sent": false,
+      "status": 200,
+      "usable": false,
+      "rate_limit_headers": {},
+      "context": {},
+      "final_url": "https://telegram.org/tos/content-licensing",
+      "content_type": "text/html; charset=utf-8",
+      "server_date": "Fri, 30 Oct 2026 00:36:15 GMT",
+      "cache_headers": {
+        "Cache-control": "no-store"
+      },
+      "bytes_read": 8333,
+      "truncated": false,
+      "shape": {
+        "html": true
+      },
+      "sample": {
+        "text_character_count": 2516
+      },
+      "terms_quote": "For clarity, Telegram firmly prohibits the scraping, indexing, harvesting, aggregation or use of data obtained from its platform to train, fine-tune, validate or otherwise engage in the development, enhancement, benchmarking or deployment of artificial intelligence, machine learning models and similar technologies.",
+      "key_or_login_required": "undetermined from this response",
+      "latency_ms": 817.0
+    }
+  ]
+}
