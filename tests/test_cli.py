@@ -31,8 +31,9 @@ def recorded_run(tmp_path_factory):
 
 def test_cli_recordings_and_replay(recorded_run,capsys):
     out,code=recorded_run
-    # The recorded Coinbase TRX product returned 404, then Binance succeeded.
-    assert code==2
+    # The recorded Coinbase TRX product returned 404 (pair not listed), then Binance succeeded.
+    # An unlisted pair is not a source outage, so the run completes without degradation.
+    assert code==0
     snapshot=json.loads((out/'snapshot.json').read_text())
     record=json.loads((out/'record.json').read_text())
     assert record['counts']['posts']==434
@@ -100,7 +101,7 @@ def test_interrupted_commit_resumes_without_fetch(recorded_run,tmp_path,monkeypa
     def forbidden(*a,**k):
         raise AssertionError('resume should not fetch')
     monkeypatch.setattr(cli.Client,'fetch',forbidden)
-    assert cli.main(['run','--hours','48','--recordings',str(FIXTURES),'--out',str(target)])==2
+    assert cli.main(['run','--hours','48','--recordings',str(FIXTURES),'--out',str(target)])==0
     assert json.loads((target/'record.json').read_text())['decision_hash']==json.loads((out/'record.json').read_text())['decision_hash']
 
 

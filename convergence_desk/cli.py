@@ -136,7 +136,11 @@ def run(args):
                 bars.extend(batch.items); provenance.extend(batch.provenance); successes.append(source)
                 health(source,'healthy',f'{symbol}: {len(batch.items)} completed hourly bars')
             except Exception as error:
-                health(source,'down',f'{symbol}: {str(error)[:200]}')
+                # A 404 means the pair is not listed on this venue, not that the venue is down.
+                if 'HTTP 404' in str(error):
+                    health(source,'healthy',f'{symbol}: pair not listed on this venue (HTTP 404); fallback venue used')
+                else:
+                    health(source,'down',f'{symbol}: {str(error)[:200]}')
         if len(successes)<2:
             for source,adapter in (('binance',binance),('coingecko',coingecko)):
                 try:
