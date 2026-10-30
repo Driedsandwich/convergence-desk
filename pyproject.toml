@@ -1,0 +1,12 @@
+[project]
+name = "convergence-desk"
+version = "0.0.1"
+description = "Multi-voice narrative convergence agent that records practice positions with a repeatable reasoning trail."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+convergence-desk = "convergence_desk.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
