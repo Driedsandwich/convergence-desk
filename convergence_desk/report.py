@@ -220,6 +220,15 @@ def narrative_details(o):
     return "".join(parts)
 
 
+
+def threshold_text(t):
+    """One readable phrase for an intervention that flipped acceptance."""
+    if not isinstance(t, dict):
+        return str(t)
+    if t.get('rule') == 'drop_market_evidence':
+        return 'disabling market confirmation flips acceptance'
+    return f"{t.get('rule')} = {t.get('value')} flips acceptance"
+
 def render(snapshot, record):
     counts = record['counts']
     outcomes = sorted(record['outcomes'], key=narrative_order)
@@ -262,7 +271,7 @@ def render(snapshot, record):
     parts.append('<h3>Market-wide liquidity</h3><p>USDC/USDT mint, burn and large-transfer observations describe market-wide liquidity. They are not a buy/sell signal for any token and do not vote in its decision.</p><pre>'+esc(json.dumps(record['liquidity'],indent=2))+'</pre>')
     parts.append('<p>Coverage: '+esc(json.dumps(record['coverage']))+'</p></section>')
     parts.append('<section id="cause-and-effect"><h2>Cause and effect</h2><p>Each intervention reruns convergence, market checks and portfolio allocation. “Pivotal” means removing that voice flips acceptance. Convergence-only pivotal voices are shown separately. No listed flip means none in the tested steps, not proof of global insensitivity.</p>')
-    parts.append(table(['Candidate','Decision-pivotal voices','Convergence-pivotal voices','Thresholds that flip acceptance'],[(esc(c['token']+' '+c['direction']),esc(', '.join(c['pivotal_voices']) or 'none'),esc(', '.join(c['convergence_pivotal_voices']) or 'none'),esc(json.dumps(c['sensitive_thresholds']) if c['sensitive_thresholds'] else 'none in tested steps')) for c in record['counterfactuals']]))
+    parts.append(table(['Candidate','Decision-pivotal voices','Convergence-pivotal voices','Thresholds that flip acceptance'],[(esc(c['token']+' '+c['direction']),esc(', '.join(c['pivotal_voices']) or 'none'),esc(', '.join(c['convergence_pivotal_voices']) or 'none'),esc('; '.join(threshold_text(t) for t in c['sensitive_thresholds']) if c['sensitive_thresholds'] else 'none in tested steps')) for c in record['counterfactuals']]))
     parts.append('<details><summary>All intervention values and results</summary><pre>'+esc(json.dumps(record['counterfactuals'],indent=2))+'</pre></details></section>')
     parts.append('<section id="rejections"><h2>Rejection ledger</h2>')
     parts.append(table(['Token / direction','Failed rules (actual → required)'],[(esc(o['decision']['token']+' '+o['decision']['direction']),'<br>'.join(esc(f"{c['rule']}: {number(c['actual'])} → {number(c['expected'])}") for c in o['decision']['failed_rules'])) for o in record['outcomes'] if o['decision']['kind']=='rejection']))
