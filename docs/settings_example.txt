@@ -1,4 +1,0 @@
-# Optional settings. The agent runs without any keys by default.
-# CD_LLM_BASE_URL=
-# CD_LLM_API_KEY=
-# CD_LLM_MODEL=
