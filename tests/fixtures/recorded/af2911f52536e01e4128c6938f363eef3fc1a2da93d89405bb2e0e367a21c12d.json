@@ -1,0 +1,349 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:cryptoslate",
+  "endpoint": "https://cryptoslate.com/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:17.627716Z",
+  "original_response_sha256": "7d4a9b14574750f053dd031115870c0077036c180e920b23760bf94f7c47c4a9",
+  "body": "<rss><channel><item><title /><link>https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/</link><pubDate>Fri, 30 Oct 2026 00:40:53 +0000</pubDate><guid>https://cryptoslate.com/?p=579008</guid></item><item><title /><link>https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion/</link><pubDate>Thu, 29 Oct 2026 23:50:05 +0000</pubDate><guid>https://cryptoslate.com/?p=579073</guid></item><item><title /><link>https://cryptoslate.com/the-feds-rate-freeze-will-mean-nothing-unless-banks-fix-a-repo-market-bottleneck/</link><pubDate>Thu, 29 Oct 2026 23:20:53 +0000</pubDate><guid>https://cryptoslate.com/?p=578928</guid></item><item><title /><link>https://cryptoslate.com/bitcoin-whipsaws-below-79000-as-binance-hot-wallet-reportedly-drained-by-tornado-cash-linked-wallet/</link><pubDate>Thu, 29 Oct 2026 22:45:24 +0000</pubDate><guid>https://cryptoslate.com/?p=579067</guid></item><item><title /><link>https://cryptoslate.com/kalshis-senate-contracts-can-settle-on-different-answers-to-the-same-election/</link><pubDate>Thu, 29 Oct 2026 22:00:05 +0000</pubDate><guid>https://cryptoslate.com/?p=578452</guid></item><item><title /><link>https://cryptoslate.com/htx-exits-uk-leaving-customers-to-request-a-48-hour-withdrawal-window/</link><pubDate>Thu, 29 Oct 2026 21:00:26 +0000</pubDate><guid>https://cryptoslate.com/?p=578981</guid></item><item><title /><link>https://cryptoslate.com/nyse-owner-takes-tradexyz-stake-as-it-plans-us-hyperliquid-futures/</link><pubDate>Thu, 29 Oct 2026 20:00:22 +0000</pubDate><guid>https://cryptoslate.com/?p=578965</guid></item><item><title /><link>https://cryptoslate.com/aaves-midnight-usdc-withdrawals-briefly-left-lenders-with-little-spare-cash/</link><pubDate>Thu, 29 Oct 2026 19:00:42 +0000</pubDate><guid>https://cryptoslate.com/?p=578475</guid></item><item><title /><link>https://cryptoslate.com/crypto-investors-refuse-to-sell-xrp-etf-tokens-despite-a-25-price-crash/</link><pubDate>Thu, 29 Oct 2026 18:50:59 +0000</pubDate><guid>https://cryptoslate.com/?p=578925</guid></item><item><title /><link>https://cryptoslate.com/multicoin-wants-to-turn-ai-chips-into-collateral-for-cryptos-next-lending-boom/</link><pubDate>Thu, 29 Oct 2026 17:40:06 +0000</pubDate><guid>https://cryptoslate.com/?p=578401</guid></item></channel></rss>",
+  "post_features": {
+    "https://cryptoslate.com/multicoin-wants-to-turn-ai-chips-into-collateral-for-cryptos-next-lending-boom/": {
+      "features": [],
+      "content_sha256": "930ad97a0c1986e090c979516ee9d4d31fbddd3ef521a4adbdc4c4839b57b110",
+      "title_sha256": "0b39aa53206d396df9478e4b137bf6c7f4658beafaed3e0940ead17f2342961b"
+    },
+    "https://cryptoslate.com/crypto-investors-refuse-to-sell-xrp-etf-tokens-despite-a-25-price-crash/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bearish",
+          "sentiment": {
+            "fired": [
+              "sentiment:sell:-0.40",
+              "sentiment:crash:-0.40"
+            ],
+            "value": -0.8
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "e7cacbef46592219cea912364c208424556d027e0e9d6606945dc77c5fb9c60d",
+      "title_sha256": "c14205a5b2c03fe36b5c43f60b78a47a641834d2e8102b74cf687adab33b7d95"
+    },
+    "https://cryptoslate.com/aaves-midnight-usdc-withdrawals-briefly-left-lenders-with-little-spare-cash/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "084587d29a2a83b217fb023f61424222873d965f5a4720801aa926ff83f0e66a",
+      "title_sha256": "ac25bd3050bc15d81087cbf8898b54f7b9a8fff6aa9f124b0d49c63b24c90b2e"
+    },
+    "https://cryptoslate.com/nyse-owner-takes-tradexyz-stake-as-it-plans-us-hyperliquid-futures/": {
+      "features": [],
+      "content_sha256": "025c8c593ad3ee4065b039d0ddb29c4b035eb285fee55af8b221f1dd7c39a0bb",
+      "title_sha256": "03d3bf2af4fa596c1586330e4d942d56136e51c9d6075f2338e3c47a7be6f37f"
+    },
+    "https://cryptoslate.com/htx-exits-uk-leaving-customers-to-request-a-48-hour-withdrawal-window/": {
+      "features": [],
+      "content_sha256": "1b8049513a53aeb018ca33881b8e317b79a1ef40e7839ac36ae72a5a93390607",
+      "title_sha256": "337ebab15fa2fbd1430ec1f28ffd5b26caae55f73fda61abe8611bad1883ca5d"
+    },
+    "https://cryptoslate.com/kalshis-senate-contracts-can-settle-on-different-answers-to-the-same-election/": {
+      "features": [],
+      "content_sha256": "d7eadf84ba0cc1baf5fec4caf41aa2970dcfb1b98173a85d4295d2a7b2a2fc57",
+      "title_sha256": "8cf085748b453706927c71d5e9e3899f2d3652d9d935bbc713cd0e34fd3e560d"
+    },
+    "https://cryptoslate.com/bitcoin-whipsaws-below-79000-as-binance-hot-wallet-reportedly-drained-by-tornado-cash-linked-wallet/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "80fc96d9e978c713d4385e56f8a662f692e88da0ed58f082b40cb8ed1117d0c2",
+      "title_sha256": "b5d4584ee4f5f72d2c5015db63db04d262e6bacdf368f2eea63d841b9eda5b31"
+    },
+    "https://cryptoslate.com/the-feds-rate-freeze-will-mean-nothing-unless-banks-fix-a-repo-market-bottleneck/": {
+      "features": [],
+      "content_sha256": "c702e369b79727f8e51a12ae301e6315f0cb875897463cc445bfdc74136c4208",
+      "title_sha256": "3c8cd608ef6092178e9d9da9a5539a3945b0d38b3a5bf8a132319257c7a1f9a7"
+    },
+    "https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether",
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "d835cfef126f89e8da89f345400f7542b9fa48fbb8082c386088e40d3bd00670",
+      "title_sha256": "72abce97e1015b93a050a5d670ef2478dc2d1966d0a2c802b113d173c53f65ea"
+    },
+    "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "44661b65cd9a36e3559769ba2d0a97d4a5dbffbf48a2edcb8be8bbe22f0062a6",
+      "title_sha256": "4de8ab31a73b042f4d07e78e84d5554f56713ee528dd208616cac61746864a22"
+    }
+  }
+}

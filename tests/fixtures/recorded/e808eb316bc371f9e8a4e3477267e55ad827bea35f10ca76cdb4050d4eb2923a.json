@@ -1,0 +1,560 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:beincrypto",
+  "endpoint": "https://beincrypto.com/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:20.072065Z",
+  "original_response_sha256": "9bbda51750a0cdf9df0e23f29e968788a4e6fac7e116ebc6542dd29064f36fec",
+  "body": "<rss><channel><item><title /><link>https://beincrypto.com/microstrategy-record-profit-bitcoin-per-share-falls/</link><pubDate>Thu, 29 Oct 2026 21:57:27 +0000</pubDate><guid>https://beincrypto.com/?p=876232</guid></item><item><title /><link>https://beincrypto.com/binance-hack-circle-tether-freeze-hot-wallets/</link><pubDate>Thu, 29 Oct 2026 21:35:52 +0000</pubDate><guid>https://beincrypto.com/?p=876251</guid></item><item><title /><link>https://beincrypto.com/crypto-liquidations-binance-hack-fears/</link><pubDate>Thu, 29 Oct 2026 21:02:59 +0000</pubDate><guid>https://beincrypto.com/?p=876245</guid></item><item><title /><link>https://beincrypto.com/is-binance-being-hacked-customer-funds/</link><pubDate>Thu, 29 Oct 2026 20:49:22 +0000</pubDate><guid>https://beincrypto.com/?p=876238</guid></item><item><title /><link>https://beincrypto.com/coinbase-q3-profit-insider-share-sales/</link><pubDate>Thu, 29 Oct 2026 20:38:58 +0000</pubDate><guid>https://beincrypto.com/?p=876228</guid></item><item><title /><link>https://beincrypto.com/polymarket-halts-trading-users-drained/</link><pubDate>Thu, 29 Oct 2026 18:35:18 +0000</pubDate><guid>https://beincrypto.com/?p=876200</guid></item><item><title /><link>https://beincrypto.com/axis-robotics-token-crash-after-binance-listing/</link><pubDate>Thu, 29 Oct 2026 17:54:57 +0000</pubDate><guid>https://beincrypto.com/?p=876176</guid></item><item><title /><link>https://beincrypto.com/google-alphabet-stock-worst-post-earnings-drop/</link><pubDate>Thu, 29 Oct 2026 17:41:03 +0000</pubDate><guid>https://beincrypto.com/?p=876166</guid></item><item><title /><link>https://beincrypto.com/okx-marks-four-years-of-proof-of-reserves-with-36/</link><pubDate>Thu, 29 Oct 2026 17:22:12 +0000</pubDate><guid>https://beincrypto.com/?p=876188</guid></item><item><title /><link>https://beincrypto.com/kucoin-russia-belarus-exit-compliance/</link><pubDate>Thu, 29 Oct 2026 14:37:41 +0000</pubDate><guid>https://beincrypto.com/?p=876170</guid></item><item><title /><link>https://beincrypto.com/north-korea-crypto-cashout-mainstream-exchanges/</link><pubDate>Thu, 29 Oct 2026 13:27:48 +0000</pubDate><guid>https://beincrypto.com/?p=876051</guid></item><item><title /><link>https://beincrypto.com/bitrue-gives-new-futures-traders-100-usdt/</link><pubDate>Thu, 29 Oct 2026 13:26:45 +0000</pubDate><guid>https://beincrypto.com/?p=876160</guid></item></channel></rss>",
+  "post_features": {
+    "https://beincrypto.com/bitrue-gives-new-futures-traders-100-usdt/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "3fbaab1307f6a4bef959c9a6fa4aa02bf6ab8b1e8c87a4732166dcb11cb6fa7e",
+      "title_sha256": "0d68da88a361e27123ebfffd36d5fb7e3571bad80ade725da2e9c501db8cdd32"
+    },
+    "https://beincrypto.com/north-korea-crypto-cashout-mainstream-exchanges/": {
+      "features": [],
+      "content_sha256": "424b38b2f50b8bbb51d17db65ae958f79fcd31aec956a17d8d172aee914b5aaa",
+      "title_sha256": "f782c96827db24425f348cb8f882279139b3fcc65eea0c177ceb8e457cccd060"
+    },
+    "https://beincrypto.com/kucoin-russia-belarus-exit-compliance/": {
+      "features": [],
+      "content_sha256": "cfdbe10483ca223743b63e450e36dc48dc8799c6de42ca5ea1e945d889ba6dee",
+      "title_sha256": "92a2a1ae7a8d09bf3f7c1dffe4dd373183152b62f702d828acb1699cd7670296"
+    },
+    "https://beincrypto.com/okx-marks-four-years-of-proof-of-reserves-with-36/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum",
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether",
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "3de63fca9abc130a004506157258885db315d3bb3e3c47b6bca10fd9d3939a2c",
+      "title_sha256": "9eaec28896bdd41e65e0aab312d9dc380d8f44499d448834eb803d7fcf896c14"
+    },
+    "https://beincrypto.com/google-alphabet-stock-worst-post-earnings-drop/": {
+      "features": [],
+      "content_sha256": "65b995d50eb66f6e2a392af61ed403a6a6c83d8216c426c02e110493ebc9f7dd",
+      "title_sha256": "93d3e5ae507396a5cb87c43c0c8c39cd378e2aebfc16b8a935e86d6c81aae3d0"
+    },
+    "https://beincrypto.com/axis-robotics-token-crash-after-binance-listing/": {
+      "features": [],
+      "content_sha256": "868a272b139390330b268f8f0e2c9dd61d765f972e839378add323b0b4d164f3",
+      "title_sha256": "ed05715dc062c48c77a5d50051f8161f158dce6a2a9c30ba040eabbfc243e102"
+    },
+    "https://beincrypto.com/polymarket-halts-trading-users-drained/": {
+      "features": [],
+      "content_sha256": "9923524e0855bb487897ce30c9e6cbadc9c0a4a4c0b95cfe3b799f8c8ce5d9cc",
+      "title_sha256": "eb447805efe89f5169704829f9404e091c2564bde21653f3085eea9b3e40e360"
+    },
+    "https://beincrypto.com/coinbase-q3-profit-insider-share-sales/": {
+      "features": [],
+      "content_sha256": "f6596f6745f75f2ea89c1b7c8238129be6ac2445ff17a2073b8d49a9b9c4eeea",
+      "title_sha256": "1a4f36979c11b6865192d8661a21015f6043f32a07f1d8dced477f0999f11568"
+    },
+    "https://beincrypto.com/is-binance-being-hacked-customer-funds/": {
+      "features": [],
+      "content_sha256": "845af2ccf39f53efab06b608c141418b7db1a1c5e11a42688b26ddf651136e21",
+      "title_sha256": "1cd4e88c4edcc931c62e154ab9b74a7329fa73cdf012601cdc7f9cb3d23a7b60"
+    },
+    "https://beincrypto.com/crypto-liquidations-binance-hack-fears/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "bf4685d37a8a055fa3a7ae8072af30326e2a2becd3f065fddd7ef522455d59e1",
+      "title_sha256": "b0afca2df85d7ecd118a35e4fd64173c96e21b95604503b3d75bc7968d3e2c9a"
+    },
+    "https://beincrypto.com/binance-hack-circle-tether-freeze-hot-wallets/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "810802c855ad67a9788bdb5fae20b71d78284b664e80c38ed7d1d727240832ff",
+      "title_sha256": "4690a72edffe162d08f5163e0feb11a317a1e10154dacb328e1906360bc3843c"
+    },
+    "https://beincrypto.com/microstrategy-record-profit-bitcoin-per-share-falls/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "cbbac64f38123a62e39ae87bb9ee9a95d7d5f77e3c2bead1397f413db63063f6",
+      "title_sha256": "b83cce7fa41ced78ac35240fe4d52643a84a0cb9200a9e42a1592d9ae5af63a7"
+    }
+  }
+}

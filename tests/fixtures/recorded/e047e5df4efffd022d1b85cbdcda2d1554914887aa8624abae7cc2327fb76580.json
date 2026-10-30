@@ -1,0 +1,56 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:protos",
+  "endpoint": "https://protos.com/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:25.160936Z",
+  "original_response_sha256": "ca3e9b0465c5066324caf6a0efaa2fa589d57de0c26d65763d95e97f3992cae2",
+  "body": "<rss><channel><item><title /><link>https://protos.com/can-the-pivot-to-ai-save-crypto-miners/</link><pubDate>Thu, 29 Oct 2026 18:58:18 +0000</pubDate><guid>https://protos.com/?p=139379</guid></item><item><title /><link>https://protos.com/chinas-340b-ai-bubble-has-popped-and-the-charts-prove-it/</link><pubDate>Thu, 29 Oct 2026 18:02:47 +0000</pubDate><guid>https://protos.com/?p=139360</guid></item><item><title /><link>https://protos.com/justin-suns-htx-exits-uk-following-fca-court-order/</link><pubDate>Thu, 29 Oct 2026 14:35:30 +0000</pubDate><guid>https://protos.com/?p=139339</guid></item><item><title /><link>https://protos.com/ecb-president-christine-lagarde-to-step-down-nine-months-early/</link><pubDate>Thu, 29 Oct 2026 13:46:03 +0000</pubDate><guid>https://protos.com/?p=139332</guid></item><item><title /><link>https://protos.com/spacexs-biggest-stock-unlocks-are-still-ahead/</link><pubDate>Wed, 28 Oct 2026 18:58:59 +0000</pubDate><guid>https://protos.com/?p=139286</guid></item><item><title /><link>https://protos.com/coinbase-and-bithumb-users-hit-by-data-leaks/</link><pubDate>Wed, 28 Oct 2026 15:45:14 +0000</pubDate><guid>https://protos.com/?p=139251</guid></item><item><title /><link>https://protos.com/ai-stock-innodata-crashes-25-on-job-cuts-lost-contract/</link><pubDate>Wed, 28 Oct 2026 15:13:43 +0000</pubDate><guid>https://protos.com/?p=139229</guid></item><item><title /><link>https://protos.com/a16zs-crypto-predictions-aged-like-milk/</link><pubDate>Wed, 28 Oct 2026 13:52:15 +0000</pubDate><guid>https://protos.com/?p=139220</guid></item><item><title /><link>https://protos.com/anthropic-outranks-most-ipos-in-history/</link><pubDate>Tue, 27 Oct 2026 18:49:01 +0000</pubDate><guid>https://protos.com/?p=139201</guid></item><item><title /><link>https://protos.com/revolut-to-review-internal-systems-following-boe-order-report/</link><pubDate>Tue, 27 Oct 2026 16:53:43 +0000</pubDate><guid>https://protos.com/?p=139184</guid></item></channel></rss>",
+  "post_features": {
+    "https://protos.com/a16zs-crypto-predictions-aged-like-milk/": {
+      "features": [],
+      "content_sha256": "fb133b229e2f37f07e61f12f464e00d67302a279a48a0e2420107fd92dcd0253",
+      "title_sha256": "72ebc88e3d5d3ce9754817c736453ec396d563e022443e44505a4bf4259c32c5"
+    },
+    "https://protos.com/ai-stock-innodata-crashes-25-on-job-cuts-lost-contract/": {
+      "features": [],
+      "content_sha256": "f7b2a823a6f77091787fd3761e0a19d3a75ed8ac202981678495c23ff90183d1",
+      "title_sha256": "aed3c7b003c2082cc8d58bfebda7186c8dcf1aeadd05deceda7d7fa0dfd7a230"
+    },
+    "https://protos.com/coinbase-and-bithumb-users-hit-by-data-leaks/": {
+      "features": [],
+      "content_sha256": "dd1c64376dddb4c3bf52a30fb8842bf6254e5188f9954e1a3c0a0e56bdda8c74",
+      "title_sha256": "17d3b2a70bf8a1e74fdc0b4e69c13b189260a6c0b08494c646f328d4d69c8310"
+    },
+    "https://protos.com/spacexs-biggest-stock-unlocks-are-still-ahead/": {
+      "features": [],
+      "content_sha256": "f30c0f376d499241d720af87898187289f0e976a6b3c95167441775047f609d8",
+      "title_sha256": "98af0f41b8a34c1207b0b190a8581a9d05a9a99bccbf802b2b0149bc48f00237"
+    },
+    "https://protos.com/ecb-president-christine-lagarde-to-step-down-nine-months-early/": {
+      "features": [],
+      "content_sha256": "ae23644b9b945ae974079d7a865ba2bc4e012d3dd480982c895855d47ae66af8",
+      "title_sha256": "67280dd0dd1e2dc3beb979757b2659d4e7f8fe30d9c0829ab4ced33c679ca201"
+    },
+    "https://protos.com/justin-suns-htx-exits-uk-following-fca-court-order/": {
+      "features": [],
+      "content_sha256": "edb0e9e82146bfdf51af658863a498e79329fbe323b1084b9b6252b92d5b18a5",
+      "title_sha256": "7215b99e629137a1a06e90d30c1d0a9c15f0829b5e0f62a5ce20e9dbbfe9b87b"
+    },
+    "https://protos.com/chinas-340b-ai-bubble-has-popped-and-the-charts-prove-it/": {
+      "features": [],
+      "content_sha256": "2885f639ada57b2fec62d8de43a0a243f068cc8fe048937f63a80b16222039d1",
+      "title_sha256": "7f8da5137c5aad431f76b6b9781f5760e08f5fc38737924f1d64fda083397ff4"
+    },
+    "https://protos.com/can-the-pivot-to-ai-save-crypto-miners/": {
+      "features": [],
+      "content_sha256": "4151a81205bc825d76f3b375bf59187f383da089aad43b596b55be9dc3b7f73e",
+      "title_sha256": "e9a55335b830675e0b67603b08eda5593268afd0bce5c852eac7ea62c42edb52"
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:unchained",
+  "endpoint": "https://unchainedcrypto.com/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:23.165089Z",
+  "original_response_sha256": "8cd19c6f16c62eaef0d74301ce36f92d97681b644aeb093a1275188f3523f0c8",
+  "body": "<rss><channel><item><title /><link>https://unchainedcrypto.com/zklink-nova-goes-offline-after-hacker-steals-more-than-780000-from-its-bridge/</link><pubDate>Fri, 30 Oct 2026 00:10:00 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50344</guid></item><item><title /><link>https://unchainedcrypto.com/galaxys-alex-thorn-says-bitcoin-held-near-80000-because-hedge-funds-had-already-sold/</link><pubDate>Thu, 29 Oct 2026 23:40:00 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50333</guid></item><item><title /><link>https://unchainedcrypto.com/coinbase-files-to-keep-operating-under-brazils-new-crypto-rules/</link><pubDate>Thu, 29 Oct 2026 23:10:00 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50328</guid></item><item><title /><link>https://unchainedcrypto.com/stan-druckenmiller-confirms-trade-xyz-stake-says-he-plans-to-use-its-hyperliquid-perps/</link><pubDate>Thu, 29 Oct 2026 22:40:00 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50322</guid></item><item><title /><link>https://unchainedcrypto.com/kain-warwick-says-anthropic-tried-to-invent-a-dao-with-its-founder-voting-bloc/</link><pubDate>Thu, 29 Oct 2026 22:10:00 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50320</guid></item><item><title /><link>https://unchainedcrypto.com/binance-says-user-funds-are-completely-safe-after-3-5-billion-drains-from-its-hot-wallets/</link><pubDate>Thu, 29 Oct 2026 21:44:17 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50359</guid></item><item><title /><link>https://unchainedcrypto.com/singapore-police-link-s3-5-million-in-losses-to-ledger-wallets-bought-from-local-stores/</link><pubDate>Thu, 29 Oct 2026 21:40:00 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50315</guid></item><item><title /><link>https://unchainedcrypto.com/htx-gives-the-high-court-a-five-year-pledge-on-uk-crypto-promotions-as-fca-case-settles/</link><pubDate>Thu, 29 Oct 2026 21:10:00 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50313</guid></item><item><title /><link>https://unchainedcrypto.com/westpac-to-limit-how-much-customers-can-send-to-crypto-exchanges-with-no-exceptions/</link><pubDate>Thu, 29 Oct 2026 20:40:00 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50309</guid></item><item><title /><link>https://unchainedcrypto.com/polymarket-resumes-trading-vows-to-reimburse-traders-after-third-party-provider-compromise/</link><pubDate>Thu, 29 Oct 2026 20:09:05 +0000</pubDate><guid>https://unchainedcrypto.com/?p=50311</guid></item></channel></rss>",
+  "post_features": {
+    "https://unchainedcrypto.com/polymarket-resumes-trading-vows-to-reimburse-traders-after-third-party-provider-compromise/": {
+      "features": [],
+      "content_sha256": "81c392b682506b22e91404fd3c98c2f4c21f8f3ea76bc8217e58aa909ae26fe8",
+      "title_sha256": "728cbcd735eea273fb071e866ff97017670630daebb45a8b5a13c836a01c89b1"
+    },
+    "https://unchainedcrypto.com/westpac-to-limit-how-much-customers-can-send-to-crypto-exchanges-with-no-exceptions/": {
+      "features": [],
+      "content_sha256": "6a04079f0013657769e9a82531830c09b5fe50b81955419ec0cc4d77d9d0ae2e",
+      "title_sha256": "364bb759291bd94d4fa4641cdf2011e8a3505c4335d005c361f357a1968a7083"
+    },
+    "https://unchainedcrypto.com/htx-gives-the-high-court-a-five-year-pledge-on-uk-crypto-promotions-as-fca-case-settles/": {
+      "features": [],
+      "content_sha256": "c97623dc44a10f7354d83939218f2de7bec03506155e68693058c2689511c9be",
+      "title_sha256": "a232abc31e2b51ee367f1dd140248231272226992eb79c1a63687b58473dba98"
+    },
+    "https://unchainedcrypto.com/singapore-police-link-s3-5-million-in-losses-to-ledger-wallets-bought-from-local-stores/": {
+      "features": [],
+      "content_sha256": "39d2bbc44269a48acd38dd91ed44f1898314586e93aee2880ab239da495442e1",
+      "title_sha256": "86d82d36fb3312719c6c8d3588472988808d67e86c3ece8994b4da28f8aaf03c"
+    },
+    "https://unchainedcrypto.com/binance-says-user-funds-are-completely-safe-after-3-5-billion-drains-from-its-hot-wallets/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "d2b94fd160742c5a34d4633ae2ee85bf1d179ac4645ec0611344f1ef537dcd6e",
+      "title_sha256": "1588b49902732c081e1b676d75cf695f579dc4a7253064655649a6497df6cd91"
+    },
+    "https://unchainedcrypto.com/kain-warwick-says-anthropic-tried-to-invent-a-dao-with-its-founder-voting-bloc/": {
+      "features": [],
+      "content_sha256": "fa035f889ab5b374f3626f0572e32e715090a26951ef8442cfbc3b8fd88938f9",
+      "title_sha256": "29e1d90136f2bb6f7313287c4a6a5147277061ce11625ad1fc3aac0f6390cb7f"
+    },
+    "https://unchainedcrypto.com/stan-druckenmiller-confirms-trade-xyz-stake-says-he-plans-to-use-its-hyperliquid-perps/": {
+      "features": [],
+      "content_sha256": "7557288e1cbe3452c2d5569d6789303a12a940095a78fd119e9fda700a418cc4",
+      "title_sha256": "9b9ddb32d072b95303ca07472418b76b01c16ba912eb43de60d54f4f047e3051"
+    },
+    "https://unchainedcrypto.com/coinbase-files-to-keep-operating-under-brazils-new-crypto-rules/": {
+      "features": [],
+      "content_sha256": "da3253c86b60035c6f716061102d3b0b9785e39552cff57064f6c8550a6104e6",
+      "title_sha256": "08fc250a784a34b63ea597fd68cae576e62644a0e4c1dcfed48db9d5690dc918"
+    },
+    "https://unchainedcrypto.com/galaxys-alex-thorn-says-bitcoin-held-near-80000-because-hedge-funds-had-already-sold/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "217b6d908f57de6e459de8fe1fc4008037fee1ab25ef96160535ad49597b08bb",
+      "title_sha256": "f1b4e250e4a85fc798b2e2f118758743e378e14d4bd61ce617d7f33d851f65a3"
+    },
+    "https://unchainedcrypto.com/zklink-nova-goes-offline-after-hacker-steals-more-than-780000-from-its-bridge/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "f90874b10b996379c8dacfb2f6e339147ecf8c304ee4e410046797f4257c1884",
+      "title_sha256": "b27b2ff2e8d5e72217ec3c2fa67c45ce9e1b77a85371f88136c818684eb36fd7"
+    }
+  }
+}

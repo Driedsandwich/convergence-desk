@@ -1,0 +1,956 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:cointelegraph",
+  "endpoint": "https://cointelegraph.com/rss",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/xml; charset=utf-8"
+  },
+  "fetch_time": "2026-10-30T00:48:14.834483Z",
+  "original_response_sha256": "0b4db035c658e58d09fc5c2bc6b191f28c8b7e9ac61d81eea7da725feadfbe9c",
+  "body": "<rss><channel><item><title /><pubDate>Fri, 30 Oct 2026 00:11:26 +0000</pubDate><pubDate>Fri, 30 Oct 2026 00:27:28 +0000</pubDate><link>https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo</link><guid>https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 23:24:21 +0000</pubDate><pubDate>Thu, 29 Oct 2026 23:27:53 +0000</pubDate><link>https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide</link><guid>https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 22:31:07 +0000</pubDate><pubDate>Thu, 29 Oct 2026 22:40:18 +0000</pubDate><link>https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express</link><guid>https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 21:24:36 +0000</pubDate><pubDate>Fri, 30 Oct 2026 00:40:20 +0000</pubDate><link>https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns</link><guid>https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 19:58:57 +0000</pubDate><pubDate>Thu, 29 Oct 2026 20:03:30 +0000</pubDate><link>https://cointelegraph.com/news/what-happened-in-crypto-today</link><guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 19:53:14 +0000</pubDate><pubDate>Thu, 29 Oct 2026 19:57:29 +0000</pubDate><link>https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report</link><guid>https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 19:23:03 +0000</pubDate><pubDate>Thu, 29 Oct 2026 21:26:21 +0000</pubDate><link>https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised</link><guid>https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 17:12:03 +0000</pubDate><pubDate>Thu, 29 Oct 2026 17:26:37 +0000</pubDate><link>https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps</link><guid>https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 17:08:41 +0000</pubDate><pubDate>Thu, 29 Oct 2026 17:11:42 +0000</pubDate><link>https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended</link><guid>https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 16:27:39 +0000</pubDate><pubDate>Thu, 29 Oct 2026 16:32:17 +0000</pubDate><link>https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026</link><guid>https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 15:52:43 +0000</pubDate><pubDate>Thu, 29 Oct 2026 15:59:14 +0000</pubDate><link>https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b</link><guid>https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 15:39:54 +0000</pubDate><pubDate>Thu, 29 Oct 2026 15:44:51 +0000</pubDate><link>https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data</link><guid>https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 15:00:02 +0000</pubDate><pubDate>Thu, 29 Oct 2026 15:07:05 +0000</pubDate><link>https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data</link><guid>https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 14:27:46 +0000</pubDate><pubDate>Thu, 29 Oct 2026 14:32:57 +0000</pubDate><link>https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing</link><guid>https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate><pubDate>Thu, 29 Oct 2026 11:12:37 +0000</pubDate><link>https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard</link><guid>https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate><pubDate>Thu, 29 Oct 2026 12:52:16 +0000</pubDate><link>https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty</link><guid>https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate><pubDate>Wed, 28 Oct 2026 22:12:29 +0000</pubDate><link>https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron</link><guid>https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate><pubDate>Thu, 29 Oct 2026 03:37:35 +0000</pubDate><link>https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana</link><guid>https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 12:38:03 +0000</pubDate><pubDate>Thu, 29 Oct 2026 13:18:43 +0000</pubDate><link>https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions</link><guid>https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 12:30:00 +0000</pubDate><pubDate>Thu, 29 Oct 2026 10:27:37 +0000</pubDate><link>https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches</link><guid>https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 12:20:27 +0000</pubDate><pubDate>Thu, 29 Oct 2026 13:49:09 +0000</pubDate><link>https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca</link><guid>https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate><pubDate>Thu, 29 Oct 2026 11:06:49 +0000</pubDate><link>https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth</link><guid>https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate><pubDate>Thu, 29 Oct 2026 08:02:34 +0000</pubDate><link>https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected</link><guid>https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate><pubDate>Thu, 29 Oct 2026 05:07:01 +0000</pubDate><link>https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says</link><guid>https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 10:46:43 +0000</pubDate><pubDate>Thu, 29 Oct 2026 10:54:43 +0000</pubDate><link>https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k</link><guid>https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 10:33:00 +0000</pubDate><pubDate>Thu, 29 Oct 2026 13:18:58 +0000</pubDate><link>https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027</link><guid>https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 07:32:20 +0000</pubDate><pubDate>Thu, 29 Oct 2026 07:35:44 +0000</pubDate><link>https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green</link><guid>https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 04:39:49 +0000</pubDate><pubDate>Thu, 29 Oct 2026 04:46:53 +0000</pubDate><link>https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future</link><guid>https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 03:16:32 +0000</pubDate><pubDate>Thu, 29 Oct 2026 13:04:59 +0000</pubDate><link>https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police</link><guid>https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item><item><title /><pubDate>Thu, 29 Oct 2026 01:12:01 +0000</pubDate><pubDate>Thu, 29 Oct 2026 01:39:54 +0000</pubDate><link>https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts</link><guid>https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid></item></channel></rss>",
+  "post_features": {
+    "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "813f60134aaa909cb0b86b6f49df8ac7c249b22180a6bc07c493dc283c3ff51e",
+      "title_sha256": "f82d36c528aa8ca265109da2e3b684b38c3f74fb12b4af1ff52b084be7eb1737"
+    },
+    "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "4fcaddb184e379aa484caafc37f0a8d637e1ce2b02d8c69d5349ee93046bf25e",
+      "title_sha256": "07cc1c2541e9e605492610958e2c6c5b0c9c05f3305039288e55ece7bb68731e"
+    },
+    "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "e488002cef87d1647896b06dc216eea0731844f87b91bbb1579d0eebf994b4b2",
+      "title_sha256": "93e5cbf63ecb826518de39772a12d685e398201dd5db10317610b37257fc7c93"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "1c0d0bcfb13993b1035889697becb476ea857da95ed0c4a8932da943797c2c68",
+      "title_sha256": "202d8a59b6ed092c61d6fa6eb0bc175aeb8e1620bdad759a0a0ea099881a2147"
+    },
+    "https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "82d8e86197093375a085e31b6a644e3b8627c9d55372b5060c518cc3bdee1af8",
+      "title_sha256": "ac7326e53aad0ca26283fe0ee5d7795d7cc8f26e84cc7d82ec633fbe9b387781"
+    },
+    "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:long:+0.40",
+              "sentiment:selling:-0.40"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:long:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "bea3c6bc73e5d1afcc6abdc0950c087a4a95d20a8ae7da5106f660841d5de3ed",
+      "title_sha256": "94f527d655cd4bc33980f828188c95bef85d1ad19473d52deb3e0828f0a92322"
+    },
+    "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "95c0edbea5f9b12668e2f7ab1eadf9a7f327bf5cc1916a5f63108cfae694517f",
+      "title_sha256": "504dda5e2cc997d51f3bb286b4c1604cb5c27942c7f7dd02fa396535b6f16042"
+    },
+    "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "4c7e9cef41ddca9ba8aca4e5215f30df5e8161fd2c9ff85a56a06505778239ba",
+      "title_sha256": "58f631fbe46da3ae68d2a2e37ab0b4dcc9cf86519af54f25ebdd4753226779db"
+    },
+    "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "13bbb3294a35f1462b610678e6cbe967203336a93fbb1a31be289d98fd8dc8c6",
+      "title_sha256": "120bbabd55415c9809f499b0f71b99f22a1a19b5f5b375551bb613cd618f5d30"
+    },
+    "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "7d3f44ca753713c612942ec00ec7b4ad9946bac4c1318f609b61a52ecb86273c",
+      "title_sha256": "ec7f829310d5491c3606e8d7daa56a6aae6e453e5365b6dc54c3602ccf671fcc"
+    },
+    "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "281b4a3d7f7b1860dd2d6b7b2432ca681599da4f11857dd0d73a3eea5e7178b4",
+      "title_sha256": "8ad337b8f2169cf8bdafec53da81cc055f2003919e88eb151deedc37ab1c0c39"
+    },
+    "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "4604fae24ff1bdccbb95b7f4f8e5c0d0f641fd4cfda3699228c86df21788c069",
+      "title_sha256": "388e7780437f4c3e82f058a3990bd197c679fea76ffc377f3730b13ad40b2e10"
+    },
+    "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "MATIC",
+          "token_rules": [
+            "name:polygon"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "TRX",
+          "token_rules": [
+            "name:tron"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "MATIC",
+          "token_rules": [
+            "name:polygon"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "TRX",
+          "token_rules": [
+            "name:tron"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "147ebd6f1d6fc4f6ddc2fa6fa123f82d09be43a56b4fc1d22f490bcf636904f9",
+      "title_sha256": "2aad41854fdce0ac6c2c9e8fc47df2b6968d0e764a5c97e6123666138cb6cd22"
+    },
+    "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "TRX",
+          "token_rules": [
+            "name:tron"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "TRX",
+          "token_rules": [
+            "name:tron"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "96fc3bc0f1177f20f90297516b95a6dd7f637b975485cdef622c20e9ff40dad0",
+      "title_sha256": "9075f517e2eecceb7ca8d2f1e24707e74a66482abcafc71bdeeb01a89427ac3e"
+    },
+    "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "74e372fc77721ecd007b1dc2d0ae6041724f70616e7d3069b9616121670f92c4",
+      "title_sha256": "ee843caa6d3b20e4042afba36a9e9c955aeb61def1c4d155006adbeed757bc8b"
+    },
+    "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "6fe6af937be586616bbf51b0d2ea1d21d990767413b4acc36d48ab8fbad1d3ce",
+      "title_sha256": "9f85e508d2e74940b5fce467984f0791e808519a974ea3d7da9c2b4cffb81925"
+    },
+    "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "e598559201fa3f5bdccf7a756758d2e5d28badaac80200b0952ba2045b074132",
+      "title_sha256": "e737c5613f274ce58a50334d7ddd0a7b323c70ccf867b874da8eb19c8380caa2"
+    },
+    "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "4d762d90eda6c33c9b73ed4cb154e75522f6e82787b391600a0aff2fc1327d17",
+      "title_sha256": "c37857a19dc2aea795baefbee06fb4e57e973ebf3e777ba8cc0c78d2eb3576bb"
+    },
+    "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "51ed1175e1e6ff02f2b0583a3877260eefcf9b927ec5e023556bfe4b910209a2",
+      "title_sha256": "ea7ac8b1d7c7cda5346f2f18eed8ca0c180a23063d1b60c9699970d25214ff80"
+    },
+    "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "25442c8e31bb0e630976515b8aedf1c1cb85d0ea8026183d2f138ab8a1242756",
+      "title_sha256": "f054e34337d59e0d89bcc0214dfd9cdfef835fd339dcf7a0330cfa412db0621e"
+    },
+    "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "cf05817ef71129b976c4034c2e411f27868ef835eb31e18de96ec6f8e2a5a75c",
+      "title_sha256": "eb8200525f63e36e4fc7544c29fc6429ea1d34d5c18feb7c4c597a6f87cceb95"
+    },
+    "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "d720eac5331643c2b14c39fbf1dfb147497679f1628787aa65b2859380561470",
+      "title_sha256": "73a58bb5ddeac9c3bb4bdf7d6c4ec81097e51bc3fb1ca96e89adda127c3ea24d"
+    },
+    "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "f2e8cff6c31d8194339e99974711a1ef54006498feb3e631ab84f199eadf6494",
+      "title_sha256": "4e3f0165a71cd178a280dfd3286231395e4fe82d3b48c8db077c1a05657b47ab"
+    },
+    "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "5b598c6d81f21e5d9d58d547b20477d6a573971a2025a09b2ec180ce22616cf7",
+      "title_sha256": "c9a812b5317582a26f8a0deeb3ab5bf1279c679f9dddf780a9c0ba98b704c5c2"
+    },
+    "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "08eeb96213cbe69e47116ca5e7f7a763f93a6b426cc39e3b2f208f5d96e361ee",
+      "title_sha256": "4835dd9bbe5d477da3f31834419fa054b504f0a40cc810f2a612e28ab500d12a"
+    },
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "b4237ec3663a4217bb53df757c8a4574713e35960d260fca2a5d2162724feef5",
+      "title_sha256": "952d665e3f66476538eab2d025277caa935b7765727bd62f1ad59d5aca5b9d9c"
+    },
+    "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "d3ab0fe52827159a99cbc63f30abb77ccf30ea3a8b8d6128a1f355aeaf118d39",
+      "title_sha256": "e8b7b4ef2046bddcbbbd8bfd6d4bef4509bfe2a88aeaae89578035d2bbee8f5a"
+    },
+    "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "fd9407b5b21f22bbd79e24a719a24dffedce5c60148dc640b635e0ee00aaf486",
+      "title_sha256": "46d192f045aec14f86b9f5cc58be84ed876b201d6c65ff5c5b88ddf7ddd004a6"
+    },
+    "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BNB",
+          "token_rules": [
+            "symbol:BNB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "3b13a2c4af402143cd69a900d463d158d4683a8e3988919939f04cc8d4c8f2c1",
+      "title_sha256": "2b6ef0dfa34921b9c34cd1cc0286124364ec3a7b33e0ef10e779a1eeeee58b29"
+    },
+    "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+      "features": [],
+      "content_sha256": "7e9f0046dc5fae5eb4f7f0da92b4873b7ec567820c0ecffb1b3b6ba3ef8f6cc3",
+      "title_sha256": "2d54b683ce83e37b5ace64d42192c0b005865cf50879fae716ce16a662f27068"
+    }
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:ambcrypto",
+  "endpoint": "https://ambcrypto.com/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:27.285212Z",
+  "original_response_sha256": "7d881f2a93860a75b7f591e9086747a1619d0d762bcecc4a2dc5d2b9bb5fa3c1",
+  "body": "<rss><channel><item><title /><link>https://ambcrypto.com/strategys-strc-nears-100-will-michael-saylor-resume-bitcoin-buys/</link><pubDate>Fri, 30 Oct 2026 00:00:45 +0000</pubDate><guid>https://ambcrypto.com/?p=645353</guid></item><item><title /><link>https://ambcrypto.com/binance-investigates-security-reports-as-tether-says-it-froze-over-1-567b-usdt/</link><pubDate>Thu, 29 Oct 2026 22:09:21 +0000</pubDate><guid>https://ambcrypto.com/?p=645415</guid></item><item><title /><link>https://ambcrypto.com/wlfis-8-06m-exchange-transfer-puts-this-in-focus-as-outflows-persist/</link><pubDate>Thu, 29 Oct 2026 22:00:44 +0000</pubDate><guid>https://ambcrypto.com/?p=645222</guid></item><item><title /><link>https://ambcrypto.com/stellar-joins-metamask-what-the-wallet-update-brings-to-xlm-users/</link><pubDate>Thu, 29 Oct 2026 21:30:38 +0000</pubDate><guid>https://ambcrypto.com/?p=645401</guid></item><item><title /><link>https://ambcrypto.com/polymarket-restores-trading-pledges-refunds-after-2-7m-breach-estimate/</link><pubDate>Thu, 29 Oct 2026 21:25:22 +0000</pubDate><guid>https://ambcrypto.com/?p=645408</guid></item><item><title /><link>https://ambcrypto.com/ripples-futures-volume-hits-68b-yet-xrp-faces-a-liquidity-test-why/</link><pubDate>Thu, 29 Oct 2026 20:00:14 +0000</pubDate><guid>https://ambcrypto.com/?p=645163</guid></item><item><title /><link>https://ambcrypto.com/polygon-adds-solana-support-for-stablecoin-payments-and-bank-payouts/</link><pubDate>Thu, 29 Oct 2026 18:30:04 +0000</pubDate><guid>https://ambcrypto.com/?p=645396</guid></item><item><title /><link>https://ambcrypto.com/uniswap-active-addresses-hit-a-2026-high-but-uni-is-still-stuck-at-7/</link><pubDate>Thu, 29 Oct 2026 18:00:24 +0000</pubDate><guid>https://ambcrypto.com/?p=645276</guid></item><item><title /><link>https://ambcrypto.com/htx-settles-fca-case-as-uk-users-lose-access-to-deposits-and-new-accounts/</link><pubDate>Thu, 29 Oct 2026 16:10:43 +0000</pubDate><guid>https://ambcrypto.com/?p=645387</guid></item><item><title /><link>https://ambcrypto.com/google-tests-crypto-custody-amid-rising-security-hacks-our-biggest-launch-to-date/</link><pubDate>Thu, 29 Oct 2026 16:00:11 +0000</pubDate><guid>https://ambcrypto.com/?p=645223</guid></item><item><title /><link>https://ambcrypto.com/2-paths-for-near-a-defense-of-4-3-4-6-or-a-decisive-breakdown/</link><pubDate>Thu, 29 Oct 2026 15:00:20 +0000</pubDate><guid>https://ambcrypto.com/?p=645267</guid></item><item><title /><link>https://ambcrypto.com/blackrocks-ibit-adds-276m-in-bitcoin-can-btc-escape-its-downtrend/</link><pubDate>Thu, 29 Oct 2026 14:00:50 +0000</pubDate><guid>https://ambcrypto.com/?p=645196</guid></item><item><title /><link>https://ambcrypto.com/top-12-nft-games-to-play-in-october-2026/</link><pubDate>Thu, 29 Oct 2026 13:45:53 +0000</pubDate><guid>https://ambcrypto.com/?p=645332</guid></item><item><title /><link>https://ambcrypto.com/traders-are-moving-towards-tokenized-ai-stocks-but-crypto-remains-persistent/</link><pubDate>Thu, 29 Oct 2026 13:00:13 +0000</pubDate><guid>https://ambcrypto.com/?p=645212</guid></item><item><title /><link>https://ambcrypto.com/bitcoin-core-patches-3-node-crashing-bugs-including-one-that-hit-windows-macos/</link><pubDate>Thu, 29 Oct 2026 12:30:51 +0000</pubDate><guid>https://ambcrypto.com/?p=645286</guid></item><item><title /><link>https://ambcrypto.com/bitcoin-faces-a-weaker-recovery-than-2023-what-that-means-for-btcs-next-leg/</link><pubDate>Thu, 29 Oct 2026 12:00:25 +0000</pubDate><guid>https://ambcrypto.com/?p=645149</guid></item></channel></rss>",
+  "post_features": {
+    "https://ambcrypto.com/bitcoin-faces-a-weaker-recovery-than-2023-what-that-means-for-btcs-next-leg/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "90eb5cabe7e75f9f76571b2429b3bdd6931c6079d8bf6bc67f9ff4c58a07778b",
+      "title_sha256": "8355fef9b0cb1d3c691f1a26e92f5889485fbbb05ea1d0e45cc35d1b98bb9a86"
+    },
+    "https://ambcrypto.com/bitcoin-core-patches-3-node-crashing-bugs-including-one-that-hit-windows-macos/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "2e51252f74790c25b41f005ca63f59727ea93067b0183e6a67a69754a7499d12",
+      "title_sha256": "f090fcb8165c81294cced29548d95378114e59873c9939d978370300e3b94320"
+    },
+    "https://ambcrypto.com/traders-are-moving-towards-tokenized-ai-stocks-but-crypto-remains-persistent/": {
+      "features": [],
+      "content_sha256": "3b36006d57d3be4beb5536a54b3a29af62e582caa96b1618cecf3481fce0fe77",
+      "title_sha256": "64db583af78ac57a132964c193cdbf3fb5af8b426da23eae654264229e36a08f"
+    },
+    "https://ambcrypto.com/top-12-nft-games-to-play-in-october-2026/": {
+      "features": [],
+      "content_sha256": "2531f3ea3ccd9386e4584f92557cacf69ead68a3f3b6314df34e7d21bde6ea5a",
+      "title_sha256": "7b272c9a960b1d2002302029102fafe3bf958801acfdd29e91aacfcc754ceafb"
+    },
+    "https://ambcrypto.com/blackrocks-ibit-adds-276m-in-bitcoin-can-btc-escape-its-downtrend/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "13c37fa2d5f03486d0c773197e7e0db25a1746f1fd7cbfea588a072aeb9c74b6",
+      "title_sha256": "2368d74eb5754bfb0c44a9a0256238625474522071b8bf66780636bb5e0f23be"
+    },
+    "https://ambcrypto.com/2-paths-for-near-a-defense-of-4-3-4-6-or-a-decisive-breakdown/": {
+      "features": [],
+      "content_sha256": "9b6e6a9b7906d6c5d61398285eaf7bd38109e25e86beb791d824715ef27f3b1e",
+      "title_sha256": "0306901596e2862addfdb2a5a0f29373c8e8bb2a76f079ef05e6b441c08227c6"
+    },
+    "https://ambcrypto.com/google-tests-crypto-custody-amid-rising-security-hacks-our-biggest-launch-to-date/": {
+      "features": [],
+      "content_sha256": "05d2eaafcb0c81dff54a23abed45a668a7447c441d40de50ac370dd020bb531a",
+      "title_sha256": "a0c51febe621115f0fc5163f660ccaf7190bfbd24e45efdbcf44b19d4f9aafe5"
+    },
+    "https://ambcrypto.com/htx-settles-fca-case-as-uk-users-lose-access-to-deposits-and-new-accounts/": {
+      "features": [],
+      "content_sha256": "e7e570e99e4b71d0039739de36d8e7977090333fa9d8f31e2243343043dd71a3",
+      "title_sha256": "c370f7e3b78c4fbee2eec83073df6563b1c3b94c6a960a7b734c7a343c02abc8"
+    },
+    "https://ambcrypto.com/uniswap-active-addresses-hit-a-2026-high-but-uni-is-still-stuck-at-7/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "UNI",
+          "token_rules": [
+            "name:uniswap"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "UNI",
+          "token_rules": [
+            "name:uniswap"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "962260bf8dfc97b15c5d4dbc184998f2d503181f765a027b4efce3644cdd38a3",
+      "title_sha256": "4bfb444c70c40e19ae2e5371e82851e3054dbfa9e2ef536ab4e99426db335378"
+    },
+    "https://ambcrypto.com/polygon-adds-solana-support-for-stablecoin-payments-and-bank-payouts/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "MATIC",
+          "token_rules": [
+            "name:polygon"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "MATIC",
+          "token_rules": [
+            "name:polygon"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "eb922636098b895e1c5bfd61fa8f15589e0f32a31a050d270dcfedd995e6df4b",
+      "title_sha256": "3241d4fa85a719c91c50bc6b3dd23f5dbbad73545c6ed52ae6d642398a2180c6"
+    },
+    "https://ambcrypto.com/ripples-futures-volume-hits-68b-yet-xrp-faces-a-liquidity-test-why/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "ccecb70792a2d1f0cf5a80549e27627e625e791612dcd20f2aa83f984634f993",
+      "title_sha256": "d1d9450e9d4109ad4ca689c2ccf3a3e07ebb42cab426e5e16f72c67883a23a17"
+    },
+    "https://ambcrypto.com/polymarket-restores-trading-pledges-refunds-after-2-7m-breach-estimate/": {
+      "features": [],
+      "content_sha256": "c7b1b1b31db99c25b44e67c10125698fa809a8606ac02a62c13cc6ca7ff25cf4",
+      "title_sha256": "471f5895a569c3d6ad2b2aacca150d4e933a48786a75a97ca5ebe48d5a2c0c6d"
+    },
+    "https://ambcrypto.com/stellar-joins-metamask-what-the-wallet-update-brings-to-xlm-users/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar",
+            "symbol:XLM"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar",
+            "symbol:XLM"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "ee35a941faa9f763c05b042c14d4772532e3ec1250b9278681b961132ec70051",
+      "title_sha256": "eff73ef0aed75755bcd3428ce2e4be9866c0955dffb69204f0a491a30c570697"
+    },
+    "https://ambcrypto.com/wlfis-8-06m-exchange-transfer-puts-this-in-focus-as-outflows-persist/": {
+      "features": [],
+      "content_sha256": "6c02da14365262cebdd002208b5dff8b0d02f94740c568118ebe16def8b14f23",
+      "title_sha256": "69e79c63fc9caaeab4c9d828de4bb5b1202842c22c54aa63c08c85ca7a7bf5f8"
+    },
+    "https://ambcrypto.com/binance-investigates-security-reports-as-tether-says-it-froze-over-1-567b-usdt/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether",
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "839d624888f15060c035163d637d0002365509cf22818c0cfc6fd147f7c78b84",
+      "title_sha256": "aa76e54e3a8ed36084301292c269f6303245bdb125b7183b3c9ca45f97f9a289"
+    },
+    "https://ambcrypto.com/strategys-strc-nears-100-will-michael-saylor-resume-bitcoin-buys/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "b05b55cf25f3b954e3a545917c13f0dbc29f3f01f8e0b183aff1ed31037aa2b2",
+      "title_sha256": "34887cccdd4cbbb0d00524cdaa1f9f5dd736750f7223b208e1f568cf11194178"
+    }
+  }
+}

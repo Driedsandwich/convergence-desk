@@ -1,0 +1,219 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:dailyhodl",
+  "endpoint": "https://dailyhodl.com/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:24.215089Z",
+  "original_response_sha256": "28fe9baa3fbbf80e12b77df884f290609e7649dfd9b6ce7699a91a197922cb72",
+  "body": "<rss><channel><item><title /><link>https://dailyhodl.com/2026/10/29/5000000000-abruptly-exits-binance-wallets-as-founder-warns-exchange-may-have-been-hacked/</link><pubDate>Thu, 29 Oct 2026 22:14:21 +0000</pubDate><guid>https://dailyhodl.com/?p=372877</guid></item><item><title /><link>https://dailyhodl.com/2026/10/29/nigerian-national-extradited-from-africa-arraigned-in-georgia-on-100000000-identity-theft-tax-scheme/</link><pubDate>Thu, 29 Oct 2026 16:55:00 +0000</pubDate><guid>https://dailyhodl.com/?p=372857</guid></item><item><title /><link>https://dailyhodl.com/2026/10/29/florida-resident-loses-159500-after-scammer-posing-as-bank-fraud-agent-orders-wires-and-parking-lot-cash-drops/</link><pubDate>Thu, 29 Oct 2026 14:30:29 +0000</pubDate><guid>https://dailyhodl.com/?p=372861</guid></item><item><title /><link>https://dailyhodl.com/2026/10/29/chinese-national-and-new-york-resident-plead-guilty-in-65000000-senior-fraud-ring-aided-by-youtube-videos/</link><pubDate>Thu, 29 Oct 2026 11:45:57 +0000</pubDate><guid>https://dailyhodl.com/?p=372859</guid></item><item><title /><link>https://dailyhodl.com/2026/10/29/keystone-wallet-destroying-18835-devices-after-breach-exposes-authentication-key/</link><pubDate>Thu, 29 Oct 2026 09:15:05 +0000</pubDate><guid>https://dailyhodl.com/?p=372862</guid></item><item><title /><link>https://dailyhodl.com/2026/10/29/elderly-new-york-woman-loses-310000-to-caller-posing-as-santander-bank-fraud-department-police-hunt-suspect/</link><pubDate>Thu, 29 Oct 2026 07:04:03 +0000</pubDate><guid>https://dailyhodl.com/?p=372864</guid></item><item><title /><link>https://dailyhodl.com/2026/10/28/suspect-in-73000-chase-bank-impersonation-scam-goes-missing-after-judge-releases-him/</link><pubDate>Wed, 28 Oct 2026 16:55:50 +0000</pubDate><guid>https://dailyhodl.com/?p=372808</guid></item><item><title /><link>https://dailyhodl.com/2026/10/28/tech-investor-who-nailed-ai-boom-warns-of-bitcoin-collapse-urges-shift-to-super-intelligence/</link><pubDate>Wed, 28 Oct 2026 14:30:30 +0000</pubDate><guid>https://dailyhodl.com/?p=372811</guid></item><item><title /><link>https://dailyhodl.com/2026/10/28/ghana-twins-and-hawaii-woman-admit-romance-scam-that-drained-more-than-9000000-from-mostly-elderly-victims/</link><pubDate>Wed, 28 Oct 2026 11:45:37 +0000</pubDate><guid>https://dailyhodl.com/?p=372810</guid></item><item><title /><link>https://dailyhodl.com/2026/10/28/the-world-trades-here-bybits-wsot-is-coming-back-with-a-prize-pool-of-up-to-10-million-usdt/</link><pubDate>Wed, 28 Oct 2026 10:14:22 +0000</pubDate><guid>https://dailyhodl.com/?p=372831</guid></item></channel></rss>",
+  "post_features": {
+    "https://dailyhodl.com/2026/10/28/the-world-trades-here-bybits-wsot-is-coming-back-with-a-prize-pool-of-up-to-10-million-usdt/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "bdd1304e8e59a6abc57970a2f594106e771407b68904e282e815f38a732ac54c",
+      "title_sha256": "d2bf9f0dc57307d01d345f34be3393425c66dbdaa07f9d262a10efc140d9dc83"
+    },
+    "https://dailyhodl.com/2026/10/28/ghana-twins-and-hawaii-woman-admit-romance-scam-that-drained-more-than-9000000-from-mostly-elderly-victims/": {
+      "features": [],
+      "content_sha256": "06ce02e648041eeae53c99c2021dc1b29c2ec86e598be9c02610681222a4e76f",
+      "title_sha256": "becba9a7d4d3335faf5a63262e9b82a5330a957fbfda5519124d7828d1e124c7"
+    },
+    "https://dailyhodl.com/2026/10/28/tech-investor-who-nailed-ai-boom-warns-of-bitcoin-collapse-urges-shift-to-super-intelligence/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bearish",
+          "sentiment": {
+            "fired": [
+              "sentiment:sell:-0.40"
+            ],
+            "value": -0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "8eac79a3f92b802ef0ad97f29b62dadfb42283ffe3f8660603ec5fb6dda00295",
+      "title_sha256": "5fdf520c8872f81a8f6c000d01df0097d91f4cc0ef43b70e5b90cf7a5a620b01"
+    },
+    "https://dailyhodl.com/2026/10/28/suspect-in-73000-chase-bank-impersonation-scam-goes-missing-after-judge-releases-him/": {
+      "features": [],
+      "content_sha256": "4a2b3b7fdd0751ed52a65e73ad006b2f97c5f89bdda18513cde5c916c1f3f555",
+      "title_sha256": "24df70bb8d8b06bbed1fcd9e7583e8c7e76c30571806c89d67c68b1b6bc76590"
+    },
+    "https://dailyhodl.com/2026/10/29/elderly-new-york-woman-loses-310000-to-caller-posing-as-santander-bank-fraud-department-police-hunt-suspect/": {
+      "features": [],
+      "content_sha256": "0ba895763223aefeffce11fe1a89ddf738591045add88527b20e89d5f7848146",
+      "title_sha256": "34a9126646e8758f2b1bf6dd4f9b8b08d7b1e0cd3f8645f193c20db8b54ca3f8"
+    },
+    "https://dailyhodl.com/2026/10/29/keystone-wallet-destroying-18835-devices-after-breach-exposes-authentication-key/": {
+      "features": [],
+      "content_sha256": "4fb372944056ef2fc69c16bb047defb0b6b5cb13031a98f195161440c2eba174",
+      "title_sha256": "aa43c2a7432fe3161535250a9a2a34190a61c763864de91f656d756a265a3e98"
+    },
+    "https://dailyhodl.com/2026/10/29/chinese-national-and-new-york-resident-plead-guilty-in-65000000-senior-fraud-ring-aided-by-youtube-videos/": {
+      "features": [],
+      "content_sha256": "206de638023d4d002e140bbdbf887d5f67c720dc0577762449c0d2e4c19d5129",
+      "title_sha256": "3f88a7a1c2642782526f5ecb74fbf7d60e3dc4e57bca9cee0a82434fd6a4d923"
+    },
+    "https://dailyhodl.com/2026/10/29/florida-resident-loses-159500-after-scammer-posing-as-bank-fraud-agent-orders-wires-and-parking-lot-cash-drops/": {
+      "features": [],
+      "content_sha256": "09b805b4bb9ce30dc6cd243c12e30e193611b9f1f8dbaf2f1f391ef19061a0a1",
+      "title_sha256": "619390f5d9483cea352c048025d9fd87cce0718a7755efdae507b271e7805052"
+    },
+    "https://dailyhodl.com/2026/10/29/nigerian-national-extradited-from-africa-arraigned-in-georgia-on-100000000-identity-theft-tax-scheme/": {
+      "features": [],
+      "content_sha256": "09d37bdcc5969cbd9883513825123796b51741c9a229dbd0bef2e7c7cd4e3b56",
+      "title_sha256": "10e3fc58579fb204fd5984914680c72f826692f910e8bd948a4353467fd5a1e6"
+    },
+    "https://dailyhodl.com/2026/10/29/5000000000-abruptly-exits-binance-wallets-as-founder-warns-exchange-may-have-been-hacked/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "1150b475a96bde55da8b9960a0ad6fcf9e23288877aefd071222e363d3738eb7",
+      "title_sha256": "687123335bf69e1a913b5e593b7d50c972cf3b3e2198158a1f8c42c048a9755a"
+    }
+  }
+}

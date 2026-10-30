@@ -1,0 +1,2115 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:utoday",
+  "endpoint": "https://u.today/rss",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=utf-8"
+  },
+  "fetch_time": "2026-10-30T00:48:21.509596Z",
+  "original_response_sha256": "724762cbcc29d0199ea0af180efc4d2656dc263ac1a30b29b98959af3e30654e",
+  "body": "<rss><channel><item><title /><link>https://u.today/price-analysis/hyperliquid-hype-xrp-cardano-ada-and-zcash-zec-price-analysis-for-october-30-market-picture-is</link><pubDate>Fri, 30 Oct 2026 00:01:00 +0000</pubDate><guid>https://u.today/price-analysis/hyperliquid-hype-xrp-cardano-ada-and-zcash-zec-price-analysis-for-october-30-market-picture-is</guid></item><item><title /><link>https://u.today/massive-59-billion-binance-hack-hits-xrp-btc-eth-and-other-tokens</link><pubDate>Thu, 29 Oct 2026 23:28:45 +0000</pubDate><guid>https://u.today/massive-59-billion-binance-hack-hits-xrp-btc-eth-and-other-tokens</guid></item><item><title /><link>https://u.today/hackers-target-crypto-users-with-fake-chatgpt-and-claude-apps</link><pubDate>Thu, 29 Oct 2026 20:17:07 +0000</pubDate><guid>https://u.today/hackers-target-crypto-users-with-fake-chatgpt-and-claude-apps</guid></item><item><title /><link>https://u.today/polymarket-hit-by-massive-hack</link><pubDate>Thu, 29 Oct 2026 19:01:44 +0000</pubDate><guid>https://u.today/polymarket-hit-by-massive-hack</guid></item><item><title /><link>https://u.today/hyperliquid-hype-rockets-20-as-druckenmiller-invests-and-elon-musk-reacts</link><pubDate>Thu, 29 Oct 2026 17:43:45 +0000</pubDate><guid>https://u.today/hyperliquid-hype-rockets-20-as-druckenmiller-invests-and-elon-musk-reacts</guid></item><item><title /><link>https://u.today/gemini-boss-slams-crypto-hater-lagarde-following-her-resignation-announcement</link><pubDate>Thu, 29 Oct 2026 15:49:24 +0000</pubDate><guid>https://u.today/gemini-boss-slams-crypto-hater-lagarde-following-her-resignation-announcement</guid></item><item><title /><link>https://u.today/a-new-way-of-trading-to-come-to-xrp-ledger-next-week-whats-known-so-far</link><pubDate>Thu, 29 Oct 2026 15:14:30 +0000</pubDate><guid>https://u.today/a-new-way-of-trading-to-come-to-xrp-ledger-next-week-whats-known-so-far</guid></item><item><title /><link>https://u.today/solana-hits-5-billion-in-rwa-value</link><pubDate>Thu, 29 Oct 2026 14:31:10 +0000</pubDate><guid>https://u.today/solana-hits-5-billion-in-rwa-value</guid></item><item><title /><link>https://u.today/17833333-doge-longs-liquidated-in-market-selloff-whats-ahead</link><pubDate>Thu, 29 Oct 2026 14:00:51 +0000</pubDate><guid>https://u.today/17833333-doge-longs-liquidated-in-market-selloff-whats-ahead</guid></item><item><title /><link>https://u.today/ethereum-faces-2000-price-warning-as-whales-offload-348-million-in-eth</link><pubDate>Thu, 29 Oct 2026 13:10:44 +0000</pubDate><guid>https://u.today/ethereum-faces-2000-price-warning-as-whales-offload-348-million-in-eth</guid></item><item><title /><link>https://u.today/342-million-crypto-bloodbath-as-bitcoin-and-xrp-longs-smashed-main-crypto-news-this-morning</link><pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate><guid>https://u.today/342-million-crypto-bloodbath-as-bitcoin-and-xrp-longs-smashed-main-crypto-news-this-morning</guid></item><item><title /><link>https://u.today/binances-cz-denies-owning-shiba-inu-shib</link><pubDate>Thu, 29 Oct 2026 12:07:07 +0000</pubDate><guid>https://u.today/binances-cz-denies-owning-shiba-inu-shib</guid></item><item><title /><link>https://u.today/92-billion-shiba-inu-shib-in-24-hours-reasons-behind-the-drop-are-clear-now</link><pubDate>Thu, 29 Oct 2026 11:30:00 +0000</pubDate><guid>https://u.today/92-billion-shiba-inu-shib-in-24-hours-reasons-behind-the-drop-are-clear-now</guid></item><item><title /><link>https://u.today/xrp-ledger-hits-highest-level-of-2026</link><pubDate>Thu, 29 Oct 2026 10:05:00 +0000</pubDate><guid>https://u.today/xrp-ledger-hits-highest-level-of-2026</guid></item><item><title /><link>https://u.today/ripple-president-breaks-down-why-tokenization-is-cryptos-next-big-chapter</link><pubDate>Thu, 29 Oct 2026 10:00:23 +0000</pubDate><guid>https://u.today/ripple-president-breaks-down-why-tokenization-is-cryptos-next-big-chapter</guid></item><item><title /><link>https://u.today/hyperliquid-hype-burns-nearly-5-of-token-supply-as-lifetime-revenue-hits-138-billion</link><pubDate>Thu, 29 Oct 2026 09:33:25 +0000</pubDate><guid>https://u.today/hyperliquid-hype-burns-nearly-5-of-token-supply-as-lifetime-revenue-hits-138-billion</guid></item><item><title /><link>https://u.today/large-5x-monero-xmr-long-spotted-as-price-dives-below-600</link><pubDate>Thu, 29 Oct 2026 08:20:00 +0000</pubDate><guid>https://u.today/large-5x-monero-xmr-long-spotted-as-price-dives-below-600</guid></item><item><title /><link>https://u.today/coinbase-ceo-predicts-end-of-subscription-era</link><pubDate>Thu, 29 Oct 2026 06:57:51 +0000</pubDate><guid>https://u.today/coinbase-ceo-predicts-end-of-subscription-era</guid></item><item><title /><link>https://u.today/garlinghouse-2026-is-phenomenal-year-for-ripple</link><pubDate>Thu, 29 Oct 2026 06:06:22 +0000</pubDate><guid>https://u.today/garlinghouse-2026-is-phenomenal-year-for-ripple</guid></item><item><title /><link>https://u.today/price-analysis/near-protocol-near-shiba-inu-shib-chainlink-link-and-ethereum-eth-price-analysis-for-october-29</link><pubDate>Thu, 29 Oct 2026 00:01:00 +0000</pubDate><guid>https://u.today/price-analysis/near-protocol-near-shiba-inu-shib-chainlink-link-and-ethereum-eth-price-analysis-for-october-29</guid></item><item><title /><link>https://u.today/xrp-ledger-foundation-adds-flare-to-validator-list</link><pubDate>Wed, 28 Oct 2026 20:47:57 +0000</pubDate><guid>https://u.today/xrp-ledger-foundation-adds-flare-to-validator-list</guid></item><item><title /><link>https://u.today/there-will-be-run-on-banks-bitcoin-bull-draper-predicts-seismic-shift</link><pubDate>Wed, 28 Oct 2026 18:59:19 +0000</pubDate><guid>https://u.today/there-will-be-run-on-banks-bitcoin-bull-draper-predicts-seismic-shift</guid></item><item><title /><link>https://u.today/we-will-never-give-up-on-xrp-ripple-ceo-ends-speculations</link><pubDate>Wed, 28 Oct 2026 16:36:05 +0000</pubDate><guid>https://u.today/we-will-never-give-up-on-xrp-ripple-ceo-ends-speculations</guid></item><item><title /><link>https://u.today/blackrock-resumes-buying-bitcoin-as-price-reclaims-81000</link><pubDate>Wed, 28 Oct 2026 16:05:34 +0000</pubDate><guid>https://u.today/blackrock-resumes-buying-bitcoin-as-price-reclaims-81000</guid></item><item><title /><link>https://u.today/forget-ai-wintermute-explains-why-bitcoins-next-move-now-depends-on-oil</link><pubDate>Wed, 28 Oct 2026 15:49:15 +0000</pubDate><guid>https://u.today/forget-ai-wintermute-explains-why-bitcoins-next-move-now-depends-on-oil</guid></item><item><title /><link>https://u.today/doge-was-never-meant-to-be-ethereum-or-solana-dogecoin-contributor-sets-record-straight</link><pubDate>Wed, 28 Oct 2026 14:45:21 +0000</pubDate><guid>https://u.today/doge-was-never-meant-to-be-ethereum-or-solana-dogecoin-contributor-sets-record-straight</guid></item><item><title /><link>https://u.today/coinbase-launches-ripple-usd-challenging-krakens-market-hold</link><pubDate>Wed, 28 Oct 2026 14:37:45 +0000</pubDate><guid>https://u.today/coinbase-launches-ripple-usd-challenging-krakens-market-hold</guid></item><item><title /><link>https://u.today/stellar-scores-significant-tokenization-win-with-securitize</link><pubDate>Wed, 28 Oct 2026 14:28:39 +0000</pubDate><guid>https://u.today/stellar-scores-significant-tokenization-win-with-securitize</guid></item><item><title /><link>https://u.today/shiba-inu-shib-risks-losing-50-million-oi-threshold</link><pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate><guid>https://u.today/shiba-inu-shib-risks-losing-50-million-oi-threshold</guid></item><item><title /><link>https://u.today/10-million-crypto-whale-awakening-closes-market-gap-between-shiba-inu-shib-and-pepe</link><pubDate>Wed, 28 Oct 2026 12:41:20 +0000</pubDate><guid>https://u.today/10-million-crypto-whale-awakening-closes-market-gap-between-shiba-inu-shib-and-pepe</guid></item><item><title /><link>https://u.today/binance-delisting-alert-10-pairs-to-go-as-october-ends-btc-and-eth-affected</link><pubDate>Wed, 28 Oct 2026 12:00:05 +0000</pubDate><guid>https://u.today/binance-delisting-alert-10-pairs-to-go-as-october-ends-btc-and-eth-affected</guid></item><item><title /><link>https://u.today/428862-surge-in-24-hours-shiba-inu-sees-highest-burn-rate-this-month</link><pubDate>Wed, 28 Oct 2026 11:16:47 +0000</pubDate><guid>https://u.today/428862-surge-in-24-hours-shiba-inu-sees-highest-burn-rate-this-month</guid></item><item><title /><link>https://u.today/xrp-ledgers-2633-increase-turns-to-almost-0-as-investors-fail-to-catch-momentum</link><pubDate>Wed, 28 Oct 2026 10:15:00 +0000</pubDate><guid>https://u.today/xrp-ledgers-2633-increase-turns-to-almost-0-as-investors-fail-to-catch-momentum</guid></item><item><title /><link>https://u.today/coinbase-shuts-down-data-breach-rumors-no-customer-funds-at-risk</link><pubDate>Wed, 28 Oct 2026 10:10:41 +0000</pubDate><guid>https://u.today/coinbase-shuts-down-data-breach-rumors-no-customer-funds-at-risk</guid></item><item><title /><link>https://u.today/ripple-makes-stablecoin-history-with-top-tier-moodys-rating</link><pubDate>Wed, 28 Oct 2026 09:14:15 +0000</pubDate><guid>https://u.today/ripple-makes-stablecoin-history-with-top-tier-moodys-rating</guid></item><item><title /><link>https://u.today/zcash-zec-launched-10-years-ago-2-things-that-made-it-stand-out-in-2026</link><pubDate>Wed, 28 Oct 2026 08:10:00 +0000</pubDate><guid>https://u.today/zcash-zec-launched-10-years-ago-2-things-that-made-it-stand-out-in-2026</guid></item><item><title /><link>https://u.today/bitcoin-treasury-stock-crashes-50-amid-withdrawal-trouble</link><pubDate>Wed, 28 Oct 2026 06:33:00 +0000</pubDate><guid>https://u.today/bitcoin-treasury-stock-crashes-50-amid-withdrawal-trouble</guid></item><item><title /><link>https://u.today/garlinghouse-celebrates-historic-ripple-swell-milestone</link><pubDate>Wed, 28 Oct 2026 05:24:48 +0000</pubDate><guid>https://u.today/garlinghouse-celebrates-historic-ripple-swell-milestone</guid></item><item><title /><link>https://u.today/price-analysis/xrp-zcash-zec-tron-trx-and-near-protocol-near-price-analysis-for-october-28-will-bulls-finally-lose</link><pubDate>Wed, 28 Oct 2026 00:01:00 +0000</pubDate><guid>https://u.today/price-analysis/xrp-zcash-zec-tron-trx-and-near-protocol-near-price-analysis-for-october-28-will-bulls-finally-lose</guid></item><item><title /><link>https://u.today/bitcoin-sees-massive-1-billion-exchange-exodus</link><pubDate>Tue, 27 Oct 2026 20:20:17 +0000</pubDate><guid>https://u.today/bitcoin-sees-massive-1-billion-exchange-exodus</guid></item><item><title /><link>https://u.today/ripples-garlinghouse-meets-bessent-at-swell</link><pubDate>Tue, 27 Oct 2026 19:07:33 +0000</pubDate><guid>https://u.today/ripples-garlinghouse-meets-bessent-at-swell</guid></item><item><title /><link>https://u.today/ripple-president-explains-why-robinhood-chose-rlusd-stablecoin</link><pubDate>Tue, 27 Oct 2026 16:41:15 +0000</pubDate><guid>https://u.today/ripple-president-explains-why-robinhood-chose-rlusd-stablecoin</guid></item><item><title /><link>https://u.today/michael-saylor-counters-anti-bitcoin-buy-argument</link><pubDate>Tue, 27 Oct 2026 15:44:41 +0000</pubDate><guid>https://u.today/michael-saylor-counters-anti-bitcoin-buy-argument</guid></item><item><title /><link>https://u.today/near-protocol-launches-confidential-pre-ipo-futures-for-ai-giant-anthropic</link><pubDate>Tue, 27 Oct 2026 15:42:15 +0000</pubDate><guid>https://u.today/near-protocol-launches-confidential-pre-ipo-futures-for-ai-giant-anthropic</guid></item><item><title /><link>https://u.today/xrp-ledger-scores-huge-bny-trade-finance-breakthrough</link><pubDate>Tue, 27 Oct 2026 14:01:10 +0000</pubDate><guid>https://u.today/xrp-ledger-scores-huge-bny-trade-finance-breakthrough</guid></item><item><title /><link>https://u.today/shib-community-buzzes-as-shiba-inu-unlocks-new-travel-use-case</link><pubDate>Tue, 27 Oct 2026 13:15:37 +0000</pubDate><guid>https://u.today/shib-community-buzzes-as-shiba-inu-unlocks-new-travel-use-case</guid></item><item><title /><link>https://u.today/hyperliquid-chases-xrp-ledger-in-100-million-stablecoin-sprint-main-crypto-news-this-morning</link><pubDate>Tue, 27 Oct 2026 12:57:45 +0000</pubDate><guid>https://u.today/hyperliquid-chases-xrp-ledger-in-100-million-stablecoin-sprint-main-crypto-news-this-morning</guid></item><item><title /><link>https://u.today/xrp-whale-holdings-hit-highest-supply-share-since-november-2022</link><pubDate>Tue, 27 Oct 2026 11:58:34 +0000</pubDate><guid>https://u.today/xrp-whale-holdings-hit-highest-supply-share-since-november-2022</guid></item><item><title /><link>https://u.today/130-near-protocol-near-surge-in-spot-inflows-secures-13-million</link><pubDate>Tue, 27 Oct 2026 11:45:00 +0000</pubDate><guid>https://u.today/130-near-protocol-near-surge-in-spot-inflows-secures-13-million</guid></item><item><title /><link>https://u.today/binance-lists-227-futures-pairs-so-far-as-traditional-assets-dominate</link><pubDate>Tue, 27 Oct 2026 10:15:38 +0000</pubDate><guid>https://u.today/binance-lists-227-futures-pairs-so-far-as-traditional-assets-dominate</guid></item><item><title /><link>https://u.today/xrp-ledger-jumps-100-in-active-account-counts</link><pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate><guid>https://u.today/xrp-ledger-jumps-100-in-active-account-counts</guid></item><item><title /><link>https://u.today/tapping-ripple-network-blackrock-leverages-sbi-for-japan-tokenization-push</link><pubDate>Tue, 27 Oct 2026 09:43:25 +0000</pubDate><guid>https://u.today/tapping-ripple-network-blackrock-leverages-sbi-for-japan-tokenization-push</guid></item><item><title /><link>https://u.today/stellar-xlm-double-confirms-death-cross-but-it-has-another-support-available</link><pubDate>Tue, 27 Oct 2026 08:40:00 +0000</pubDate><guid>https://u.today/stellar-xlm-double-confirms-death-cross-but-it-has-another-support-available</guid></item><item><title /><link>https://u.today/xrp-whales-reach-milestone-not-seen-since-2022</link><pubDate>Tue, 27 Oct 2026 08:05:42 +0000</pubDate><guid>https://u.today/xrp-whales-reach-milestone-not-seen-since-2022</guid></item><item><title /><link>https://u.today/ripple-secures-major-us-banking-approval-xrp-fails-to-rally</link><pubDate>Tue, 27 Oct 2026 06:14:45 +0000</pubDate><guid>https://u.today/ripple-secures-major-us-banking-approval-xrp-fails-to-rally</guid></item><item><title /><link>https://u.today/price-analysis/binance-chain-bnb-zcash-zec-tron-trx-and-shiba-inu-shib-price-analysis-for-october-26-bearish-trend</link><pubDate>Tue, 27 Oct 2026 00:01:00 +0000</pubDate><guid>https://u.today/price-analysis/binance-chain-bnb-zcash-zec-tron-trx-and-shiba-inu-shib-price-analysis-for-october-26-bearish-trend</guid></item><item><title /><link>https://u.today/xrp-legend-david-schwartz-drops-new-swell-message</link><pubDate>Mon, 26 Oct 2026 20:53:37 +0000</pubDate><guid>https://u.today/xrp-legend-david-schwartz-drops-new-swell-message</guid></item><item><title /><link>https://u.today/bitcoin-creator-satoshi-nakamoto-praised-by-billionaire-tim-draper</link><pubDate>Mon, 26 Oct 2026 19:25:47 +0000</pubDate><guid>https://u.today/bitcoin-creator-satoshi-nakamoto-praised-by-billionaire-tim-draper</guid></item><item><title /><link>https://u.today/ripple-treasury-svp-unveils-always-on-ai-treasury-what-it-means-for-xrp-ecosystem</link><pubDate>Mon, 26 Oct 2026 17:00:05 +0000</pubDate><guid>https://u.today/ripple-treasury-svp-unveils-always-on-ai-treasury-what-it-means-for-xrp-ecosystem</guid></item><item><title /><link>https://u.today/who-owns-dogecoin-doge-controversial-corporate-merger-splits-community</link><pubDate>Mon, 26 Oct 2026 16:30:05 +0000</pubDate><guid>https://u.today/who-owns-dogecoin-doge-controversial-corporate-merger-splits-community</guid></item><item><title /><link>https://u.today/bitmine-ethereum-stash-hits-14-billion-after-latest-buy</link><pubDate>Mon, 26 Oct 2026 15:35:42 +0000</pubDate><guid>https://u.today/bitmine-ethereum-stash-hits-14-billion-after-latest-buy</guid></item><item><title /><link>https://u.today/gargantuan-bitcoin-purchase-announced-by-strive</link><pubDate>Mon, 26 Oct 2026 15:21:33 +0000</pubDate><guid>https://u.today/gargantuan-bitcoin-purchase-announced-by-strive</guid></item><item><title /><link>https://u.today/200-million-in-7-days-ripples-new-stablecoin-outpaces-rivals-in-weekly-defi-volume</link><pubDate>Mon, 26 Oct 2026 14:53:05 +0000</pubDate><guid>https://u.today/200-million-in-7-days-ripples-new-stablecoin-outpaces-rivals-in-weekly-defi-volume</guid></item><item><title /><link>https://u.today/xrp-spot-flows-drop-puts-whale-activity-in-focus-140-next</link><pubDate>Mon, 26 Oct 2026 13:36:41 +0000</pubDate><guid>https://u.today/xrp-spot-flows-drop-puts-whale-activity-in-focus-140-next</guid></item><item><title /><link>https://u.today/satoshis-most-underrated-bitcoin-innovation-has-litecoin-dogecoin-in-it</link><pubDate>Mon, 26 Oct 2026 12:10:47 +0000</pubDate><guid>https://u.today/satoshis-most-underrated-bitcoin-innovation-has-litecoin-dogecoin-in-it</guid></item><item><title /><link>https://u.today/ethereum-etf-loses-1-billion-in-capital-will-we-see-fresh-injections</link><pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate><guid>https://u.today/ethereum-etf-loses-1-billion-in-capital-will-we-see-fresh-injections</guid></item><item><title /><link>https://u.today/xrp-ledger-payment-volume-soars-2633-whats-the-drive</link><pubDate>Mon, 26 Oct 2026 11:42:30 +0000</pubDate><guid>https://u.today/xrp-ledger-payment-volume-soars-2633-whats-the-drive</guid></item><item><title /><link>https://u.today/29-billion-more-for-xrp-aviva-partners-with-ripple-for-milestone-rwa-deal</link><pubDate>Mon, 26 Oct 2026 11:38:25 +0000</pubDate><guid>https://u.today/29-billion-more-for-xrp-aviva-partners-with-ripple-for-milestone-rwa-deal</guid></item><item><title /><link>https://u.today/2633-xrp-ledger-surge-enormous-recovery-recorded</link><pubDate>Mon, 26 Oct 2026 10:25:00 +0000</pubDate><guid>https://u.today/2633-xrp-ledger-surge-enormous-recovery-recorded</guid></item><item><title /><link>https://u.today/10-days-left-zcash-set-to-cut-block-times-to-25-seconds</link><pubDate>Mon, 26 Oct 2026 10:10:22 +0000</pubDate><guid>https://u.today/10-days-left-zcash-set-to-cut-block-times-to-25-seconds</guid></item><item><title /><link>https://u.today/crypto-without-buying-crypto-expert-decodes-franklin-templetons-new-bitcoin-play</link><pubDate>Mon, 26 Oct 2026 09:50:45 +0000</pubDate><guid>https://u.today/crypto-without-buying-crypto-expert-decodes-franklin-templetons-new-bitcoin-play</guid></item><item><title /><link>https://u.today/shiba-inu-shib-to-hit-2026-low-price-is-too-close-to-it</link><pubDate>Mon, 26 Oct 2026 09:50:00 +0000</pubDate><guid>https://u.today/shiba-inu-shib-to-hit-2026-low-price-is-too-close-to-it</guid></item><item><title /><link>https://u.today/south-korea-to-delay-crypto-tax-yet-again</link><pubDate>Mon, 26 Oct 2026 06:16:42 +0000</pubDate><guid>https://u.today/south-korea-to-delay-crypto-tax-yet-again</guid></item><item><title /><link>https://u.today/xrp-takes-over-new-york-city-subway-advertising</link><pubDate>Mon, 26 Oct 2026 05:47:15 +0000</pubDate><guid>https://u.today/xrp-takes-over-new-york-city-subway-advertising</guid></item><item><title /><link>https://u.today/price-analysis/near-protocol-near-chainlink-link-zcash-zec-and-ethereum-eth-price-analysis-for-october-26-reversal</link><pubDate>Mon, 26 Oct 2026 00:01:00 +0000</pubDate><guid>https://u.today/price-analysis/near-protocol-near-chainlink-link-zcash-zec-and-ethereum-eth-price-analysis-for-october-26-reversal</guid></item><item><title /><link>https://u.today/bitcoin-and-gold-become-worst-performing-assets-of-2026-in-historic-first</link><pubDate>Sun, 25 Oct 2026 19:50:49 +0000</pubDate><guid>https://u.today/bitcoin-and-gold-become-worst-performing-assets-of-2026-in-historic-first</guid></item><item><title /><link>https://u.today/xrp-risks-decline-to-098-if-whale-distribution-persists</link><pubDate>Sun, 25 Oct 2026 15:29:55 +0000</pubDate><guid>https://u.today/xrp-risks-decline-to-098-if-whale-distribution-persists</guid></item><item><title /><link>https://u.today/shiba-inu-shytoshi-kusamas-x-silence-lingers-amid-quiet-developments</link><pubDate>Sun, 25 Oct 2026 15:10:01 +0000</pubDate><guid>https://u.today/shiba-inu-shytoshi-kusamas-x-silence-lingers-amid-quiet-developments</guid></item><item><title /><link>https://u.today/stellar-xlm-clocks-busiest-day-of-month-with-1416-million-transactions</link><pubDate>Sun, 25 Oct 2026 14:59:15 +0000</pubDate><guid>https://u.today/stellar-xlm-clocks-busiest-day-of-month-with-1416-million-transactions</guid></item><item><title /><link>https://u.today/big-week-ahead-ripple-heads-to-nyc-with-wall-street-heavyweights</link><pubDate>Sun, 25 Oct 2026 13:40:56 +0000</pubDate><guid>https://u.today/big-week-ahead-ripple-heads-to-nyc-with-wall-street-heavyweights</guid></item><item><title /><link>https://u.today/solana-tether-and-xrp-ledger-drive-new-wave-of-asset-tokenization</link><pubDate>Sun, 25 Oct 2026 13:15:45 +0000</pubDate><guid>https://u.today/solana-tether-and-xrp-ledger-drive-new-wave-of-asset-tokenization</guid></item><item><title /><link>https://u.today/binance-delists-seven-cryptocurrencies-from-its-alpha-platform</link><pubDate>Sun, 25 Oct 2026 13:01:10 +0000</pubDate><guid>https://u.today/binance-delists-seven-cryptocurrencies-from-its-alpha-platform</guid></item><item><title /><link>https://u.today/not-good-for-zcash-key-developer-josh-swihart-halts-zec-staking-upgrade</link><pubDate>Sun, 25 Oct 2026 12:54:30 +0000</pubDate><guid>https://u.today/not-good-for-zcash-key-developer-josh-swihart-halts-zec-staking-upgrade</guid></item><item><title /><link>https://u.today/dogecoin-doge-adds-30-in-trading-volume-in-24-hours-as-spot-inflows-cross-1000-mark</link><pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate><guid>https://u.today/dogecoin-doge-adds-30-in-trading-volume-in-24-hours-as-spot-inflows-cross-1000-mark</guid></item><item><title /><link>https://u.today/ripple-cto-emeritus-warns-against-ai-content-filters-in-xrp-scam-debate</link><pubDate>Sun, 25 Oct 2026 10:24:25 +0000</pubDate><guid>https://u.today/ripple-cto-emeritus-warns-against-ai-content-filters-in-xrp-scam-debate</guid></item><item><title /><link>https://u.today/xrp-death-cross-is-complete-next-price-levels</link><pubDate>Sun, 25 Oct 2026 10:00:00 +0000</pubDate><guid>https://u.today/xrp-death-cross-is-complete-next-price-levels</guid></item><item><title /><link>https://u.today/dogecoin-community-gets-crucial-warning-as-hardware-wallet-reveals-security-incident</link><pubDate>Sun, 25 Oct 2026 09:45:00 +0000</pubDate><guid>https://u.today/dogecoin-community-gets-crucial-warning-as-hardware-wallet-reveals-security-incident</guid></item><item><title /><link>https://u.today/mysterious-poem-appears-on-bitcoin-blockchain</link><pubDate>Sun, 25 Oct 2026 09:14:38 +0000</pubDate><guid>https://u.today/mysterious-poem-appears-on-bitcoin-blockchain</guid></item><item><title /><link>https://u.today/mastercard-praises-ripples-rlusd-stablecoin</link><pubDate>Sun, 25 Oct 2026 07:34:54 +0000</pubDate><guid>https://u.today/mastercard-praises-ripples-rlusd-stablecoin</guid></item><item><title /><link>https://u.today/bitcoin-finally-crashing-schiff-says</link><pubDate>Sun, 25 Oct 2026 05:54:57 +0000</pubDate><guid>https://u.today/bitcoin-finally-crashing-schiff-says</guid></item><item><title /><link>https://u.today/95-billion-shib-in-24-hours-shiba-inu-exchange-activity-flips-bullish</link><pubDate>Sun, 25 Oct 2026 05:46:00 +0000</pubDate><guid>https://u.today/95-billion-shib-in-24-hours-shiba-inu-exchange-activity-flips-bullish</guid></item><item><title /><link>https://u.today/dogecoin-contributor-outlines-steps-for-real-doge-ecosystem-growth</link><pubDate>Sun, 25 Oct 2026 00:01:00 +0000</pubDate><guid>https://u.today/dogecoin-contributor-outlines-steps-for-real-doge-ecosystem-growth</guid></item><item><title /><link>https://u.today/near-protocol-oi-drops-95-amid-8-near-price-decline</link><pubDate>Sat, 24 Oct 2026 16:06:20 +0000</pubDate><guid>https://u.today/near-protocol-oi-drops-95-amid-8-near-price-decline</guid></item><item><title /><link>https://u.today/dogecoin-etf-sees-biggest-weekly-withdrawal-in-october</link><pubDate>Sat, 24 Oct 2026 16:06:00 +0000</pubDate><guid>https://u.today/dogecoin-etf-sees-biggest-weekly-withdrawal-in-october</guid></item></channel></rss>",
+  "post_features": {
+    "https://u.today/garlinghouse-celebrates-historic-ripple-swell-milestone": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "4a84f76d82e842713d8f84063b7034310242a038f3deb6fd9b80c357b68914a5",
+      "title_sha256": "98cfdd78b49e0cff8f56c3488d558ce2b59e20d84e851f1fd5b6aeb9391fe436"
+    },
+    "https://u.today/bitcoin-treasury-stock-crashes-50-amid-withdrawal-trouble": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "653379fbed30a0a605347b61e9479267f63351c1752bc8f492591710816a5e28",
+      "title_sha256": "77f4012c44fd0034550c34bf4dc1bc2f84d081a6b82f612e5d684ee0260cbf0f"
+    },
+    "https://u.today/zcash-zec-launched-10-years-ago-2-things-that-made-it-stand-out-in-2026": {
+      "features": [],
+      "content_sha256": "d9aeca1c091e9b1a497a1822f27ef45b7392f96623d80b6b79d16d2bd394ecd1",
+      "title_sha256": "ea197c39eb09e33d5ed8601c5ca08ab8cdc1b0b1de363d63146a6cb7c70d5e42"
+    },
+    "https://u.today/ripple-makes-stablecoin-history-with-top-tier-moodys-rating": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "6aeb5cc24f141502ed0b87d14dd3352427538c1261daf5e930b3c0333b2e3509",
+      "title_sha256": "1aa4e8cb1bacfd0f1708c987c27c6afe90219bf0a9748033a5b4538014e6c869"
+    },
+    "https://u.today/coinbase-shuts-down-data-breach-rumors-no-customer-funds-at-risk": {
+      "features": [],
+      "content_sha256": "4182643043111fed7596adf0e99eeed7d2e8092dab6230cfd6577b0130231a94",
+      "title_sha256": "30c2872b9d7ced7579d16d6bdb0f928b0aeb59a0ed35dd4ef0a3ac201e22199e"
+    },
+    "https://u.today/xrp-ledgers-2633-increase-turns-to-almost-0-as-investors-fail-to-catch-momentum": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "50012b720ced0d83ccfd6b1f3e43810662843ca45bfc98de552093f96c282553",
+      "title_sha256": "d0b30149c7630aa4c6fa60873062eba6e1b1848a6986a58b89666936a9957e48"
+    },
+    "https://u.today/428862-surge-in-24-hours-shiba-inu-sees-highest-burn-rate-this-month": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "027b21b5c83cfdc229e4e4ca76606d293e434e35ffaefd5fbe4c0697427c251e",
+      "title_sha256": "3824f88593b34da9c7d4b2c7afdc22f5e8addfbdb0314eab22b4934217d9a3d6"
+    },
+    "https://u.today/binance-delisting-alert-10-pairs-to-go-as-october-ends-btc-and-eth-affected": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "fdd4dab1ec2fb5e3a848ab82b9b344f9ca3d310f342f97b2d5f2a02eae4fe211",
+      "title_sha256": "27128c617e91049045c931610d15689c8873c72092d4cf9eeb30efd693bc3041"
+    },
+    "https://u.today/10-million-crypto-whale-awakening-closes-market-gap-between-shiba-inu-shib-and-pepe": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "PEPE",
+          "token_rules": [
+            "name:pepe"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu",
+            "symbol:SHIB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "PEPE",
+          "token_rules": [
+            "name:pepe",
+            "name:pepe"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "symbol:SHIB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "9efa6d0ceb4a54f2ca902adc130554d7f03e6cd241dc8b7d5d368435d4666ca1",
+      "title_sha256": "d7751c08f5f84fa4894c8be355d8cf8f7561cf2ff614ad5bbf7cbb3eab3edfd4"
+    },
+    "https://u.today/shiba-inu-shib-risks-losing-50-million-oi-threshold": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu",
+            "symbol:SHIB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "cd91c46c80917245116c8ac855f407fca519d4c16623fa1e3a665ee4f136df25",
+      "title_sha256": "f0b1a7d46c23ec3ba74704051d656742b233df0975d2a03adb5a39b165c43104"
+    },
+    "https://u.today/stellar-scores-significant-tokenization-win-with-securitize": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar",
+            "symbol:XLM"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "1493da08aa24de8b5c57be4e0b423da23192c016e449c3a71490a6379dee6263",
+      "title_sha256": "faddfe79be29cbb1ea773f7a5783690f9386510610b45caad16a8df61cec6739"
+    },
+    "https://u.today/coinbase-launches-ripple-usd-challenging-krakens-market-hold": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "9cf37c9842aeeb6e16ad98017b814af4c8c1a73eb90130c8693ee2781afbe709",
+      "title_sha256": "9e3de75d93f370eafaa4e290161390c6789d11df74511ca5de1fb5d1542670a8"
+    },
+    "https://u.today/doge-was-never-meant-to-be-ethereum-or-solana-dogecoin-contributor-sets-record-straight": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "DOGE",
+          "token_rules": [
+            "symbol:DOGE",
+            "name:dogecoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "DOGE",
+          "token_rules": [
+            "name:dogecoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "1bb8becc25dc88005f932bab1fec39f18c5331b80b063e994235d07e01bf8257",
+      "title_sha256": "4f631cbdf8027f5fac93448194322132b5326045601939f5666d6e4843db4ada"
+    },
+    "https://u.today/forget-ai-wintermute-explains-why-bitcoins-next-move-now-depends-on-oil": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:now:+0.25"
+            ],
+            "value": 0.25
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:now:+0.25"
+            ],
+            "value": 0.25
+          }
+        }
+      ],
+      "content_sha256": "2a8549761c06a18452ec5b839d14ecf6e266f8e80da6b42596a1c03fe98a34cd",
+      "title_sha256": "510e8e59d3e748ffe168dd4bd4cdb9570284316e8d3b2a1d2ea01c2eb613d396"
+    },
+    "https://u.today/blackrock-resumes-buying-bitcoin-as-price-reclaims-81000": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:buying:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "c151058c9f32fb470818b1561f5f546e983d675e2405e607fdc554373938dcc1",
+      "title_sha256": "c86abc40c37b39dc7a4815130a67a81bb36459dc8c5827ada79cd158b92fc29f"
+    },
+    "https://u.today/we-will-never-give-up-on-xrp-ripple-ceo-ends-speculations": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP",
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:breaking:+0.25"
+            ],
+            "value": 0.25
+          }
+        }
+      ],
+      "content_sha256": "f56ebe209ea5c7afb68fa082ce39d9bd57373baccc6956766025d5e7980ec10f",
+      "title_sha256": "2e526768fd0d5ebf5a1036e7104338bbd2cffc70ee2c20cdf454c29c93b92389"
+    },
+    "https://u.today/there-will-be-run-on-banks-bitcoin-bull-draper-predicts-seismic-shift": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "0cb56e4779c3ae305fe5be3134308b6a8fc76b57a71c95741c99c617236af484",
+      "title_sha256": "f009f7e7bb2aa02f7677053013a2ed3082a589df361b3f07933b045ead290cf1"
+    },
+    "https://u.today/xrp-ledger-foundation-adds-flare-to-validator-list": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "05607ff5c7c995105f16b7de98fb331b88f6448984358d2b17a89c9a01ae9205",
+      "title_sha256": "1f5af4b9316216861fed33568b415e94589834ab28cd42031b39239c48121745"
+    },
+    "https://u.today/price-analysis/near-protocol-near-shiba-inu-shib-chainlink-link-and-ethereum-eth-price-analysis-for-october-29": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum",
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "LINK",
+          "token_rules": [
+            "name:chainlink"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "NEAR",
+          "token_rules": [
+            "name:near protocol"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu",
+            "symbol:SHIB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "7ae3ef33491421190c91395803b72fda5d18df5c90b4daa2107c0ef06b84ca07",
+      "title_sha256": "dc8b97892f1c380adfc5c1d3f3e44ec996174d2201c17d81384effb483647baa"
+    },
+    "https://u.today/garlinghouse-2026-is-phenomenal-year-for-ripple": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "edb58bfc6ccc88d7dafa4e0e6b920619a7e488f9955d428ed8613ccf72740038",
+      "title_sha256": "711243c6969fca29f7a1c529e90e421a5be40d25e98b799e0190224e0b6867b6"
+    },
+    "https://u.today/coinbase-ceo-predicts-end-of-subscription-era": {
+      "features": [],
+      "content_sha256": "eb9d9bf2459341c0cd356a5ae699edca74250d2f75aa64579864363be1cd1239",
+      "title_sha256": "57253b13b5d10688e71d0b1d962078c9baf12a128c9be84dcba10847822f2636"
+    },
+    "https://u.today/large-5x-monero-xmr-long-spotted-as-price-dives-below-600": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:long:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "XMR",
+          "token_rules": [
+            "name:monero",
+            "symbol:XMR"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:long:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "XMR",
+          "token_rules": [
+            "symbol:XMR",
+            "name:monero"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "a8da17f2cef36ae9848c1de628e73106e1112fbf08bbe9303393f724feff607b",
+      "title_sha256": "f271549edf655c92cc288a65dcb84f974a4d1e42c777b3b94c281a2cd637137f"
+    },
+    "https://u.today/hyperliquid-hype-burns-nearly-5-of-token-supply-as-lifetime-revenue-hits-138-billion": {
+      "features": [],
+      "content_sha256": "bea963d018030c8988f3c166795725e7736d0f2be3a7c8b0bdd57457bd36363d",
+      "title_sha256": "ea072902393c3e56c4a60c91d9429ae800fb25aca1e88c45ef9984ca4ea8af20"
+    },
+    "https://u.today/ripple-president-breaks-down-why-tokenization-is-cryptos-next-big-chapter": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:long:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "82728bce6563be6dddd3264caeda7043c5d11c68ab28bd87babc2e0d41a233fe",
+      "title_sha256": "699cdb9036f8d6b5f5a53b406d3beb486fd75594908db9f24a75a8bccbdecfcb"
+    },
+    "https://u.today/xrp-ledger-hits-highest-level-of-2026": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "6c3c21515f6243503b2cc965f1fc1b762a2b8fe93c915e78ab17907d1e310d03",
+      "title_sha256": "0ce35263b9da6f52a38be1b127e5c63ef0281e6e163a3c1c314d17287a47dd3c"
+    },
+    "https://u.today/92-billion-shiba-inu-shib-in-24-hours-reasons-behind-the-drop-are-clear-now": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu",
+            "symbol:SHIB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:now:+0.25"
+            ],
+            "value": 0.25
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bearish",
+          "sentiment": {
+            "fired": [
+              "sentiment:selling:-0.40"
+            ],
+            "value": -0.4
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu",
+            "symbol:SHIB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "37dc62995d2f26096662877d00f94d46df350b6f9629bac9fa8203ca6a0c5061",
+      "title_sha256": "259f2196e956cec334995539468db665379e921ccfc95a9a57f8b286da34273e"
+    },
+    "https://u.today/binances-cz-denies-owning-shiba-inu-shib": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu",
+            "symbol:SHIB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "1e60e562220d45e0a2d138d63ac043bfe92ca51343a499fe035bdace5f1cc328",
+      "title_sha256": "033a11f8bd7fc90fb26eafab4c942c21858fa4c076eecc402f5255eed00f0f2f"
+    },
+    "https://u.today/342-million-crypto-bloodbath-as-bitcoin-and-xrp-longs-smashed-main-crypto-news-this-morning": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "1aa297a59c5bbf218a3b9fe2fa68fdf186fa7504ea55a3eb13e8644153f50132",
+      "title_sha256": "34c64d9ec3889aeda1172a93fe856c77e6f2100ca9703938ef70e4da021c040f"
+    },
+    "https://u.today/ethereum-faces-2000-price-warning-as-whales-offload-348-million-in-eth": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum",
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum",
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "956b2ce4452ae33ffedd22594b6efd65c40559773a9b31b939f766e778fa67a9",
+      "title_sha256": "8985a0f010a3278297af617da030e1f1d2a32f331d1a6fd5f4845e98f13228a8"
+    },
+    "https://u.today/17833333-doge-longs-liquidated-in-market-selloff-whats-ahead": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "DOGE",
+          "token_rules": [
+            "symbol:DOGE"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "DOGE",
+          "token_rules": [
+            "name:dogecoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "e5559f48cf658bbb9d597f11b0408aa2399c47110ecd3f0037974893183b5ec7",
+      "title_sha256": "8b5d420708cad626b6185973a4d9a271f2003bee867dfab97f21b023ba5ec62e"
+    },
+    "https://u.today/solana-hits-5-billion-in-rwa-value": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "995d2d37bfb7d1f29ac18b6c99ef721ea7f95b3d16a0adca8639a073a652038a",
+      "title_sha256": "650f8bf7aaffcb75ef05358d9aba6ae515de2434b7b11ea3469fd43e4ba8aebe"
+    },
+    "https://u.today/a-new-way-of-trading-to-come-to-xrp-ledger-next-week-whats-known-so-far": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "71c1ebab629f3318855a9f0f944e3250273df5a065d81da99bd480785a22a622",
+      "title_sha256": "4ce7bb6c10f936cd0be692311055e6ba5ed020bf1d6367956cd4833bd5aef0d5"
+    },
+    "https://u.today/gemini-boss-slams-crypto-hater-lagarde-following-her-resignation-announcement": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:long:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "e46d0cf37c9d02ea9888a748a1facf07e5b525119dc110436f5d2921ad9b936f",
+      "title_sha256": "266596c6b52b0319ba0f3da507044f71cf4b31bc42f14c2cfc46bdf49f76e1b8"
+    },
+    "https://u.today/hyperliquid-hype-rockets-20-as-druckenmiller-invests-and-elon-musk-reacts": {
+      "features": [],
+      "content_sha256": "5cb7f269abef87928da9a10319967d25df93aecf277098f139a4253ec8e575f1",
+      "title_sha256": "e25a0609ddd7186fd5778a12966d2738525d193f2e05e5829884a25c5cac256d"
+    },
+    "https://u.today/polymarket-hit-by-massive-hack": {
+      "features": [],
+      "content_sha256": "910785d7a8cce8aca7166021bb1648c4233b7e20e23da17c22d1c65351c7bd98",
+      "title_sha256": "4f98cd31dce52683e0663dba6523ff8adce18e801f51f19daa948a5231163fbd"
+    },
+    "https://u.today/hackers-target-crypto-users-with-fake-chatgpt-and-claude-apps": {
+      "features": [],
+      "content_sha256": "d66bffa8bfeaf2d7c0b5d7f0039fa7efa8bf4455ddc578c4b7fe8a306bee7c12",
+      "title_sha256": "ec974fed6cec4fd98aa33cdab3cee69ca62084211c86633a5d1ae71c4c5f7249"
+    },
+    "https://u.today/massive-59-billion-binance-hack-hits-xrp-btc-eth-and-other-tokens": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "8f99758c9629ba0c0055d347d074fc5e5af0b8db5e2b2c46b7dba00bee78cd1e",
+      "title_sha256": "9f3cdc0431b364cf36bafe9f46c9e1b46c56ab4b8bfa81baed587f6e3df5acf9"
+    },
+    "https://u.today/price-analysis/hyperliquid-hype-xrp-cardano-ada-and-zcash-zec-price-analysis-for-october-30-market-picture-is": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ADA",
+          "token_rules": [
+            "name:cardano",
+            "symbol:ADA"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ADA",
+          "token_rules": [
+            "symbol:ADA"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "fa9574032eef8428616447031027941f1c9f386a852e25e448cca8f91279f81c",
+      "title_sha256": "8859b8b31cb0941be8ac6e27322bdfd8fc2f361c81ce601b832d00603881eb53"
+    }
+  }
+}

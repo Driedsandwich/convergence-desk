@@ -1,0 +1,2061 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:thedefiant",
+  "endpoint": "https://thedefiant.io/feed",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=utf-8"
+  },
+  "fetch_time": "2026-10-30T00:48:18.073052Z",
+  "original_response_sha256": "cde46a9c249c325c3f0225e87da07c1d61e9dceca8ae899497ab9381da8bbd14",
+  "body": "<rss><channel><item><title /><link>https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs</link><guid>https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs</guid><pubDate>Thu, 29 Oct 2026 23:32:17 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack</link><guid>https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack</guid><pubDate>Thu, 29 Oct 2026 22:10:31 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/polymarket-adds-15-minute-gold-and-silver-bets-with-chainlink</link><guid>https://thedefiant.io/news/defi/polymarket-adds-15-minute-gold-and-silver-bets-with-chainlink</guid><pubDate>Thu, 29 Oct 2026 21:25:05 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain</link><guid>https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain</guid><pubDate>Thu, 29 Oct 2026 21:22:00 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance</link><guid>https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance</guid><pubDate>Thu, 29 Oct 2026 21:16:40 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation</link><guid>https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation</guid><pubDate>Thu, 29 Oct 2026 21:04:09 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/warren-curtis-press-kalshi-and-polymarket-on-election-trading-safeguards</link><guid>https://thedefiant.io/news/regulation/warren-curtis-press-kalshi-and-polymarket-on-election-trading-safeguards</guid><pubDate>Thu, 29 Oct 2026 21:02:50 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/cefi/binance-takeover-claim-recycles-cz-s-2022-ftx-announcement</link><guid>https://thedefiant.io/news/cefi/binance-takeover-claim-recycles-cz-s-2022-ftx-announcement</guid><pubDate>Thu, 29 Oct 2026 20:54:53 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/cftc-chair-calls-utah-s-kalshi-prosecution-blatant-overreach</link><guid>https://thedefiant.io/news/regulation/cftc-chair-calls-utah-s-kalshi-prosecution-blatant-overreach</guid><pubDate>Thu, 29 Oct 2026 20:50:02 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/cefi/coinbase-beats-q3-transaction-revenue-estimates-as-crypto-gains-lift-profit</link><guid>https://thedefiant.io/news/cefi/coinbase-beats-q3-transaction-revenue-estimates-as-crypto-gains-lift-profit</guid><pubDate>Thu, 29 Oct 2026 20:46:26 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/blockchains/base-sets-november-5-for-denim-s-200ms-mainnet-blocks</link><guid>https://thedefiant.io/news/blockchains/base-sets-november-5-for-denim-s-200ms-mainnet-blocks</guid><pubDate>Thu, 29 Oct 2026 20:33:58 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/cefi/coinbase-ceo-armstrong-adopts-plan-to-sell-up-to-1-31-billion-in-shares</link><guid>https://thedefiant.io/news/cefi/coinbase-ceo-armstrong-adopts-plan-to-sell-up-to-1-31-billion-in-shares</guid><pubDate>Thu, 29 Oct 2026 20:24:39 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/cefi/bitcoin-gains-drive-strategy-s-20-9b-q3-operating-profit</link><guid>https://thedefiant.io/news/cefi/bitcoin-gains-drive-strategy-s-20-9b-q3-operating-profit</guid><pubDate>Thu, 29 Oct 2026 20:14:22 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach</link><guid>https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach</guid><pubDate>Thu, 29 Oct 2026 19:40:31 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/infrastructure/celestia-unveils-voyager-for-ai-payments-citing-21-million-tps-benchmark</link><guid>https://thedefiant.io/news/infrastructure/celestia-unveils-voyager-for-ai-payments-citing-21-million-tps-benchmark</guid><pubDate>Thu, 29 Oct 2026 18:47:56 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud</link><guid>https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud</guid><pubDate>Thu, 29 Oct 2026 18:43:55 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/polymarket-says-issue-fixed-pledges-to-make-affected-users-whole</link><guid>https://thedefiant.io/news/security/polymarket-says-issue-fixed-pledges-to-make-affected-users-whole</guid><pubDate>Thu, 29 Oct 2026 18:41:34 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/markets/grayscale-s-hypg-offers-nasdaq-listed-hype-exposure-and-staking</link><guid>https://thedefiant.io/converge/markets/grayscale-s-hypg-offers-nasdaq-listed-hype-exposure-and-staking</guid><pubDate>Thu, 29 Oct 2026 18:36:01 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/polymarket-halts-trading-and-pauses-relayer-amid-incident</link><guid>https://thedefiant.io/news/security/polymarket-halts-trading-and-pauses-relayer-amid-incident</guid><pubDate>Thu, 29 Oct 2026 18:27:29 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/india-s-ed-announces-searches-in-524-million-crypto-transfer-probe</link><guid>https://thedefiant.io/news/regulation/india-s-ed-announces-searches-in-524-million-crypto-transfer-probe</guid><pubDate>Thu, 29 Oct 2026 16:30:03 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/polygon-extends-bank-to-stablecoin-payment-stack-to-solana</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/polygon-extends-bank-to-stablecoin-payment-stack-to-solana</guid><pubDate>Thu, 29 Oct 2026 16:14:01 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/htx-exits-uk-following-fca-settlement</link><guid>https://thedefiant.io/news/regulation/htx-exits-uk-following-fca-settlement</guid><pubDate>Thu, 29 Oct 2026 16:11:39 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges</link><guid>https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges</guid><pubDate>Thu, 29 Oct 2026 16:11:26 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/tradfi-and-fintech/ipx-integrates-bridge-fiat-on-off-ramps-tokenized-ip-platform</link><guid>https://thedefiant.io/news/tradfi-and-fintech/ipx-integrates-bridge-fiat-on-off-ramps-tokenized-ip-platform</guid><pubDate>Thu, 29 Oct 2026 16:10:17 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/canton-strategic-targets-monday-tokenized-stock-debut-on-tsv</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/canton-strategic-targets-monday-tokenized-stock-debut-on-tsv</guid><pubDate>Thu, 29 Oct 2026 16:09:17 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/metamask-makes-stellar-a-default-network-on-mobile-and-extension</link><guid>https://thedefiant.io/news/defi/metamask-makes-stellar-a-default-network-on-mobile-and-extension</guid><pubDate>Thu, 29 Oct 2026 15:53:19 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/chainlink-launches-24-7-rwa-pricing-with-aave-as-launch-partner</link><guid>https://thedefiant.io/news/defi/chainlink-launches-24-7-rwa-pricing-with-aave-as-launch-partner</guid><pubDate>Thu, 29 Oct 2026 15:45:01 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/regulation/bank-of-england-proposes-tokenized-collateral-safeguards-for-clearinghouses</link><guid>https://thedefiant.io/converge/regulation/bank-of-england-proposes-tokenized-collateral-safeguards-for-clearinghouses</guid><pubDate>Thu, 29 Oct 2026 15:36:43 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/walmart-joins-okxice-objectors-as-issuer-total-reaches-38</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/walmart-joins-okxice-objectors-as-issuer-total-reaches-38</guid><pubDate>Thu, 29 Oct 2026 15:34:22 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/walmart-blocks-third-party-stock-tokens-on-planned-okxice-venue</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/walmart-blocks-third-party-stock-tokens-on-planned-okxice-venue</guid><pubDate>Thu, 29 Oct 2026 15:17:52 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades</link><guid>https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades</guid><pubDate>Thu, 29 Oct 2026 15:14:35 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/uphold-launches-rlusd-earn-with-up-to-7-variable-apy</link><guid>https://thedefiant.io/news/defi/uphold-launches-rlusd-earn-with-up-to-7-variable-apy</guid><pubDate>Thu, 29 Oct 2026 15:10:11 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/ice-plans-us-regulated-hyperliquid-perps-with-tradexyz</link><guid>https://thedefiant.io/news/defi/ice-plans-us-regulated-hyperliquid-perps-with-tradexyz</guid><pubDate>Thu, 29 Oct 2026 15:06:58 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/markets/why-more-crypto-can-mean-less-crypto-per-treasury-share</link><guid>https://thedefiant.io/news/markets/why-more-crypto-can-mean-less-crypto-per-treasury-share</guid><pubDate>Thu, 29 Oct 2026 13:16:21 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96</link><guid>https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96</guid><pubDate>Thu, 29 Oct 2026 09:03:01 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december</guid><pubDate>Thu, 29 Oct 2026 08:19:21 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records</link><guid>https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records</guid><pubDate>Thu, 29 Oct 2026 06:47:49 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high</link><guid>https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high</guid><pubDate>Thu, 29 Oct 2026 06:42:56 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts</guid><pubDate>Thu, 29 Oct 2026 06:04:48 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff</link><guid>https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff</guid><pubDate>Thu, 29 Oct 2026 03:42:33 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/hacks/singapore-police-report-2-7-million-in-tampered-ledger-wallet-losses</link><guid>https://thedefiant.io/news/hacks/singapore-police-report-2-7-million-in-tampered-ledger-wallet-losses</guid><pubDate>Thu, 29 Oct 2026 03:39:53 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction</link><guid>https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction</guid><pubDate>Thu, 29 Oct 2026 02:33:13 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys</link><guid>https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys</guid><pubDate>Thu, 29 Oct 2026 01:52:57 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch</link><guid>https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch</guid><pubDate>Thu, 29 Oct 2026 01:16:05 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash</link><guid>https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash</guid><pubDate>Thu, 29 Oct 2026 01:06:59 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw</link><guid>https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw</guid><pubDate>Thu, 29 Oct 2026 00:37:20 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta</link><guid>https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta</guid><pubDate>Wed, 28 Oct 2026 23:38:58 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders</link><guid>https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders</guid><pubDate>Wed, 28 Oct 2026 23:18:43 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears</link><guid>https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears</guid><pubDate>Wed, 28 Oct 2026 22:21:08 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain</link><guid>https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain</guid><pubDate>Wed, 28 Oct 2026 20:09:45 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4</link><guid>https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4</guid><pubDate>Wed, 28 Oct 2026 19:14:19 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix</link><guid>https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix</guid><pubDate>Wed, 28 Oct 2026 18:38:18 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer</link><guid>https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer</guid><pubDate>Wed, 28 Oct 2026 18:13:39 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain</link><guid>https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain</guid><pubDate>Wed, 28 Oct 2026 18:12:28 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds</link><guid>https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds</guid><pubDate>Wed, 28 Oct 2026 17:29:16 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding</link><guid>https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding</guid><pubDate>Wed, 28 Oct 2026 17:11:51 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain</link><guid>https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain</guid><pubDate>Wed, 28 Oct 2026 16:56:48 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app</link><guid>https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app</guid><pubDate>Wed, 28 Oct 2026 16:16:54 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes</link><guid>https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes</guid><pubDate>Wed, 28 Oct 2026 15:53:35 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks</link><guid>https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks</guid><pubDate>Wed, 28 Oct 2026 15:44:37 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/euronext-restarts-coinshares-zcash-etp-after-debut-day-halt</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/euronext-restarts-coinshares-zcash-etp-after-debut-day-halt</guid><pubDate>Wed, 28 Oct 2026 14:43:50 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/cefi/kraken-to-cancel-orders-on-176-pairs-in-synthetic-trading-shift</link><guid>https://thedefiant.io/news/cefi/kraken-to-cancel-orders-on-176-pairs-in-synthetic-trading-shift</guid><pubDate>Wed, 28 Oct 2026 14:01:56 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/tradfi-and-fintech/tokenized-stock-and-etf-roster-ondo-dtcc-and-okxice</link><guid>https://thedefiant.io/news/tradfi-and-fintech/tokenized-stock-and-etf-roster-ondo-dtcc-and-okxice</guid><pubDate>Wed, 28 Oct 2026 13:19:46 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/phantom-widens-us-rollout-of-kalshi-prediction-markets</link><guid>https://thedefiant.io/news/defi/phantom-widens-us-rollout-of-kalshi-prediction-markets</guid><pubDate>Wed, 28 Oct 2026 13:16:11 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/how-aave-s-variable-borrow-rate-changes-an-existing-usdt-loan</link><guid>https://thedefiant.io/news/defi/how-aave-s-variable-borrow-rate-changes-an-existing-usdt-loan</guid><pubDate>Wed, 28 Oct 2026 13:15:53 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/defi/coinbase-lists-ripple-s-rlusd-with-transfers-on-three-networks</link><guid>https://thedefiant.io/converge/defi/coinbase-lists-ripple-s-rlusd-with-transfers-on-three-networks</guid><pubDate>Wed, 28 Oct 2026 12:23:34 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/ethena-pay-rolls-out-earn-with-up-to-12-target-rewards</link><guid>https://thedefiant.io/news/defi/ethena-pay-rolls-out-earn-with-up-to-12-target-rewards</guid><pubDate>Wed, 28 Oct 2026 12:12:26 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/dtcc-s-tokenization-service-goes-live-with-34-securities</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/dtcc-s-tokenization-service-goes-live-with-34-securities</guid><pubDate>Wed, 28 Oct 2026 12:08:46 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/soneium-opens-royalty-vault-with-600-000-launch-cap</link><guid>https://thedefiant.io/news/defi/soneium-opens-royalty-vault-with-600-000-launch-cap</guid><pubDate>Wed, 28 Oct 2026 11:17:54 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/okxice-objections-rise-to-33-as-stock-token-lineup-shrinks</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/okxice-objections-rise-to-33-as-stock-token-lineup-shrinks</guid><pubDate>Wed, 28 Oct 2026 11:12:43 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/blockchains/stellar-unveils-fee-free-network-processing-7-million-transactions-per-second</link><guid>https://thedefiant.io/news/blockchains/stellar-unveils-fee-free-network-processing-7-million-transactions-per-second</guid><pubDate>Wed, 28 Oct 2026 10:58:09 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe</link><guid>https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe</guid><pubDate>Wed, 28 Oct 2026 07:37:00 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings</guid><pubDate>Wed, 28 Oct 2026 05:14:25 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident</link><guid>https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident</guid><pubDate>Wed, 28 Oct 2026 03:16:33 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc</link><guid>https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc</guid><pubDate>Wed, 28 Oct 2026 01:11:39 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/cefi/datavault-shares-plunge-nearly-50-after-biconomy-bitcoin-disclosure</link><guid>https://thedefiant.io/converge/cefi/datavault-shares-plunge-nearly-50-after-biconomy-bitcoin-disclosure</guid><pubDate>Wed, 28 Oct 2026 00:56:05 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident</link><guid>https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident</guid><pubDate>Wed, 28 Oct 2026 00:29:33 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/tradfi-and-fintech/ipx-names-ja-rule-president-celebrity-board-of-advisors</link><guid>https://thedefiant.io/news/tradfi-and-fintech/ipx-names-ja-rule-president-celebrity-board-of-advisors</guid><pubDate>Wed, 28 Oct 2026 00:12:35 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/liquid-reserve-gap-narrows-to-600-btc-after-test-transfer</link><guid>https://thedefiant.io/news/security/liquid-reserve-gap-narrows-to-600-btc-after-test-transfer</guid><pubDate>Tue, 27 Oct 2026 20:45:58 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app</link><guid>https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app</guid><pubDate>Tue, 27 Oct 2026 20:38:21 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/cefi/robinhood-chain-lifts-q3-crypto-revenue-to-120-million</link><guid>https://thedefiant.io/news/cefi/robinhood-chain-lifts-q3-crypto-revenue-to-120-million</guid><pubDate>Tue, 27 Oct 2026 20:15:37 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline</link><guid>https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline</guid><pubDate>Tue, 27 Oct 2026 20:13:59 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/blockchains/circle-s-arc-tops-1-billion-in-usdc</link><guid>https://thedefiant.io/news/blockchains/circle-s-arc-tops-1-billion-in-usdc</guid><pubDate>Tue, 27 Oct 2026 18:16:00 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/uniswap-fee-switch-deployment-status-tokenjars-and-uni-burns</link><guid>https://thedefiant.io/news/defi/uniswap-fee-switch-deployment-status-tokenjars-and-uni-burns</guid><pubDate>Tue, 27 Oct 2026 17:28:20 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/security/us-charges-six-in-alleged-madagascar-nft-wallet-draining-scheme</link><guid>https://thedefiant.io/news/security/us-charges-six-in-alleged-madagascar-nft-wallet-draining-scheme</guid><pubDate>Tue, 27 Oct 2026 17:26:54 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/aave-vs-bitso-usdc-prime-what-lenders-hold-and-what-limits-exits</link><guid>https://thedefiant.io/news/defi/aave-vs-bitso-usdc-prime-what-lenders-hold-and-what-limits-exits</guid><pubDate>Tue, 27 Oct 2026 17:14:45 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement</link><guid>https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement</guid><pubDate>Tue, 27 Oct 2026 17:06:19 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/hacks/predict-fun-pledges-full-refunds-for-roughly-400-000-usdt-theft</link><guid>https://thedefiant.io/news/hacks/predict-fun-pledges-full-refunds-for-roughly-400-000-usdt-theft</guid><pubDate>Tue, 27 Oct 2026 16:50:46 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/hacks/myriad-voids-10-prediction-markets-after-admin-wallet-compromise</link><guid>https://thedefiant.io/news/hacks/myriad-voids-10-prediction-markets-after-admin-wallet-compromise</guid><pubDate>Tue, 27 Oct 2026 16:41:18 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/near-adds-confidential-jio-pre-ipo-trading-ahead-of-listing</link><guid>https://thedefiant.io/news/defi/near-adds-confidential-jio-pre-ipo-trading-ahead-of-listing</guid><pubDate>Tue, 27 Oct 2026 15:45:04 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/tradfi-and-fintech/ondo-brings-15-stock-tokens-to-robinhood-chain-with-uniswap-pools</link><guid>https://thedefiant.io/news/tradfi-and-fintech/ondo-brings-15-stock-tokens-to-robinhood-chain-with-uniswap-pools</guid><pubDate>Tue, 27 Oct 2026 15:44:31 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/robinhood-opens-earn-to-all-eligible-users-for-onchain-usdg-lending</link><guid>https://thedefiant.io/news/defi/robinhood-opens-earn-to-all-eligible-users-for-onchain-usdg-lending</guid><pubDate>Tue, 27 Oct 2026 15:11:41 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/nfts-and-web3/ensv2-activation-queued-setting-up-end-to-new-ensv1-registrations</link><guid>https://thedefiant.io/news/nfts-and-web3/ensv2-activation-queued-setting-up-end-to-new-ensv1-registrations</guid><pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/regulation/polymarket-investigated-dozens-of-midterm-bets-npr-reports</link><guid>https://thedefiant.io/news/regulation/polymarket-investigated-dozens-of-midterm-bets-npr-reports</guid><pubDate>Tue, 27 Oct 2026 14:25:19 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/tradfi-and-fintech/bitget-wallet-launches-usd-eur-virtual-accounts-with-noah</link><guid>https://thedefiant.io/news/tradfi-and-fintech/bitget-wallet-launches-usd-eur-virtual-accounts-with-noah</guid><pubDate>Tue, 27 Oct 2026 13:36:56 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/tradfi-and-fintech/sbloc-vs-margin-loan-how-borrowing-against-shares-differs</link><guid>https://thedefiant.io/news/tradfi-and-fintech/sbloc-vs-margin-loan-how-borrowing-against-shares-differs</guid><pubDate>Tue, 27 Oct 2026 13:19:56 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/cefi/common-vs-preferred-dividends-what-mstr-and-strc-holders-can-claim</link><guid>https://thedefiant.io/news/cefi/common-vs-preferred-dividends-what-mstr-and-strc-holders-can-claim</guid><pubDate>Tue, 27 Oct 2026 13:19:32 GMT</pubDate></item><item><title /><link>https://thedefiant.io/news/defi/stop-loss-vs-stop-limit-why-a-trigger-is-not-a-fill</link><guid>https://thedefiant.io/news/defi/stop-loss-vs-stop-limit-why-a-trigger-is-not-a-fill</guid><pubDate>Tue, 27 Oct 2026 13:16:27 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/defi/janus-henderson-announces-tokenized-nasdaq-100-fund-on-stellar</link><guid>https://thedefiant.io/converge/defi/janus-henderson-announces-tokenized-nasdaq-100-fund-on-stellar</guid><pubDate>Tue, 27 Oct 2026 13:14:44 GMT</pubDate></item><item><title /><link>https://thedefiant.io/converge/tradfi-and-fintech/sofi-reports-161-6-million-in-q3-crypto-revenue-1-6-million-net</link><guid>https://thedefiant.io/converge/tradfi-and-fintech/sofi-reports-161-6-million-in-q3-crypto-revenue-1-6-million-net</guid><pubDate>Tue, 27 Oct 2026 12:57:21 GMT</pubDate></item></channel></rss>",
+  "post_features": {
+    "https://thedefiant.io/converge/cefi/datavault-shares-plunge-nearly-50-after-biconomy-bitcoin-disclosure": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "c675cab51ad1d71d1fa28d9b8dc09c85fabb2a6356afb51e658a0ea20b7760dd",
+      "title_sha256": "a8397bf336873b1d511889457acaedfcfb83f27feb5ba05ec0fb46b450a9c9ff"
+    },
+    "https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AVAX",
+          "token_rules": [
+            "name:avalanche"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "9be296506a76eacca52c2e0779b7b5091e095e781b055e6607ae0ea23d57633f",
+      "title_sha256": "3b954b34b295469823e1b978c48ed43a73923438c705add221ed8ff46ad9eec8"
+    },
+    "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident": {
+      "features": [],
+      "content_sha256": "9420c781119dea1160f7e62918cbb8fa0ee6fa26cdb7c14517c3c07d79e7b55d",
+      "title_sha256": "8e1fa6118dfdead3f7ba6677d5c2a3b693160af7a6e9d598fd43f3c89e0edd24"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "50be828069e9b8a9354996fd4d24b19c02afc9950095d99efd6ee48e633c13d4",
+      "title_sha256": "6443292d271edbba2857f26d41b0fd5a5c68a2cd04016756b7114fc768206204"
+    },
+    "https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe": {
+      "features": [],
+      "content_sha256": "1d9e8a6a3229a26c1cf01d91a270e53f1c46a27b740a9c7e053f13b897eab020",
+      "title_sha256": "d6d992fdc8cb39987f70dd34550ad29963d237d1b2c1c12a07d6405c91e3b706"
+    },
+    "https://thedefiant.io/news/blockchains/stellar-unveils-fee-free-network-processing-7-million-transactions-per-second": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "9cd2d18aa8c13963ce604095810910c77813297c9d976c907d33dc6371d1dd53",
+      "title_sha256": "269b1894c2a0ef11a91684ab715a696a7f1c280bebee5f2bb1e2a8c29783dab2"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/okxice-objections-rise-to-33-as-stock-token-lineup-shrinks": {
+      "features": [],
+      "content_sha256": "e5152e263f514cc26c2d35926ea5b0e4f06546731442a5f3b5b207d5f91866c0",
+      "title_sha256": "18128d3423c19d410d4d443b3328916ec67d21db7102b70a044ae8aeb6d654f8"
+    },
+    "https://thedefiant.io/news/defi/soneium-opens-royalty-vault-with-600-000-launch-cap": {
+      "features": [],
+      "content_sha256": "045b28b9b56f037e82b8bd75207420298e3f078cc5f7924942a9ebc8d8a3d432",
+      "title_sha256": "72209358b58e5a3b3c7dc02c4220e78aaf92da3d0ad45d4f31e98452ba958d37"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-s-tokenization-service-goes-live-with-34-securities": {
+      "features": [],
+      "content_sha256": "41458f28075979fc13a9a229b2059b3c271250ee7382ae7399773b13c3c246a4",
+      "title_sha256": "a351794bccaef03aae3d873dce69d191af2ac94bcec14d3e5d0b70bd8a0cd059"
+    },
+    "https://thedefiant.io/news/defi/ethena-pay-rolls-out-earn-with-up-to-12-target-rewards": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "61027117fcc2063bd1603cbce86cb4510df1690980ee7a5ed378a28ae975f02d",
+      "title_sha256": "5df105172dc5a5db5f3f892a98690c4c4c1c830abad2521a260bf3643b64c2e1"
+    },
+    "https://thedefiant.io/converge/defi/coinbase-lists-ripple-s-rlusd-with-transfers-on-three-networks": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "725bd42159cb7d0242ab469ffcdb694c889b2ccfdf93ff665ceb89ad2bf38fad",
+      "title_sha256": "14ac8854c055c6fbfd1dfcab226b51f2c2abfc8364baf9d6c969bbd962e72f20"
+    },
+    "https://thedefiant.io/news/defi/how-aave-s-variable-borrow-rate-changes-an-existing-usdt-loan": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:now:+0.25"
+            ],
+            "value": 0.25
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:now:+0.25"
+            ],
+            "value": 0.25
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:now:+0.25"
+            ],
+            "value": 0.25
+          }
+        }
+      ],
+      "content_sha256": "30d6dc2af5195e3408e59d58c7ce49eb74bf5674bdc568961e7f1cb74de66db2",
+      "title_sha256": "0bded7818217bb9d5e0f6d54c708355e9932f7f5d1325dfec85b466f742d330c"
+    },
+    "https://thedefiant.io/news/defi/phantom-widens-us-rollout-of-kalshi-prediction-markets": {
+      "features": [],
+      "content_sha256": "8cd6454e2c7737c91084c061ea8dc08ad0e151fb3905edd32dca0fbb826c76f1",
+      "title_sha256": "49caa4711e58f0dbbb38c4f0b9ce1ead2a11b0187b2f178527010e042572c166"
+    },
+    "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stock-and-etf-roster-ondo-dtcc-and-okxice": {
+      "features": [],
+      "content_sha256": "97d06656fb867fb67945d997e499fa921c213fedaefcd8f7eb8ef84f5c53f56e",
+      "title_sha256": "9165114302d0b8056d9e067f0f8c81683b3bed9faacd3afd3ab616581b4cae74"
+    },
+    "https://thedefiant.io/news/cefi/kraken-to-cancel-orders-on-176-pairs-in-synthetic-trading-shift": {
+      "features": [],
+      "content_sha256": "951ee0e473b2d3eb21cd656e71e750cc1658ed712e675ed80372ffe04b07f4a7",
+      "title_sha256": "f5f7e708d779e32aa0aa95ac8a872c1ce767ca6a1a7522d0ea98a00e92acbd31"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/euronext-restarts-coinshares-zcash-etp-after-debut-day-halt": {
+      "features": [],
+      "content_sha256": "0dcf975ecfb88301d03ea81aa2c731191bb110f4f40d4d8cb381c5138bc84c1a",
+      "title_sha256": "1ce65250abc9bde4c235da24980c3583e8e62b7b90aa458fe1da62a3ecafd8d0"
+    },
+    "https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "e1d7c88db4ad6e938f0277f1f5f3d647dbe1ed66154542e3d6694c29a93023ae",
+      "title_sha256": "8428dffef2f8046ac6d891057e205b792e92dc1e3c07a7be66404cee57b4f9e3"
+    },
+    "https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "TRX",
+          "token_rules": [
+            "name:tron"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "dd8398ca8023898409f08511cefb960041bdff12a4b413a79bcd9d7ccb21f4f1",
+      "title_sha256": "9063dfbff37d3fcc6360a5bdf786194f2f4a705c3645484cacd356313ba86bcc"
+    },
+    "https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app": {
+      "features": [],
+      "content_sha256": "518ad4371ab018730ae8c9373df01e8ba901cf0957d16f3085023eecd475c118",
+      "title_sha256": "85a9abd29dcf57ba0d316cdb77e7dee37964e3a93030f0b8eb1e3595026b6c4d"
+    },
+    "https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain": {
+      "features": [],
+      "content_sha256": "1e9f423baaefb4597bc85a5c3f200bf44b153c712e215262d1e4b4cc12ece0e3",
+      "title_sha256": "9bc245f5900451e551b33d1d0c72d9763fd80c54c4ed92a1a49a3c8d24a70e26"
+    },
+    "https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding": {
+      "features": [],
+      "content_sha256": "f5096248c792859b0e915916b936fd103790b507a3399d6c27d7abb07f13f587",
+      "title_sha256": "652215414363041c7f05c6213f6289c7a7f0abdef8854c914e1c5619f4f8ac68"
+    },
+    "https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "cafca1076f1ff91d6a7672bac0d02b9e055156cd87b3821d33508325c0c5b646",
+      "title_sha256": "981de89f81f4f2f057f48e9f6faf1ad9c9493f00ceb4d7656220401e73b01c21"
+    },
+    "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "954aa8089b530c8cbd648f7797b24311033e7c1f79cf4437a9e49782dd768f39",
+      "title_sha256": "52aa2ee1a5f35cfdfba76b77bb99019c1e11a43abe3a83ac4572d0fe663e4115"
+    },
+    "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC",
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "65a1854686d210c955a345600b7b7af4f743795ae23a590f85371491dc205878",
+      "title_sha256": "f4960749a9c94e2ed8073b7094157bbcdddf7f0b6832071363de3a452a278ccf"
+    },
+    "https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix": {
+      "features": [],
+      "content_sha256": "51e4aceb71e6a6ef11d7de0948b51367db1a2a96d57d8aded2a458d093d87e63",
+      "title_sha256": "240e3a6843f555b5b51503881683918d4c89963389267571d2d4bdbc5187fe00"
+    },
+    "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "5adae8f47c09895120b6ecd5647ab35fe779dd836e9622cf0244200c50c6af1f",
+      "title_sha256": "7998beae40b0307ecaf76949e26b9904cde64aabca2cca9be7ec75f16d69ffb5"
+    },
+    "https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BNB",
+          "token_rules": [
+            "symbol:BNB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BNB",
+          "token_rules": [
+            "symbol:BNB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "1452e7d5d1bf2853e4151049cbad9c9926e0232e52f415210975105d50855522",
+      "title_sha256": "e45bb76e71a0ee95bdd90372bff30aa585a4921343bc0cb36e08c350ea9f2ce4"
+    },
+    "https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears": {
+      "features": [],
+      "content_sha256": "3565ee31828b04438b747509dac74aaa9140fe46e25444bdc4e3dea9ecfe5cd0",
+      "title_sha256": "7fa3a7519d403a58218ffb5b64338be81c579f0c2bcdb93304a3963886129a59"
+    },
+    "https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders": {
+      "features": [],
+      "content_sha256": "f1c3e61143bc20ae23d11c0a833ee84d1abad13217d49dad8df5f4d6fdf5770a",
+      "title_sha256": "14104a91118b43af95ba8b24511ee03ec2d8901c2542d56dbe53aa1a426dd771"
+    },
+    "https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "48ad9b628083f47f95208e6d43986723e379f555156f21a2452f2f033ad3a61f",
+      "title_sha256": "8f63b0d27e7767a084a801534c43de77b3e970168a8374755f7da9147096fe3b"
+    },
+    "https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "a900a708e23e8ee7609e83d17524908e28d090e613a8f27f1b25bdbb746d766b",
+      "title_sha256": "7c4fe79064a7e4361c8082a99e87e69e8f796e2df01f4fea64a3a2ec4c131f5c"
+    },
+    "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bearish",
+          "sentiment": {
+            "fired": [
+              "sentiment:crash:-0.40"
+            ],
+            "value": -0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "59d60cd12d19c3259988bb0bf464e7d296f5c9efb95067e46760f5bb5812a5f8",
+      "title_sha256": "3d648c2747b300af32421faf7098131804f5dfb8a5c9aa0e32ac19ca03b885e1"
+    },
+    "https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch": {
+      "features": [],
+      "content_sha256": "8c3b94ecbca8a2bff1d6aeddee8b46b7cd08f759fbacb405d4c59d77f7852b0d",
+      "title_sha256": "b2bf192e20fe51b335741ea5960e531c0dcf8b99e8bad4ec12494a40e8d5f8b2"
+    },
+    "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys": {
+      "features": [],
+      "content_sha256": "515516b8c0a8f35803be069eebfc6b67b10f75f645c78c58e444751210640e31",
+      "title_sha256": "85788d42450ff4f837595371644ef9ef850608782fb80d183b88295c89c8f2f0"
+    },
+    "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "7f38ff969c2cd7c88a367561d54f0e456ee0473a217d3727f2c26f975283ea80",
+      "title_sha256": "2851cb3c1a1f8920bbe64648cea33bfec6117fa3cfc4bca342071fb2e84b246f"
+    },
+    "https://thedefiant.io/news/hacks/singapore-police-report-2-7-million-in-tampered-ledger-wallet-losses": {
+      "features": [],
+      "content_sha256": "3ba81357a1232e9c0f316bc0151fac012e69d284d88c5f3b7f64980a66061924",
+      "title_sha256": "880893bdd2fbda7cc5df555b60389a6cf729774a6a778711271c50d406a8b822"
+    },
+    "https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "UNI",
+          "token_rules": [
+            "name:uniswap"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "c049d35eb6c88c4fc2a2d4652e43c275ab2c7fb3a3cca9317a636b4f6785c49f",
+      "title_sha256": "60fa5f49f7aadd3c61abf489e82634929e982484c22da4e4bee0e52673e1e408"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts": {
+      "features": [],
+      "content_sha256": "b7b01a68a93a14cf2f0e7cde1740ef5b74d2d6806e735271d505745b18602957",
+      "title_sha256": "28792109625e15878210ae1b9f8d3956c4e56d65a8adf0b7f709a65a4fe16bce"
+    },
+    "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ARB",
+          "token_rules": [
+            "name:arbitrum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "324fff03336b27e154ac7a277f245699821f65fa468137a9d35f582db8ce0c42",
+      "title_sha256": "18f2f457c2015b05b7199abf5869a8a3eed9fb03475e2c9775f2653fea6d0740"
+    },
+    "https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XMR",
+          "token_rules": [
+            "name:monero"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XMR",
+          "token_rules": [
+            "name:monero"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "842b062a54873a25bc221d2dc9cc7967b46f592a65b986f8050cd7a30db0df15",
+      "title_sha256": "2a112cbfdf8622c89354b13534ff9e3bb95c4e28240aee47b6b310d51b3683a4"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december": {
+      "features": [],
+      "content_sha256": "af7e142ed57927828b4e714fe49690a5c45e0bc39850766073d80870d4f1ea01",
+      "title_sha256": "31fb90c54ea2dbdd84e7d26a0a3f4d15bc9402ffdd04d1587c57536275dd3df8"
+    },
+    "https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "f7941a3189a8b8fe25915cffd7b1b4e19ed662d411a6e0cd6cd72dee7eab90c2",
+      "title_sha256": "dcc11e402497c6d93c01708fd3315449786b394d075a93b0f313f785d9a34ac8"
+    },
+    "https://thedefiant.io/news/markets/why-more-crypto-can-mean-less-crypto-per-treasury-share": {
+      "features": [],
+      "content_sha256": "94e94557cf734adf8b326a59d82ade3f8fef048b01fca301642a566fb70b40cc",
+      "title_sha256": "9893b8763ce930ed5b274f9e10cb5505fb105a167e4b36f948d673b0337087ca"
+    },
+    "https://thedefiant.io/news/defi/ice-plans-us-regulated-hyperliquid-perps-with-tradexyz": {
+      "features": [],
+      "content_sha256": "89ff2c80e3c2c5f8bdfdee1376572314f1b32333c777e5b66ff95c8062ac1339",
+      "title_sha256": "8cd093a8e27fefdb41b899d062c67f474346f2b086e36904d7ba0e580aa4f045"
+    },
+    "https://thedefiant.io/news/defi/uphold-launches-rlusd-earn-with-up-to-7-variable-apy": {
+      "features": [],
+      "content_sha256": "ef76d6719ddf934a2af8d59e586cc9b82377427281afa9f1c966b4b89570c96f",
+      "title_sha256": "0efac1acea2989358199a035bf3e8e31c76fcd3e4d34ff05c1a053a3b2e225f4"
+    },
+    "https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades": {
+      "features": [],
+      "content_sha256": "c98d09b04b0d7ac31840968fe085127a5f6eea3c946ef715184d6d080ad67223",
+      "title_sha256": "fe5f3fda3943cbf99e4c8314c4a0e7fedd82193835076c1f7f03fb2263f2e6b1"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/walmart-blocks-third-party-stock-tokens-on-planned-okxice-venue": {
+      "features": [],
+      "content_sha256": "252a572cee7f8ff9614622ab01d4ec1b2626787a773f4efad6be32df63372fba",
+      "title_sha256": "6d1d198aaeb4afdc7b8c3f3777c006197baab9702f66f5ae6411fba8c3497fad"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/walmart-joins-okxice-objectors-as-issuer-total-reaches-38": {
+      "features": [],
+      "content_sha256": "5b54a5a50604c53634ce5ea82c15d2af1f9349828a18336f8343cb9c7eee2e96",
+      "title_sha256": "957959afc748ec1b5c314abd29246b0d10338061f9f4e040321f72746e599ed1"
+    },
+    "https://thedefiant.io/converge/regulation/bank-of-england-proposes-tokenized-collateral-safeguards-for-clearinghouses": {
+      "features": [],
+      "content_sha256": "501dcd431198acbba4e40a24f3d6720668586accf7128f41d48912af32e4ceda",
+      "title_sha256": "f5db511ed254c700fcfe668ab4c1e5ac774ee1771cafa018c32f4e0f328fc016"
+    },
+    "https://thedefiant.io/news/defi/chainlink-launches-24-7-rwa-pricing-with-aave-as-launch-partner": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "LINK",
+          "token_rules": [
+            "name:chainlink"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:soon:+0.25"
+            ],
+            "value": 0.25
+          }
+        }
+      ],
+      "content_sha256": "55d6d634aa343eea7814c5f5e9423a1c94fe189b0fa2e7630471ebc40171b6b1",
+      "title_sha256": "41c59c44b120b1c0877db5327b55b5877637a43cee070dfe5c4712e8b606d12e"
+    },
+    "https://thedefiant.io/news/defi/metamask-makes-stellar-a-default-network-on-mobile-and-extension": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar",
+            "symbol:XLM"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "7bc29619af05bab4675fe82a16610d593403499b8c6e4708422ea1adf8dc6f80",
+      "title_sha256": "936fa005965d30312aa9a6b7366cfab353030f028336e121d097762719d97d22"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/canton-strategic-targets-monday-tokenized-stock-debut-on-tsv": {
+      "features": [],
+      "content_sha256": "93633e2a6edbdd9ac8393de2ff28b8d3f2b6ff52e31ba6882a4e5a6de78eb80a",
+      "title_sha256": "6acf6926a9d8f231ba1c39a3411702d9674da67c4def3b433b4fe358bf0a9f43"
+    },
+    "https://thedefiant.io/news/tradfi-and-fintech/ipx-integrates-bridge-fiat-on-off-ramps-tokenized-ip-platform": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "04ed15fdadd5579e3540b79c8eaf5b4be789ce4fd7f3b19b5d6b68f55f78149f",
+      "title_sha256": "661dcccef0bdda1ea713b973fc304c9dc46f0993e0493ccf0f4a7cb754862ffe"
+    },
+    "https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "a0cee2cbd421bb9fb84e0ece4cc863b622ee2a970366bbe2ffb3670811e1c59e",
+      "title_sha256": "579a29e97256c9959f8c018819fc536758b34faa5a6530a52dd09956b5df788f"
+    },
+    "https://thedefiant.io/news/regulation/htx-exits-uk-following-fca-settlement": {
+      "features": [],
+      "content_sha256": "3864fe0ee66ec7849e2ac55ee7e6f4e255615c1af32b229d3a84844d9205c23a",
+      "title_sha256": "aa420fe88529c3dfd2831454dbb13e3dde105073a667cb06c3a2334d5f6fbf7a"
+    },
+    "https://thedefiant.io/converge/tradfi-and-fintech/polygon-extends-bank-to-stablecoin-payment-stack-to-solana": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "MATIC",
+          "token_rules": [
+            "name:polygon"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "MATIC",
+          "token_rules": [
+            "name:polygon"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "TRX",
+          "token_rules": [
+            "name:tron"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "95021210a5e0858a51380f7179f8097a675b84e57a16161a36c49c036469ed70",
+      "title_sha256": "1200b0b8dbf4af2293c0fc34b031e18a47a1612fe1bf7a97f534eada6f16404c"
+    },
+    "https://thedefiant.io/news/regulation/india-s-ed-announces-searches-in-524-million-crypto-transfer-probe": {
+      "features": [],
+      "content_sha256": "5e104ad63f9ea83997447e60e04d283687715a1539389372dc3973740bb7bd0b",
+      "title_sha256": "dbd3aa630b85d4997e2fb827c595a5c9943a6e94c94082a504a509afd75ec64e"
+    },
+    "https://thedefiant.io/news/security/polymarket-halts-trading-and-pauses-relayer-amid-incident": {
+      "features": [],
+      "content_sha256": "a9431f7fac971cddb2b38d93a89bb8a387beb41a539ff1a582f8b0cfcb2d446e",
+      "title_sha256": "c8946188571b2cd9db37f644c66e4922b1b6c4243faaeb570c508267fcc3a64a"
+    },
+    "https://thedefiant.io/converge/markets/grayscale-s-hypg-offers-nasdaq-listed-hype-exposure-and-staking": {
+      "features": [],
+      "content_sha256": "011f3cab51ac181ed0b6db66f43f934ef115ea79128d39bf7a0c8888b8e9d209",
+      "title_sha256": "738bb88712b64920fcfc05d83514ef963ab3dc61dd7ca713c75d969639c5b2f7"
+    },
+    "https://thedefiant.io/news/security/polymarket-says-issue-fixed-pledges-to-make-affected-users-whole": {
+      "features": [],
+      "content_sha256": "7bd76af207046c525752800bdaaa4ff4731da328156bca37e7ba2c78e55aaab8",
+      "title_sha256": "3434b8962a428e8cb5559eca7bb2e2ef0f0c132cf8d8ee769a1245f58209a316"
+    },
+    "https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud": {
+      "features": [],
+      "content_sha256": "1e126482dfa1bf2f87dd2bd10bee8424bda034fb595f8d32145030eabf7b26fe",
+      "title_sha256": "812e13ac60ae931698625986c0aa04f14aabad8f8574da17e6599ef910de6dd8"
+    },
+    "https://thedefiant.io/news/infrastructure/celestia-unveils-voyager-for-ai-payments-citing-21-million-tps-benchmark": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "TIA",
+          "token_rules": [
+            "name:celestia"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "TIA",
+          "token_rules": [
+            "name:celestia"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "5ae2bb999e9758ceb80ff5865a189e292d5f8a924ace21b64d0df75a2286a3e2",
+      "title_sha256": "675ee2f49678049f785f688405316a1b6f6575c1410816130343af641ff6859d"
+    },
+    "https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach": {
+      "features": [],
+      "content_sha256": "07261528765406f3da687ad3b4d9a513f2765dde244f812d17d8459ff72e2ea7",
+      "title_sha256": "327bc4de2cbcbd3bb34f324c8b108885229932591a081788b8d8870b92e16298"
+    },
+    "https://thedefiant.io/news/cefi/bitcoin-gains-drive-strategy-s-20-9b-q3-operating-profit": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "d4c34738baf4dbfc778b2a89f15635f637de36e1d575e09772255d28bd6adc02",
+      "title_sha256": "3a5b0960246346161b9ae0c6ede04e2b63dffd24ccc3407478d756d9e92c45f4"
+    },
+    "https://thedefiant.io/news/cefi/coinbase-ceo-armstrong-adopts-plan-to-sell-up-to-1-31-billion-in-shares": {
+      "features": [],
+      "content_sha256": "a18ada69d7de1808d828da78baca0436c0e8b79f99931d474a12e4b9c19e5e7b",
+      "title_sha256": "a127c0a24d05c91d2d7018ec8c2d742c3b1ad89528e02285b4fab68338f66fa0"
+    },
+    "https://thedefiant.io/news/blockchains/base-sets-november-5-for-denim-s-200ms-mainnet-blocks": {
+      "features": [],
+      "content_sha256": "f72410c1b862e078bd0658b1655de490c76f7c5026f0127d0344bf63d7687dc8",
+      "title_sha256": "0f9ae0bbe530f2c14522865b4aaa57bcb7c5e053c1cca4fc3dbd9a7694ae0b2b"
+    },
+    "https://thedefiant.io/news/cefi/coinbase-beats-q3-transaction-revenue-estimates-as-crypto-gains-lift-profit": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "200b62c4614928aefbf146d578544db0522354252b19f891e8d3b9101e3b671b",
+      "title_sha256": "be453e0245e917b5a0a6ef6dd37e1164d85459441ab7b33627e4f780e3551664"
+    },
+    "https://thedefiant.io/news/regulation/cftc-chair-calls-utah-s-kalshi-prosecution-blatant-overreach": {
+      "features": [],
+      "content_sha256": "3d44156065cf3e81707a42424fba79255eb730522de01e35a38db76ab66d3bcc",
+      "title_sha256": "3f8e970d5452891ad921a4112819320141a16212a2c64208691bba91d16ab51a"
+    },
+    "https://thedefiant.io/news/cefi/binance-takeover-claim-recycles-cz-s-2022-ftx-announcement": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BNB",
+          "token_rules": [
+            "symbol:BNB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "ce08e257fc46506f62bbb5d100389c29cb1b7a5ef6b19eaeeec6cf68c4bdc369",
+      "title_sha256": "8cb090761f0dceb5b91bc5f0f5d2d93711e98495f5d4adea02b51818bb641e0c"
+    },
+    "https://thedefiant.io/news/regulation/warren-curtis-press-kalshi-and-polymarket-on-election-trading-safeguards": {
+      "features": [],
+      "content_sha256": "6e6b3ed827ad0da906b9a711da53b1d2180f3723ac452503243438b363a1dbc3",
+      "title_sha256": "9386d050cd258bcd9ff3d2e2257cde1daa326137181a15d41f73de82f79ec363"
+    },
+    "https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation": {
+      "features": [],
+      "content_sha256": "b72eabc48f1e879cc1cb5927d531bf5d32d32ddd36b942790bddc6df5757c6a4",
+      "title_sha256": "98d3228a2ed51005a7ba234e495df81b04ac61e28bd50fbd15f78c630deb47a0"
+    },
+    "https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "UNI",
+          "token_rules": [
+            "name:uniswap"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "LINK",
+          "token_rules": [
+            "name:chainlink"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "1750fc1e72e25c1d683404139ff15888b2e100aecb9db51b6f8613054422a1b9",
+      "title_sha256": "001fc35bdfbf6d09dbbf6981bc72469efdfcbc93a13b2932301b707753a55be9"
+    },
+    "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether",
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "6aafc01410aa074ee0b675bb7182dfb35c25c201f2a598398120fcf6fcb7c6a7",
+      "title_sha256": "1a353cc838b8434330d44816ae473787b4adbd1cb1081e5023f2fd43c937c394"
+    },
+    "https://thedefiant.io/news/defi/polymarket-adds-15-minute-gold-and-silver-bets-with-chainlink": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "LINK",
+          "token_rules": [
+            "name:chainlink"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "5bd2a690cd1942bbbf3544f4e3c1dec8c58899da88f7679b9937d81e51aaf9b2",
+      "title_sha256": "f00a72f1dc6beb6dbdaa2ade7d24d72f53b49a35f2fdd46c959bf44144d27968"
+    },
+    "https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether",
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "568cb0cd1f035ca6745a7211ac649661275e53d36dc18b4bce6a48933cfa2017",
+      "title_sha256": "09ad3e0292ffaa3c95586464240fdddb74604fca0f8ab39a449685cdac582ac5"
+    },
+    "https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs": {
+      "features": [],
+      "content_sha256": "93cdabef87b39a4e24e8e416ffab614f6c11334c6decd9c74c831ab13b201731",
+      "title_sha256": "592d8ecd884b76e534393d7111ea60ba16ff364a52a80cc6bc3b071fd96d56b2"
+    }
+  }
+}

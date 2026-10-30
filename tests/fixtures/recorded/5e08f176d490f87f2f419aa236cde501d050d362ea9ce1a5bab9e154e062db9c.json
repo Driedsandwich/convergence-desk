@@ -1,0 +1,11 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Recorded HTTP failure status; error response body discarded.",
+  "source": "coinbase",
+  "endpoint": "https://api.exchange.coinbase.com/products/TRX-USD/candles?granularity=3600&start=2026-10-27T21%3A00%3A00Z&end=2026-10-30T00%3A48%3A14.139073Z",
+  "payload": null,
+  "status": 404,
+  "headers": {},
+  "fetch_time": "2026-10-30T00:48:59.220528Z",
+  "body": ""
+}

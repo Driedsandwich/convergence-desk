@@ -1,0 +1,400 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:coindesk",
+  "endpoint": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/xml"
+  },
+  "fetch_time": "2026-10-30T00:48:14.342758Z",
+  "original_response_sha256": "247ece1ea9d385d1c6ff96cc9b712c1f09811bbab080d8eee6514f4d99e14081",
+  "body": "<rss><channel><item><title /><link>https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows</link><guid>5c6a3f8f-92bf-4156-9478-7da886f2a3ff</guid><pubDate>Fri, 30 Oct 2026 00:17:10 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets</link><guid>0e3dce2a-f056-4c74-87b0-4ad505ebb343</guid><pubDate>Thu, 29 Oct 2026 21:12:45 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses</link><guid>e5cb38bc-1cfb-4c7b-8f25-a1d9bf40fd13</guid><pubDate>Thu, 29 Oct 2026 18:55:35 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment</link><guid>23c30fb1-7e64-47f5-972a-e4af1da7289b</guid><pubDate>Thu, 29 Oct 2026 17:04:19 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets</link><guid>84523033-dbfd-4e73-84c4-d49660b594b2</guid><pubDate>Thu, 29 Oct 2026 16:51:18 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks</link><guid>1b439b37-0295-4f6a-98c1-52fa0e6b82bb</guid><pubDate>Thu, 29 Oct 2026 16:35:43 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca</link><guid>a6cbbb64-0b33-4563-934e-40e900ef8a9d</guid><pubDate>Thu, 29 Oct 2026 16:11:18 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform</link><guid>87f8e815-d679-4c08-8433-1a9f1e25f1dc</guid><pubDate>Thu, 29 Oct 2026 14:55:47 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure</link><guid>4217fdd7-ae77-40ec-926c-ad954fd7c3ef</guid><pubDate>Thu, 29 Oct 2026 14:39:01 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers</link><guid>07deb1df-c432-4036-922b-c99211b079a2</guid><pubDate>Thu, 29 Oct 2026 14:15:46 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner</link><guid>10c5b71e-27df-4963-8760-e5d228cb239f</guid><pubDate>Thu, 29 Oct 2026 14:15:00 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times</link><guid>07403e41-d930-478b-a805-85251af054b1</guid><pubDate>Thu, 29 Oct 2026 13:55:42 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans</link><guid>9ec68ebb-87d3-4c34-9b6a-9691a3022da8</guid><pubDate>Thu, 29 Oct 2026 13:39:18 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking</link><guid>dcd09559-564a-4042-995c-9ffd6a4285ac</guid><pubDate>Thu, 29 Oct 2026 12:57:51 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework</link><guid>ca78f2d9-fcc9-4599-a74b-c5321c9f37c1</guid><pubDate>Thu, 29 Oct 2026 12:51:48 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud</link><guid>83a78676-47bb-4b16-b894-437896fc3d83</guid><pubDate>Thu, 29 Oct 2026 12:18:20 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing</link><guid>f61c8f06-2f8f-41bb-aa32-d9c87866976d</guid><pubDate>Thu, 29 Oct 2026 12:04:50 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump</link><guid>f8a67fc1-95fd-4dae-930c-432e805b4525</guid><pubDate>Thu, 29 Oct 2026 11:11:48 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s</link><guid>7e015147-e920-46fa-94ca-ba7b32fe85aa</guid><pubDate>Thu, 29 Oct 2026 11:11:25 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump</link><guid>36148893-5e87-4509-a1b0-169effd57332</guid><pubDate>Thu, 29 Oct 2026 10:51:10 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline</link><guid>fc9ca749-eee2-433a-8783-6b0d5ada2a38</guid><pubDate>Thu, 29 Oct 2026 10:44:48 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings</link><guid>f5f7c35b-7d2a-49e7-a40d-93a7e24e6527</guid><pubDate>Thu, 29 Oct 2026 10:41:39 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction</link><guid>5301f076-70cb-45c5-881d-a8204bfb2213</guid><pubDate>Thu, 29 Oct 2026 10:04:36 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan</link><guid>64ba9580-f4ef-42a8-8707-38b0eaa89080</guid><pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate></item><item><title /><link>https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise</link><guid>b8cf7d0a-8b82-45e0-b66a-fbb2bb864d49</guid><pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate></item></channel></rss>",
+  "post_features": {
+    "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise": {
+      "features": [],
+      "content_sha256": "28e7af1156264bc481e2cd2c7735aaae0f3f5707300cd5a34d5a6675da40e89b",
+      "title_sha256": "28e7af1156264bc481e2cd2c7735aaae0f3f5707300cd5a34d5a6675da40e89b"
+    },
+    "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan": {
+      "features": [],
+      "content_sha256": "232f002960bea04914d62f9058dafa2921effe6a73f5a363d04f104350aa2dc8",
+      "title_sha256": "232f002960bea04914d62f9058dafa2921effe6a73f5a363d04f104350aa2dc8"
+    },
+    "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "1ae4027aeacbeff75c84702d6d51f26756c155cde2cadc386d3a6f210ec70c8f",
+      "title_sha256": "1ae4027aeacbeff75c84702d6d51f26756c155cde2cadc386d3a6f210ec70c8f"
+    },
+    "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings": {
+      "features": [],
+      "content_sha256": "912d919058afcd647907a03e6dc704014c3e060c393158b26f4595310ea4e812",
+      "title_sha256": "912d919058afcd647907a03e6dc704014c3e060c393158b26f4595310ea4e812"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "0c9828aa19857e2b28dd935863c5f8a74b283c67c07c1ba9e299890e3722f3d3",
+      "title_sha256": "0c9828aa19857e2b28dd935863c5f8a74b283c67c07c1ba9e299890e3722f3d3"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump": {
+      "features": [],
+      "content_sha256": "18f7080d3d0e467b94c32c1d08dabb3c8242b7470b10c577718391f33ecc87b0",
+      "title_sha256": "18f7080d3d0e467b94c32c1d08dabb3c8242b7470b10c577718391f33ecc87b0"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s": {
+      "features": [],
+      "content_sha256": "c09f558085d0d3f7dc1a6326623d27c151047009170361652cadda6684ebc112",
+      "title_sha256": "c09f558085d0d3f7dc1a6326623d27c151047009170361652cadda6684ebc112"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "70e246b53314894217122481fe0b6b5904f2ad5673e7abab901341ec94af0fbc",
+      "title_sha256": "70e246b53314894217122481fe0b6b5904f2ad5673e7abab901341ec94af0fbc"
+    },
+    "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "97fe0956df86cb5f0e8be389430759c66328ed5c2b304e2624d8123b5b6beadd",
+      "title_sha256": "97fe0956df86cb5f0e8be389430759c66328ed5c2b304e2624d8123b5b6beadd"
+    },
+    "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud": {
+      "features": [],
+      "content_sha256": "1c5c670c22e4a0046b9d97c06f97219affb45c27a96677496772a2a71a44cb05",
+      "title_sha256": "1c5c670c22e4a0046b9d97c06f97219affb45c27a96677496772a2a71a44cb05"
+    },
+    "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework": {
+      "features": [],
+      "content_sha256": "d7d195d75121f87535071e6a37e337cc9d9b37cf872efc00fa9af816f36e57ec",
+      "title_sha256": "d7d195d75121f87535071e6a37e337cc9d9b37cf872efc00fa9af816f36e57ec"
+    },
+    "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking": {
+      "features": [],
+      "content_sha256": "f5604b624213e4d838ea80403113a79509dc1d218db9e541f177bcfff83b63e0",
+      "title_sha256": "f5604b624213e4d838ea80403113a79509dc1d218db9e541f177bcfff83b63e0"
+    },
+    "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans": {
+      "features": [],
+      "content_sha256": "55afc760e3e8547d832a036a5dbb1f89bcafc76460cf7cf06b0f1d7f6da6ed68",
+      "title_sha256": "55afc760e3e8547d832a036a5dbb1f89bcafc76460cf7cf06b0f1d7f6da6ed68"
+    },
+    "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "01cb3795f4730bdff7ffd71395e677a07880a8ce02699e790622db02ae7f9c0f",
+      "title_sha256": "01cb3795f4730bdff7ffd71395e677a07880a8ce02699e790622db02ae7f9c0f"
+    },
+    "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "LINK",
+          "token_rules": [
+            "name:chainlink"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "c440e8dcf44f8619b8a83dd154a58e0a715c0e19032fd48349dbd4fdf737a20a",
+      "title_sha256": "c440e8dcf44f8619b8a83dd154a58e0a715c0e19032fd48349dbd4fdf737a20a"
+    },
+    "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:soon:+0.25"
+            ],
+            "value": 0.25
+          }
+        }
+      ],
+      "content_sha256": "78818df7f6754ce5babe896ae30c07cae5cbcd8857488ab87d79de59fb38430a",
+      "title_sha256": "78818df7f6754ce5babe896ae30c07cae5cbcd8857488ab87d79de59fb38430a"
+    },
+    "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure": {
+      "features": [],
+      "content_sha256": "0667fe71aa749c8a9a997c2744f6d3ae21ccdb9c47f620a5c3a8a8802e2043ca",
+      "title_sha256": "0667fe71aa749c8a9a997c2744f6d3ae21ccdb9c47f620a5c3a8a8802e2043ca"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform": {
+      "features": [],
+      "content_sha256": "1437b7e481fdcea3298620d1778bfc06c9f28036bd8aec3d28badbf027b16c2a",
+      "title_sha256": "1437b7e481fdcea3298620d1778bfc06c9f28036bd8aec3d28badbf027b16c2a"
+    },
+    "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca": {
+      "features": [],
+      "content_sha256": "0f23d063c64848cd6e41eacf56d5cc241f4849571a4788bdfdf0c71b8e779fed",
+      "title_sha256": "0f23d063c64848cd6e41eacf56d5cc241f4849571a4788bdfdf0c71b8e779fed"
+    },
+    "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "MATIC",
+          "token_rules": [
+            "name:polygon"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "db4929628a9f9a58ef9c4a1b5a09b1d1c262b648d939e25658b8e733cb054c39",
+      "title_sha256": "db4929628a9f9a58ef9c4a1b5a09b1d1c262b648d939e25658b8e733cb054c39"
+    },
+    "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets": {
+      "features": [],
+      "content_sha256": "9cebf9c2e642820cf623bcd2e45aa5973f89f0e2d8f8040e2caa36f9cc8e527d",
+      "title_sha256": "9cebf9c2e642820cf623bcd2e45aa5973f89f0e2d8f8040e2caa36f9cc8e527d"
+    },
+    "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment": {
+      "features": [],
+      "content_sha256": "4a768a252af4ed43aac161f4b8cfb6aa2282a6010d9a14dcd2c024b60312894c",
+      "title_sha256": "4a768a252af4ed43aac161f4b8cfb6aa2282a6010d9a14dcd2c024b60312894c"
+    },
+    "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses": {
+      "features": [],
+      "content_sha256": "c78ca101207453e3f6f02cbdce3d1c24bb7e994901472acdba7ecd98d8d0a156",
+      "title_sha256": "c78ca101207453e3f6f02cbdce3d1c24bb7e994901472acdba7ecd98d8d0a156"
+    },
+    "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets": {
+      "features": [],
+      "content_sha256": "075948d1abcb00d49c57f5afd89923c2fe330cc8186fee5c96295cbac840bc18",
+      "title_sha256": "075948d1abcb00d49c57f5afd89923c2fe330cc8186fee5c96295cbac840bc18"
+    },
+    "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows": {
+      "features": [],
+      "content_sha256": "006a1117be26e4ea9aa83470b274a78cf6d9e29b2c4cd8d45f97c11d2e34e36d",
+      "title_sha256": "006a1117be26e4ea9aa83470b274a78cf6d9e29b2c4cd8d45f97c11d2e34e36d"
+    }
+  }
+}

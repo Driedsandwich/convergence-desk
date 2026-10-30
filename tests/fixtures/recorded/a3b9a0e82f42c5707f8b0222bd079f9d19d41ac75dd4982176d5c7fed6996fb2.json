@@ -1,0 +1,568 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "bluesky:decrypt",
+  "endpoint": "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=decrypt.co&limit=100&filter=posts_no_replies",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8"
+  },
+  "fetch_time": "2026-10-30T00:48:15.664812Z",
+  "original_response_sha256": "229f37d32f284a49d6a6602a1e238a01d3818734f99d1d7c77a665dc008cb2d2",
+  "body": "{\"feed\": [{\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mz2a4lvtbq2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T21:39:53.187Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mz26cgtvfq2v\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T21:07:21.711Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mz25eklmu72z\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T20:50:38.981Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzzwd5vrp2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T19:49:00.222Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzx26g7ij2a\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T18:57:28.259Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzwlhgwps2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T18:49:14.392Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzu7x3uat27\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T18:07:00.668Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myztasgbmq2v\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T17:49:35.593Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzt6zejkx2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T17:48:35.753Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzrlhu3pt2z\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T17:19:46.125Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzp6nwbrs2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T16:36:48.797Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzncqi4nx2q\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T16:03:18.179Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzkekk4dg2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T15:10:37.840Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzjtlv3zx2g\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T15:01:08.839Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzddwi2xn2q\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T13:05:00.640Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzd55xfou27\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T13:01:13.599Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzbm23l7g2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T12:33:45.377Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myz6gupak22d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-29T11:37:10.700Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxq7a6guj2v\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T21:49:42.205Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxoocax6z2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T21:22:20.209Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxokd2dae2u\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T21:20:06.831Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxnxjjaai2g\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T21:09:36.068Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxl6wglwx2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T20:20:03.279Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxjktk64z2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T19:50:55.418Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxhtkpvit2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T19:20:00.677Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxew66bx72d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T18:27:46.953Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxc6akhgn2v\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T17:38:36.658Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxaeluodn2u\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T17:06:22.291Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myx66befce27\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T16:27:02.531Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myx5ppaffh2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T16:18:53.774Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myx2f3qyvv2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T15:19:16.577Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywzskn3i52x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T15:08:54.641Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywutulrhb2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T13:40:09.910Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywsu453tg2a\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T13:04:30.354Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywqe3bsga2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T12:19:45.106Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywpp7qkvt27\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T12:08:05.138Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywluwvkmq2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-28T10:59:42.228Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myv63m6pjr2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T21:20:13.750Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myv476pxa427\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T20:46:26.369Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myv2oe3syf2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T20:19:07.834Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myuz2s6hct2u\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T19:50:17.774Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myuxdymexi2f\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T19:19:39.024Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myuvp2yy6o2a\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T18:50:03.150Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myutzngn2r2g\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T18:20:10.532Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myus6wiuif2g\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T17:47:20.333Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myupf6v2os2a\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T16:57:09.179Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myuhfnpf2627\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T14:34:14.829Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myucdhwvj62h\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T13:03:32.966Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myucaca53y2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T13:01:46.312Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myu6ax2v322x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-27T11:50:33.195Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mysqvkqlni2z\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T22:18:52.794Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myspavuj7z2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T21:49:26.072Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mysnm6qlv32z\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T21:19:56.996Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myslgv4dc42d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T20:41:11.629Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mysjpnkc252w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T20:10:18.214Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myshph47uu2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T19:34:23.978Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mysfammwhq2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T18:50:18.967Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mysdkbthof2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T18:19:55.697Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mysbnd7szm2v\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T17:45:50.342Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mys5xzarrb27\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T16:40:14.018Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mys2kz7w6r2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T15:39:16.558Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrylttcs32u\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T15:03:56.971Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myruni7zc52x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T13:53:16.916Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrtb2x6tz2a\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T13:28:26.632Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrt3deo672x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T13:25:14.000Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrrznpjvs2v\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T13:06:24.123Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrrvq3tvh2d\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T13:04:12.409Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrru625e32z\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T13:03:19.789Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrrr5rqqr2f\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T13:01:38.893Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrpfd6o2x2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T12:19:14.514Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrpaxodd62x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T12:16:48.143Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrn2nugxq2x\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T11:37:29.131Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myrmvqv5qz2q\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-26T11:34:44.446Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myplkun3ce2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-25T16:05:26.144Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mypeqavclm27\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-25T14:03:10.575Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myn6lnjkbn2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-24T17:07:54.120Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myn34acoxq2q\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-24T16:05:35.699Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myn2vfuggw2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-24T16:01:46.667Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mymqyq2cuw2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-24T13:04:40.591Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myl44wsjyn2k\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T21:18:33.578Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mykysy4cpm2n\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T20:19:18.174Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mykwldtkjd24\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T19:39:14.551Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mykua66e4w2r\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T18:57:12.029Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mykqvzdwez2e\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T17:57:50.202Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mykoqzfdbm2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T17:19:14.988Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mykmc654mf2e\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T16:35:09.165Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mykjyqqib32e\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T15:54:05.648Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mykc32o53a2n\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T13:32:13.229Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mykbjvkjw32e\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T13:22:37.443Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myk4ikhc7y2t\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T11:52:23.509Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myk4eonygz2z\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T11:50:13.661Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myjzcbspqc2k\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T10:55:11.845Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myjsqudvui2h\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-23T08:58:04.931Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myiphuqng32m\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-22T22:26:42.395Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myijpizba72z\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-22T20:43:36.079Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myigmy3qew2w\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-22T19:48:30.001Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myiegkqct324\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-22T19:09:07.180Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myicr73ea52h\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-22T18:39:16.579Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myib54sz3l2h\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-22T18:10:09.378Z\", \"text\": \"\"}}}, {\"post\": {\"uri\": \"at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myi7djwxqj2i\", \"author\": {\"handle\": \"decrypt.co\"}, \"record\": {\"createdAt\": \"2026-10-22T17:37:56.982Z\", \"text\": \"\"}}}], \"cursor\": \"2026-10-22T17:37:56.982Z\"}",
+  "post_features": {
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywluwvkmq2d": {
+      "features": [],
+      "content_sha256": "310485295746653a825ebef7769c8bcd503dae4aec2181f7a41216c33f72ffa3",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywpp7qkvt27": {
+      "features": [],
+      "content_sha256": "acbbfdc0422b583c9b1bd72a8af26d8b88e2b6b265579177cd945e396dba8869",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywqe3bsga2w": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "035a4217742fe157797641cb6557a345b99e733bbbc4d3ef32c0e903adaeb43d",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywsu453tg2a": {
+      "features": [],
+      "content_sha256": "25022fc6afda145b2fd98fb93fc8b02ebf53bf9f783b349a9b71ab58f7f9bd38",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywutulrhb2x": {
+      "features": [],
+      "content_sha256": "d96d216578781758e4ea4fe12c10ccfa99fdedd4c7b52de21b313aea2735f33f",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mywzskn3i52x": {
+      "features": [],
+      "content_sha256": "f99dcb09a2f8ffe81bf9550e175546f1d7fcfff795c3e418d2dfefee67a3f0b6",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myx2f3qyvv2x": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "ced692d225e697daaf11744e52513a69596941ec2d4761e8f9f7b7edad0522d4",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myx5ppaffh2x": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "4bb31c0f4938f42ce818424e1947b374b6faa2ba478e070b3a58fa9bebacdf36",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myx66befce27": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "APT",
+          "token_rules": [
+            "name:aptos"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "c90d93d7b02b4b5376a2eec5a4ca1f0d2b4f11391d812e36d899476cdc6187ad",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxaeluodn2u": {
+      "features": [],
+      "content_sha256": "26ab03eb84aaffe6d44317483328e8cadad94075aa4f8c561326910768aa6a15",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxc6akhgn2v": {
+      "features": [],
+      "content_sha256": "103b65253b3660f614aa45f0e0688ac5beb718821cf647291e8e4ca3ed6a7a3c",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxew66bx72d": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "cb7a64ceece88b018e9080448c58d0a64b5dce7a4a369d0c4baa63d3f74ae244",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxhtkpvit2x": {
+      "features": [],
+      "content_sha256": "455aef63a839b19abf6792bca3c01fa3a3893d7f4274c43172dc2ede8bcde955",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxjktk64z2x": {
+      "features": [],
+      "content_sha256": "d2e4ddc6e2f7e3b4b767dfb11af3716a87c3ac77c915bb1ef956d61d8fa351c1",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxl6wglwx2w": {
+      "features": [],
+      "content_sha256": "e0886b2bee81c5463006e75152c9bfb0032fccafd109cbeed5eb4a164a961899",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxnxjjaai2g": {
+      "features": [],
+      "content_sha256": "9ceb79ac5ef738aba266175100c13495e63d099b5e29d69b9452af090871f798",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxokd2dae2u": {
+      "features": [],
+      "content_sha256": "f187532eaa242d97368e59703f6e681a2af637e101f00cff3b504902b7d08828",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxoocax6z2x": {
+      "features": [],
+      "content_sha256": "f13290a0283d6808b1e6770d7fbb78a0f320e6e8db4b4b391b7d3a8daa70f857",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myxq7a6guj2v": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "f98a433076006cf282ca2871f91219ab0978aa08588b012482a34804a26f429a",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myz6gupak22d": {
+      "features": [],
+      "content_sha256": "a99e7f9127f9f619505c5a089718abf9f44250e6fa93365abcb56e0e6c3c6f40",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzbm23l7g2d": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "8e4df0370571ef2a73951a702e372e727663a32186bd747cb02b55d4ac74545b",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzd55xfou27": {
+      "features": [],
+      "content_sha256": "de27d94ee39b620b26d405253fa919c78adb27465c2f153942a251f943a51594",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzddwi2xn2q": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "MATIC",
+          "token_rules": [
+            "name:polygon"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "ec9a12acb4c9c54688bef44a52c029f9a3842649efcac410cd6b710f3dc106f9",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzjtlv3zx2g": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "174250a9348be48f3814ea560789c4fcd98961a3a264aa1e4f2b6779819e638d",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzkekk4dg2d": {
+      "features": [],
+      "content_sha256": "0a7d5e0c95f74b7e6fa5b62371a02bce7140671f58a432f398ec30846159103e",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzncqi4nx2q": {
+      "features": [],
+      "content_sha256": "d097efe8a8716aeef2e5f17b2960ee065fa826e7d8e3a3cdf6773441d6caf0aa",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzp6nwbrs2d": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "4bcbeffedfd0b0a421b789cd5029704fb181af93e2d75d353c2b8001f18d7a03",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzrlhu3pt2z": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "5c800f665800138d7492752ad7343ad9c0ae237b93b1dbcc182fee85a4ff8ca9",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzt6zejkx2w": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "e0a5ffd3685053e510aafe4949befd6e1e9cba9aed7204fb889fe589b58c000d",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myztasgbmq2v": {
+      "features": [],
+      "content_sha256": "c62d3c7d6aae31ac33472401653a26f86ef6c6ef71ad78101303900cacc07a64",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzu7x3uat27": {
+      "features": [],
+      "content_sha256": "77496cb69e177f5aa43429b2ad34af1a2882cb87cceee90eab0ee8f80422425b",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzwlhgwps2d": {
+      "features": [],
+      "content_sha256": "9964d15715ccb457efed1547c527c401e7de52e8d973aec3e51e4489d90c07a0",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzx26g7ij2a": {
+      "features": [],
+      "content_sha256": "f057e85a7d72bbed922ce117ed183008d124846c91bbae6da351f8d31caaaa6f",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3myzzwd5vrp2d": {
+      "features": [],
+      "content_sha256": "7398d19ea0323f5312fc3298f10d554075967e9967ac79a25d5ef995bb899d05",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mz25eklmu72z": {
+      "features": [],
+      "content_sha256": "0dfa1274287ce87082a455a15bc9044f8a46d2e7e03dc0c70402407944da5449",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mz26cgtvfq2v": {
+      "features": [],
+      "content_sha256": "76b95e0a536bef6f90fdab2d7a9a65e0824aa3657f2df4c48c82f5874fc6ce6b",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "at://did:plc:iqoyar2mdkpg6mskhmri3nr6/app.bsky.feed.post/3mz2a4lvtbq2w": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "00d3728f80a8c7512bddd4a01cb914da85ca8e66a77a833def521974b0a2cb2e",
+      "title_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}

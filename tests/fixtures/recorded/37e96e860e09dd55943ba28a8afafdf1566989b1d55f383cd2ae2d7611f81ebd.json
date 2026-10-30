@@ -1,0 +1,25 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "publicnode",
+  "endpoint": "https://ethereum-rpc.publicnode.com",
+  "payload": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "eth_call",
+    "params": [
+      {
+        "to": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "data": "0x313ce567"
+      },
+      "latest"
+    ]
+  },
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "fetch_time": "2026-10-30T00:49:30.177142Z",
+  "original_response_sha256": "f470abc1e2ed21fbb5f74ae7897a7b902ed5e7b134d7f0cd5a5731ebff2690da",
+  "body": "{\"jsonrpc\":\"2.0\",\"id\":1,\"result\":\"0x0000000000000000000000000000000000000000000000000000000000000006\"}\n"
+}

@@ -28,6 +28,80 @@ A successful HTTP response alone is insufficient: posts, candles, RSS items, or 
 | Cointelegraph RSS | https://cointelegraph.com/rss | yes | 2 calls; statuses {'200': 2}; 92.4–118.5 ms; no rate-limit headers | {"items_count": 30, "first_item_dates": ["Fri, 30 Oct 2026 00:11:26 +0000", "Fri, 30 Oct 2026 00:25:19 +0000"]} | unknown | not checked | use |
 | Decrypt RSS | https://decrypt.co/feed | yes | 2 calls; statuses {'200': 2}; 84.2–138.1 ms; no rate-limit headers | {"items_count": 38, "first_item_dates": ["Thu, 29 Oct 2026 22:57:48 +0000"]} | unknown | not checked | use |
 
+## Runnable integration update (2026-10-30)
+
+The default decisions below supersede the historical fallback ordering in the original probe:
+**publisher RSS is the primary voice source**, with Bluesky author feeds for explicitly
+configured handles. The new machine probe tested 20 publisher feeds; 19 returned items
+within seven days and are included. Blockworks returned only stale items (newest
+2026-01-07), so it is excluded. Decrypt was the only tested Bluesky handle with original
+posts within seven days and is included under the same `voice_id` as Decrypt RSS.
+The 19 publisher identities fit the engine's 20-voice limit. Trust weight 0.8 is a visible
+demo configuration choice, not a measured accuracy rating.
+
+Evidence: [expanded sanitized results](../probe/expanded_sources.json),
+[repeatable freshness probe](../probe/expand_sources.py), and
+[default voices](../convergence_desk/config/default_voices.json).
+No publisher text is saved by the probe. RSS and post reuse rights remain unchecked;
+the integration discards full text after transient extraction and keeps only hashes,
+URIs, metadata, feature scores/rule traces and excerpts of at most 140 characters.
+
+Telegram remains excluded under the already-recorded content-licensing line:
+> Telegram firmly prohibits the scraping, indexing, harvesting, aggregation or use of data obtained from its platform
+
+The full recorded sentence and source URL remain below. Reddit remains excluded after HTTP 403.
+
+| Publisher | Items within 7 days | Newest item in this run | Default |
+|---|---:|---|---|
+| CoinDesk | 25 | 2026-10-30T00:17:10+00:00 | use |
+| Cointelegraph | 30 | 2026-10-30T00:11:26+00:00 | use |
+| Decrypt | 38 | 2026-10-29T22:57:48+00:00 | use |
+| The Block | 20 | 2026-10-29T21:49:16+00:00 | use |
+| Blockworks | 0 | 2026-01-07T14:00:00+00:00 | drop |
+| Bitcoin Magazine | 10 | 2026-10-29T23:18:27+00:00 | use |
+| CryptoSlate | 10 | 2026-10-30T00:40:53+00:00 | use |
+| The Defiant | 100 | 2026-10-29T23:32:17+00:00 | use |
+| Bitcoinist | 8 | 2026-10-29T17:00:27+00:00 | use |
+| NewsBTC | 10 | 2026-10-30T00:00:00+00:00 | use |
+| BeInCrypto | 12 | 2026-10-29T21:57:27+00:00 | use |
+| CryptoPotato | 36 | 2026-10-29T22:07:05+00:00 | use |
+| U.Today | 94 | 2026-10-30T00:01:00+00:00 | use |
+| Cryptonews | 20 | 2026-10-29T22:30:00+00:00 | use |
+| Unchained | 10 | 2026-10-30T00:10:00+00:00 | use |
+| The Daily Hodl | 10 | 2026-10-29T22:14:21+00:00 | use |
+| Protos | 10 | 2026-10-29T18:58:18+00:00 | use |
+| DL News | 2 | 2026-10-28T22:30:00+00:00 | use |
+| AMBCrypto | 16 | 2026-10-30T00:00:45+00:00 | use |
+| Crypto Briefing | 30 | 2026-10-30T00:36:21+00:00 | use |
+
+Bluesky freshness: Decrypt 50/50 original posts within seven days; CoinDesk,
+The Block, Bitcoin Magazine, The Defiant and Unchained returned no originals in
+that window. Only Decrypt is selected by default; users can add public handles.
+
+### Market and on-chain measurements from the runnable agent
+
+The first 48-hour live run fetched 51 completed hourly bars per supported primary
+market. Coinbase returned HTTP 404 for TRX-USD; Kraken TRXUSD plus Binance TRXUSDT
+provided the fallback cross-check. The USDT/USD quote difference is explicitly
+included in the 2% spread tolerance. A separate keyless CoinGecko `/coins/ethereum/ohlc`
+request returned 14 completed rows for the tested window. CoinGecko OHLC has no
+volume field: it is price-only fallback context, never fabricated volume confirmation.
+Venue agreement compares a common completed timestamp, window-return signs and
+relative closing-price spread; the original per-venue volume series stays separate.
+
+PublicNode accepted four log requests: USDC and USDT over two consecutive inclusive
+10-block chunks each (20 blocks total, 26302055–26302074 in the first live run).
+Ten blocks is a measured working chunk size, **not a provider maximum**. The reader
+uses 12 confirmations and a configurable 1–100-block window with chunks capped at
+10. `eth_call` with selector `0x313ce567` returned decimals=6 for each token; these
+verified results and provenance are cached in git-ignored `runs/token_decimals.json`.
+Block headers supplied event timestamps from 00:42:47 through 00:46:35 UTC for
+retained events. This is a short recent liquidity sample, not 48 hours of on-chain history.
+Mint/burn and transfers strictly above the configured threshold are retained; smaller
+ordinary transfers are discarded. Transfer totals include large mints/burns when they
+meet that threshold. These observations describe market-wide liquidity and do not
+contribute a token-direction vote or override market/risk checks.
+
 ## Confirmed organizational account watchlist
 
 This is the proposed small Bluesky demo watchlist, not a claim of six currently active voices. Each listed account returned original-author posts; repost-only results do not qualify. Domain handles and brand-named handles are distinguished: independent ownership verification of the `.bsky.social` accounts was not tested. These are organization/media-branded account candidates, not private-individual recommendations. Retain provenance and require user selection before trusting an unverified brand handle.

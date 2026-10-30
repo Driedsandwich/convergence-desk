@@ -1,0 +1,151 @@
+{
+  "as_of": "2026-10-30T00:48:14.139073Z",
+  "recorded_test_fixture": true,
+  "risk_limits": {
+    "account_size": 10000.0,
+    "max_daily_loss_pct": 0.03,
+    "max_hold_hours": 24.0,
+    "max_loss_per_trade_pct": 0.01,
+    "max_open_positions": 3,
+    "max_position_pct": 0.1,
+    "stop_pct": 0.05,
+    "take_profit_r": 2.0
+  },
+  "rules": {
+    "conviction_step": 0.1,
+    "market_min_return": 0.01,
+    "market_min_volume_z": 1.0,
+    "max_market_age_hours": 2.0,
+    "min_conviction": 0.5,
+    "min_distinct_voices": 2,
+    "quorum_step": 0.1,
+    "quorum_weight": 1.5,
+    "require_market_evidence": true,
+    "volume_lookback": 5,
+    "window_hours": 48.0
+  },
+  "source_rules": {
+    "chain_blocks": 20,
+    "chain_chunk_size": 10,
+    "chain_confirmations": 12,
+    "cross_venue_max_spread": 0.02,
+    "large_transfer_threshold": 1000000
+  },
+  "voices": [
+    {
+      "label": "CoinDesk",
+      "rss": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "trust_weight": 0.8,
+      "voice_id": "coindesk"
+    },
+    {
+      "label": "Cointelegraph",
+      "rss": "https://cointelegraph.com/rss",
+      "trust_weight": 0.8,
+      "voice_id": "cointelegraph"
+    },
+    {
+      "bluesky": "decrypt.co",
+      "label": "Decrypt",
+      "rss": "https://decrypt.co/feed",
+      "trust_weight": 0.8,
+      "voice_id": "decrypt"
+    },
+    {
+      "label": "The Block",
+      "rss": "https://www.theblock.co/rss.xml",
+      "trust_weight": 0.8,
+      "voice_id": "theblock"
+    },
+    {
+      "label": "Bitcoin Magazine",
+      "rss": "https://bitcoinmagazine.com/feed",
+      "trust_weight": 0.8,
+      "voice_id": "bitcoinmagazine"
+    },
+    {
+      "label": "CryptoSlate",
+      "rss": "https://cryptoslate.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "cryptoslate"
+    },
+    {
+      "label": "The Defiant",
+      "rss": "https://thedefiant.io/feed",
+      "trust_weight": 0.8,
+      "voice_id": "thedefiant"
+    },
+    {
+      "label": "Bitcoinist",
+      "rss": "https://bitcoinist.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "bitcoinist"
+    },
+    {
+      "label": "NewsBTC",
+      "rss": "https://www.newsbtc.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "newsbtc"
+    },
+    {
+      "label": "BeInCrypto",
+      "rss": "https://beincrypto.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "beincrypto"
+    },
+    {
+      "label": "CryptoPotato",
+      "rss": "https://cryptopotato.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "cryptopotato"
+    },
+    {
+      "label": "U.Today",
+      "rss": "https://u.today/rss",
+      "trust_weight": 0.8,
+      "voice_id": "utoday"
+    },
+    {
+      "label": "Cryptonews",
+      "rss": "https://cryptonews.com/news/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "cryptonews"
+    },
+    {
+      "label": "Unchained",
+      "rss": "https://unchainedcrypto.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "unchained"
+    },
+    {
+      "label": "The Daily Hodl",
+      "rss": "https://dailyhodl.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "dailyhodl"
+    },
+    {
+      "label": "Protos",
+      "rss": "https://protos.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "protos"
+    },
+    {
+      "label": "DL News",
+      "rss": "https://www.dlnews.com/arc/outboundfeeds/rss/",
+      "trust_weight": 0.8,
+      "voice_id": "dlnews"
+    },
+    {
+      "label": "AMBCrypto",
+      "rss": "https://ambcrypto.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "ambcrypto"
+    },
+    {
+      "label": "Crypto Briefing",
+      "rss": "https://cryptobriefing.com/feed/",
+      "trust_weight": 0.8,
+      "voice_id": "cryptobriefing"
+    }
+  ]
+}

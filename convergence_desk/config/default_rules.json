@@ -1,0 +1,17 @@
+{
+  "quorum_weight": 1.5,
+  "min_distinct_voices": 2,
+  "min_conviction": 0.5,
+  "market_min_return": 0.01,
+  "market_min_volume_z": 1.0,
+  "volume_lookback": 5,
+  "max_market_age_hours": 2.0,
+  "quorum_step": 0.1,
+  "conviction_step": 0.1,
+  "require_market_evidence": true,
+  "cross_venue_max_spread": 0.02,
+  "chain_blocks": 20,
+  "chain_chunk_size": 10,
+  "chain_confirmations": 12,
+  "large_transfer_threshold": 1000000
+}

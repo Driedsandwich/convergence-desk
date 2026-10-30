@@ -1,0 +1,450 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:newsbtc",
+  "endpoint": "https://www.newsbtc.com/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:19.560038Z",
+  "original_response_sha256": "a228413486f5eef02ac387724df11b87662d1becfa3cc3a181f94980c193ad8b",
+  "body": "<rss><channel><item><title /><link>https://www.newsbtc.com/news/circle-and-aci-bring-usdc-settlement-into-latin-american-payment-operations/</link><pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate><guid /></item><item><title /><link>https://www.newsbtc.com/news/dbs-survey-finds-88-of-businesses-testing-or-using-tokenized-money/</link><pubDate>Thu, 29 Oct 2026 23:00:00 +0000</pubDate><guid /></item><item><title /><link>https://www.newsbtc.com/news/hedera-ecosystem-adds-bron-self-custody-platform-through-industry-association/</link><pubDate>Thu, 29 Oct 2026 22:00:00 +0000</pubDate><guid /></item><item><title /><link>https://www.newsbtc.com/news/falconx-backs-250m-credit-facility-for-ibis-as-crypto-lending-infrastructure-evolves/</link><pubDate>Thu, 29 Oct 2026 21:00:00 +0000</pubDate><guid /></item><item><title /><link>https://www.newsbtc.com/news/bitwise-sees-bitcoin-at-1-6-million-by-2036-but-the-forecast-has-big-assumptions/</link><pubDate>Thu, 29 Oct 2026 20:00:00 +0000</pubDate><guid /></item><item><title /><link>https://www.newsbtc.com/news/stellar-gains-usdc-payment-corridor-as-movantis-targets-usel-salvador-transfers/</link><pubDate>Thu, 29 Oct 2026 19:00:00 +0000</pubDate><guid /></item><item><title /><link>https://www.newsbtc.com/news/stellar-private-fund-liquidity-pilot-tests-a-new-way-to-price-redemptions/</link><pubDate>Thu, 29 Oct 2026 18:00:00 +0000</pubDate><guid /></item><item><title /><link>https://www.newsbtc.com/news/securitize-plans-stellar-integration-as-tokenized-asset-platforms-expand/</link><pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate><guid /></item><item><title /><link>https://www.newsbtc.com/news/ripple-projects-nearly-900m-annual-product-revenue-run-rate-amid-banking-push/</link><pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate><guid /></item><item><title /><link>https://www.newsbtc.com/news/ripple-usd-reaches-coinbase-as-rlusd-expands-across-three-blockchains/</link><pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate><guid /></item></channel></rss>",
+  "post_features": {
+    "https://www.newsbtc.com/news/ripple-usd-reaches-coinbase-as-rlusd-expands-across-three-blockchains/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "39b3e56c5b63c724ab3843ebb4015f9c1c4bc1086cec9e2877ed25b8e454d8da",
+      "title_sha256": "dba933906898ad33dd0db812a65d7654032f591ee1e806547806363f048f5559"
+    },
+    "https://www.newsbtc.com/news/ripple-projects-nearly-900m-annual-product-revenue-run-rate-amid-banking-push/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "5055615413a77c9a42b36ee8c53a35d11f827616741669b2d078292f966eae8d",
+      "title_sha256": "206236dc06f4966d4426e744bf4bae5f4bbecc0eb23ec1fc9e090a082b9ebfec"
+    },
+    "https://www.newsbtc.com/news/securitize-plans-stellar-integration-as-tokenized-asset-platforms-expand/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "70ca690b8113a33547257bb8daeb1264f20c1b9b23024b545e406bd4afca1889",
+      "title_sha256": "970f840eb65adda29ed9d6a9e412dc79c584d18f3505b774b76ab29654efc3e1"
+    },
+    "https://www.newsbtc.com/news/stellar-private-fund-liquidity-pilot-tests-a-new-way-to-price-redemptions/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "b00b4adfd3e93ccf88816d7026f1a29a24f904cb3162e3254c1ff3e1170c3c14",
+      "title_sha256": "cb93cade2fe7111244761d91fbb511ce762696419719499e08856a284b28dab0"
+    },
+    "https://www.newsbtc.com/news/stellar-gains-usdc-payment-corridor-as-movantis-targets-usel-salvador-transfers/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XLM",
+          "token_rules": [
+            "name:stellar",
+            "name:stellar"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "49e8554b5ca03770ed1261f099d52a8698f9a504e73cd93b205bd268ebe74a67",
+      "title_sha256": "be3ce376215c78bb646080a02505b9ae6112569b9613b0c8f545fb5ee7404143"
+    },
+    "https://www.newsbtc.com/news/bitwise-sees-bitcoin-at-1-6-million-by-2036-but-the-forecast-has-big-assumptions/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:long:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "02600f03bbaef20add9f4d25f11b860624f4d7a0b0d7cb6164c4dbc81e763814",
+      "title_sha256": "5ece5b82defb1f97aceead1f96cfa8a4e7779a5deb2797ad528a144b07ee37b1"
+    },
+    "https://www.newsbtc.com/news/falconx-backs-250m-credit-facility-for-ibis-as-crypto-lending-infrastructure-evolves/": {
+      "features": [],
+      "content_sha256": "8cbe4cf584a7bd87b8e039aea91d4496f03242a49ef4a1f3139127ec7020b16d",
+      "title_sha256": "71c9735d3ee3c48aab90fcaa805c7ce833e120572dc317cf6d87aeccf6027fab"
+    },
+    "https://www.newsbtc.com/news/hedera-ecosystem-adds-bron-self-custody-platform-through-industry-association/": {
+      "features": [],
+      "content_sha256": "a655d29a3ea30a93175daf92f84ee4a4f9f48fb53fb4cc4b6e6c545eec1e6a51",
+      "title_sha256": "04d5b1e56c543d7965971df9a3cc1418cfcd37976cd28a375ec2976dfc93da62"
+    },
+    "https://www.newsbtc.com/news/dbs-survey-finds-88-of-businesses-testing-or-using-tokenized-money/": {
+      "features": [],
+      "content_sha256": "a39dcad5958e22ed6224c94d665005b7b1ed4b14a4eb3f72e101d47880750a72",
+      "title_sha256": "cf3322b7a389f528041ebe23c005107fa4587fe67b32c96d72fd8df482645643"
+    },
+    "https://www.newsbtc.com/news/circle-and-aci-bring-usdc-settlement-into-latin-american-payment-operations/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDC",
+          "token_rules": [
+            "symbol:USDC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "a83673e7ebbe3f67fc86b70c0c149242cd1fe42015ed31e8593d85527199abf7",
+      "title_sha256": "d336ea8b204918157a8c947a6f1c8f6ae4900a786af3642c1e1d0ba3f33106aa"
+    }
+  }
+}

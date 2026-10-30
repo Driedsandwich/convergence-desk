@@ -1,0 +1,1395 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:cryptopotato",
+  "endpoint": "https://cryptopotato.com/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:20.650524Z",
+  "original_response_sha256": "8103ef3772407170e288abd843853faa3ebc682b7902aca96bdb173eac9f6f12",
+  "body": "<rss><channel><item><title /><link>https://cryptopotato.com/singapore-reports-3-5-million-in-losses-from-tampered-ledger-crypto-wallets/</link><pubDate>Thu, 29 Oct 2026 22:07:05 +0000</pubDate><guid>https://cryptopotato.com/?p=1452374</guid></item><item><title /><link>https://cryptopotato.com/polymarket-trading-disrupted-after-users-report-2-6m-in-losses/</link><pubDate>Thu, 29 Oct 2026 20:17:30 +0000</pubDate><guid>https://cryptopotato.com/?p=1452459</guid></item><item><title /><link>https://cryptopotato.com/these-3-crypto-stocks-now-sit-on-techs-stealth-bear-market-list/</link><pubDate>Thu, 29 Oct 2026 20:16:06 +0000</pubDate><guid>https://cryptopotato.com/?p=1452364</guid></item><item><title /><link>https://cryptopotato.com/key-shiba-inu-shib-metric-falls-to-a-5-year-low-good-news-for-the-bulls/</link><pubDate>Thu, 29 Oct 2026 18:37:54 +0000</pubDate><guid>https://cryptopotato.com/?p=1452432</guid></item><item><title /><link>https://cryptopotato.com/quantum-says-30000-qubits-could-break-a-bitcoin-key-in-an-hour/</link><pubDate>Thu, 29 Oct 2026 17:22:12 +0000</pubDate><guid>https://cryptopotato.com/?p=1452447</guid></item><item><title /><link>https://cryptopotato.com/hype-price-rises-15-following-nyse-plan-to-bring-hyperliquid-perps-to-the-us/</link><pubDate>Thu, 29 Oct 2026 16:10:10 +0000</pubDate><guid>https://cryptopotato.com/?p=1452452</guid></item><item><title /><link>https://cryptopotato.com/important-pi-network-news-and-pi-price-update/</link><pubDate>Thu, 29 Oct 2026 15:35:27 +0000</pubDate><guid>https://cryptopotato.com/?p=1452417</guid></item><item><title /><link>https://cryptopotato.com/bitcoin-price-analysis-how-far-could-btc-crash-if-80k-support-breaks/</link><pubDate>Thu, 29 Oct 2026 13:51:31 +0000</pubDate><guid>https://cryptopotato.com/?p=1452424</guid></item><item><title /><link>https://cryptopotato.com/bixbit-launches-antminer-firmware-with-up-to-40-hashrate-gains-and-integrated-mining-management/</link><pubDate>Thu, 29 Oct 2026 13:39:49 +0000</pubDate><guid>https://cryptopotato.com/?p=1452436</guid></item><item><title /><link>https://cryptopotato.com/3-reasons-why-ethereum-eth-could-drop-to-2000/</link><pubDate>Thu, 29 Oct 2026 12:53:06 +0000</pubDate><guid>https://cryptopotato.com/?p=1452399</guid></item><item><title /><link>https://cryptopotato.com/travala-unveils-ava-partners-a-new-route-to-crypto-payments-powered-by-ava/</link><pubDate>Thu, 29 Oct 2026 12:09:13 +0000</pubDate><guid>https://cryptopotato.com/?p=1452414</guid></item><item><title /><link>https://cryptopotato.com/is-xrp-losing-ground-to-rlusd-at-ripple-ripple-ceo-brad-garlinghouse-responds/</link><pubDate>Thu, 29 Oct 2026 11:31:04 +0000</pubDate><guid>https://cryptopotato.com/?p=1452360</guid></item><item><title /><link>https://cryptopotato.com/bitcoins-post-fomc-rollercoaster-continues-as-near-dumps-8-market-watch/</link><pubDate>Thu, 29 Oct 2026 10:05:37 +0000</pubDate><guid>https://cryptopotato.com/?p=1452391</guid></item><item><title /><link>https://cryptopotato.com/metamask-trezor-walletconnect-and-other-industry-leaders-join-changenow-at-token2049/</link><pubDate>Thu, 29 Oct 2026 09:28:43 +0000</pubDate><guid>https://cryptopotato.com/?p=1452387</guid></item><item><title /><link>https://cryptopotato.com/uniswap-adds-13137-new-addresses-in-its-biggest-growth-spike-since-2020/</link><pubDate>Thu, 29 Oct 2026 08:58:48 +0000</pubDate><guid>https://cryptopotato.com/?p=1452362</guid></item><item><title /><link>https://cryptopotato.com/ripples-swell-blitz-continues-coinbase-deal-and-900m-revenue-run-rate-revealed/</link><pubDate>Thu, 29 Oct 2026 07:55:42 +0000</pubDate><guid>https://cryptopotato.com/?p=1452368</guid></item><item><title /><link>https://cryptopotato.com/pi-network-pi-vs-cardano-ada-3-ais-predict-which-could-perform-better-in-q4/</link><pubDate>Thu, 29 Oct 2026 07:00:46 +0000</pubDate><guid>https://cryptopotato.com/?p=1452344</guid></item><item><title /><link>https://cryptopotato.com/ripples-rlusd-earns-moodys-investment-grade-rating-in-stablecoin-milestone/</link><pubDate>Thu, 29 Oct 2026 04:58:27 +0000</pubDate><guid>https://cryptopotato.com/?p=1452266</guid></item><item><title /><link>https://cryptopotato.com/datavault-ai-stock-plunges-50-as-bitcoin-withdrawal-stalls/</link><pubDate>Wed, 28 Oct 2026 22:40:26 +0000</pubDate><guid>https://cryptopotato.com/?p=1452271</guid></item><item><title /><link>https://cryptopotato.com/ethereum-eth-attempts-a-recovery-but-heavy-selling-persists-details/</link><pubDate>Wed, 28 Oct 2026 20:36:39 +0000</pubDate><guid>https://cryptopotato.com/?p=1452334</guid></item><item><title /><link>https://cryptopotato.com/bitcoin-price-rebounds-as-fed-chair-warsh-explains-rate-hike-pause/</link><pubDate>Wed, 28 Oct 2026 19:57:26 +0000</pubDate><guid>https://cryptopotato.com/?p=1452356</guid></item><item><title /><link>https://cryptopotato.com/bitcoin-btc-shows-a-major-sign-of-strength-price-rally-incoming/</link><pubDate>Wed, 28 Oct 2026 17:45:26 +0000</pubDate><guid>https://cryptopotato.com/?p=1452327</guid></item><item><title /><link>https://cryptopotato.com/ethereum-price-analysis-can-eth-finally-break-the-2400-resistance/</link><pubDate>Wed, 28 Oct 2026 17:15:19 +0000</pubDate><guid>https://cryptopotato.com/?p=1452349</guid></item><item><title /><link>https://cryptopotato.com/pepe-soars-17-daily-did-justin-sun-fuel-the-pump/</link><pubDate>Wed, 28 Oct 2026 16:25:07 +0000</pubDate><guid>https://cryptopotato.com/?p=1452311</guid></item><item><title /><link>https://cryptopotato.com/bitcoin-sees-biggest-exchange-outflow-in-five-weeks-ahead-of-fed-decision/</link><pubDate>Wed, 28 Oct 2026 15:10:06 +0000</pubDate><guid>https://cryptopotato.com/?p=1452285</guid></item><item><title /><link>https://cryptopotato.com/xrp-hype-and-ena-levels-to-watch-before-the-fed-meets-today-analyst/</link><pubDate>Wed, 28 Oct 2026 13:57:55 +0000</pubDate><guid>https://cryptopotato.com/?p=1452292</guid></item><item><title /><link>https://cryptopotato.com/coinbase-denies-breach-after-amplitude-security-incident-exposes-customer-data/</link><pubDate>Wed, 28 Oct 2026 13:18:35 +0000</pubDate><guid>https://cryptopotato.com/?p=1452307</guid></item><item><title /><link>https://cryptopotato.com/betfury-launches-birthday-007-2000000-spy-themed-celebration-of-seven-years/</link><pubDate>Wed, 28 Oct 2026 11:59:42 +0000</pubDate><guid>https://cryptopotato.com/?p=1452324</guid></item><item><title /><link>https://cryptopotato.com/bitcoin-investors-beware-analyst-warns-of-btc-price-crash-after-fed-meeting/</link><pubDate>Wed, 28 Oct 2026 11:56:51 +0000</pubDate><guid>https://cryptopotato.com/?p=1452322</guid></item><item><title /><link>https://cryptopotato.com/bitcoin-heads-for-another-october-loss-as-demand-weakens/</link><pubDate>Wed, 28 Oct 2026 10:51:09 +0000</pubDate><guid>https://cryptopotato.com/?p=1452278</guid></item><item><title /><link>https://cryptopotato.com/4-important-ripple-xrp-announcements-from-swell-2026-day-0/</link><pubDate>Wed, 28 Oct 2026 09:51:27 +0000</pubDate><guid>https://cryptopotato.com/?p=1452298</guid></item><item><title /><link>https://cryptopotato.com/bitcoin-reclaims-81k-ahead-of-fomc-meeting-m-pumps-by-12-market-watch/</link><pubDate>Wed, 28 Oct 2026 09:16:39 +0000</pubDate><guid>https://cryptopotato.com/?p=1452277</guid></item><item><title /><link>https://cryptopotato.com/outpoll-trading-bridging-crypto-stocks-indices-and-commodities/</link><pubDate>Wed, 28 Oct 2026 08:51:02 +0000</pubDate><guid>https://cryptopotato.com/?p=1452286</guid></item><item><title /><link>https://cryptopotato.com/ripple-price-analysis-xrp-must-reclaim-this-key-level-to-restart-the-rally/</link><pubDate>Wed, 28 Oct 2026 07:22:26 +0000</pubDate><guid>https://cryptopotato.com/?p=1452245</guid></item><item><title /><link>https://cryptopotato.com/bithumb-users-face-phishing-risks-after-reported-data-leak/</link><pubDate>Wed, 28 Oct 2026 06:49:11 +0000</pubDate><guid>https://cryptopotato.com/?p=1452265</guid></item><item><title /><link>https://cryptopotato.com/binance-alerts-users-ethereum-deposits-paused-and-major-delistings-ahead/</link><pubDate>Wed, 28 Oct 2026 06:33:13 +0000</pubDate><guid>https://cryptopotato.com/?p=1452218</guid></item></channel></rss>",
+  "post_features": {
+    "https://cryptopotato.com/binance-alerts-users-ethereum-deposits-paused-and-major-delistings-ahead/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "81ba3f72847317d064eba960780ff8c405aaa09493f170b628d6433279c74c93",
+      "title_sha256": "4963b25c812a8dbd615922f3832357250365ad492313e090ad965dd732fdcdc3"
+    },
+    "https://cryptopotato.com/bithumb-users-face-phishing-risks-after-reported-data-leak/": {
+      "features": [],
+      "content_sha256": "0249c4f05cd8a0d68b8b9fdb1dcdb46cd74c3f9e5fcddd90c865c0a6270e57b3",
+      "title_sha256": "ff2d6a70333e249ff34f384c66981e06ca0a96651ec955e86f457e446aa0026d"
+    },
+    "https://cryptopotato.com/ripple-price-analysis-xrp-must-reclaim-this-key-level-to-restart-the-rally/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:rally:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "aef08c5d2ddb9974edf744801f53526703f034351d6567841c7eae7c2d2e7df9",
+      "title_sha256": "09c23e53a438b8eb59bcd9f0d75f0c287ceb87cff559e77e9dd6c2f0f99f6f8c"
+    },
+    "https://cryptopotato.com/outpoll-trading-bridging-crypto-stocks-indices-and-commodities/": {
+      "features": [],
+      "content_sha256": "d0d63dbb2d4fc3c31bf94d3a6b1f57c000063a69fcc0b968785c1a11fb81aa12",
+      "title_sha256": "66df4c2adf2994a1b47622040347b1061704331b08aba0cd7d28f67b50c4921e"
+    },
+    "https://cryptopotato.com/bitcoin-reclaims-81k-ahead-of-fomc-meeting-m-pumps-by-12-market-watch/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "57fb85db6ec48c6ce97de134fab3e38172c3b059bee22363e01eba428c4ada1f",
+      "title_sha256": "4cb1303034d724f3ea5d087534022de68691966ecb3b2ff8327a80d566f93965"
+    },
+    "https://cryptopotato.com/4-important-ripple-xrp-announcements-from-swell-2026-day-0/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "121cbbd9670f9ffae239e3a8452bc4c11c2450705c1f51f557c4b1e520cf1a28",
+      "title_sha256": "30ad5b1db15f8fc8c08edfa7779120e87d3fd38e55cc294264863717baa2f54e"
+    },
+    "https://cryptopotato.com/bitcoin-heads-for-another-october-loss-as-demand-weakens/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "0b2cbebcb739aa04eb3245daea6710f306b7b8d4072865d99c3612202eb44cba",
+      "title_sha256": "f8c650f2d3fa74f213fbcd7dcb94ccc8d8ef305f3bf4fee5d171a67272802fd8"
+    },
+    "https://cryptopotato.com/bitcoin-investors-beware-analyst-warns-of-btc-price-crash-after-fed-meeting/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bearish",
+          "sentiment": {
+            "fired": [
+              "sentiment:crash:-0.40"
+            ],
+            "value": -0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "fac2d85ff555e984ca341d20c49d24127bdb81b32f75ecc0541d132de55295b0",
+      "title_sha256": "e96c29a23222f9e98e3a44a082c10bfea20c01516a3e93423ab0d5f8d060ce51"
+    },
+    "https://cryptopotato.com/betfury-launches-birthday-007-2000000-spy-themed-celebration-of-seven-years/": {
+      "features": [],
+      "content_sha256": "0c1aa1aec06ade3aa55ab0415f32ca9a289d4f2826b49c2097d5b243690868bb",
+      "title_sha256": "9b217955ff8ba05a055e7a0f65b07a3aef62ae809e50235e324c0193e196fb1d"
+    },
+    "https://cryptopotato.com/coinbase-denies-breach-after-amplitude-security-incident-exposes-customer-data/": {
+      "features": [],
+      "content_sha256": "0450945e050c7ef2d76001958417191f3cab1b77d57b67c9950b08a2c75ec5cc",
+      "title_sha256": "dd1494e2c08df7eaa1bd6f227f025b44316fffa7689586ba86b7d038507c073c"
+    },
+    "https://cryptopotato.com/xrp-hype-and-ena-levels-to-watch-before-the-fed-meets-today-analyst/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:today:+0.25"
+            ],
+            "value": 0.25
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "a843c06393c35ecc9944b1ac3589cdbbf82cdbc7c74e2094bbdd8d4c6b1b53c1",
+      "title_sha256": "399c6c381847f59a216aa0f82408dbdd0815b375b6011a27b500ba84018375f3"
+    },
+    "https://cryptopotato.com/bitcoin-sees-biggest-exchange-outflow-in-five-weeks-ahead-of-fed-decision/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20",
+              "conviction:if:-0.20"
+            ],
+            "value": 0.1
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:bullish:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "e7c804d86c69bbffbdd5646f548edbfeb0bfcbcb2459e25b1295336a998f8503",
+      "title_sha256": "d8a7c83ce49b4ed2e9d4f5230f7a27bd2aac5f339c5c7b6957f2e83eeff2fc8a"
+    },
+    "https://cryptopotato.com/pepe-soars-17-daily-did-justin-sun-fuel-the-pump/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "PEPE",
+          "token_rules": [
+            "name:pepe"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "PEPE",
+          "token_rules": [
+            "name:pepe"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "c908a0c3a5a8c643e2d9c72f79ff4b7a91795fb2d4621b6e2280d4d6ac3fb681",
+      "title_sha256": "f47b17f7bc14fc2b6732d3b6ec92dcf6b06a47ad377936aa80c69edad3d62098"
+    },
+    "https://cryptopotato.com/ethereum-price-analysis-can-eth-finally-break-the-2400-resistance/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum",
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum",
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "026f1f5c84000e6c30a3cc2cd53e55bf5673f641e6fef96ad5bc08fc3098c2be",
+      "title_sha256": "f3b4133a4497027c7ead80dd3ca188796e0a36da3a9b01966765eb31942b427b"
+    },
+    "https://cryptopotato.com/bitcoin-btc-shows-a-major-sign-of-strength-price-rally-incoming/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:rally:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "57f2c6c826b0fdf741f089270d76975ba8436c98a28afa180cf740c757d251a1",
+      "title_sha256": "0f116e02a6adb3fa5950c2c272d34df70e58fee88c85300d12271609168fc7b0"
+    },
+    "https://cryptopotato.com/bitcoin-price-rebounds-as-fed-chair-warsh-explains-rate-hike-pause/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "0a2d1cd78ef66e05b2a1c5319fe719ff3574d55ce68ea49f69dc4981ed220324",
+      "title_sha256": "4d6a26f4a7d4c3ea457753f4f8735a53c1f2d7247bc621552942c4be2e3e9d05"
+    },
+    "https://cryptopotato.com/ethereum-eth-attempts-a-recovery-but-heavy-selling-persists-details/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum",
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "341bd5437e548baea62c9a0e722e02ead6a18cbce74fe378d8d170ed00fc0bce",
+      "title_sha256": "dbd6881f021a9ce4540f2930d6402bb23635bbe03a74fd5eb1bbb83701cee440"
+    },
+    "https://cryptopotato.com/datavault-ai-stock-plunges-50-as-bitcoin-withdrawal-stalls/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "9e0786eb10777b09b1f30403077c03aa3d56a11d1522a0c53299a4ebea91c95f",
+      "title_sha256": "e505f9baa4d03c3b4218fd36b46a14175aeef927fa3dec2d1695e1edaf1402b7"
+    },
+    "https://cryptopotato.com/ripples-rlusd-earns-moodys-investment-grade-rating-in-stablecoin-milestone/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "b9dd78b040892c6e3f68ac35dd37f5ce7304d2be0fc0a64cbbc099f78ad1b5c0",
+      "title_sha256": "fe7c71584701162e32fe0b5f10d7edbc95a873bfdab87a500fe349da6825cb3a"
+    },
+    "https://cryptopotato.com/pi-network-pi-vs-cardano-ada-3-ais-predict-which-could-perform-better-in-q4/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ADA",
+          "token_rules": [
+            "name:cardano",
+            "symbol:ADA"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "b405ac50bb49e9c9efb925d2b855772d776b8f327eeaaf59b5ad5bbaa1320e4f",
+      "title_sha256": "9c4b07ed51291e8e9ca3d43496c9932c82c543ad15b71741d7394dcdc3679dde"
+    },
+    "https://cryptopotato.com/ripples-swell-blitz-continues-coinbase-deal-and-900m-revenue-run-rate-revealed/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "46e6c3626d4913a6d3c565cc32f39c5f478b916257a53ba60a21295a8582a7fa",
+      "title_sha256": "76734681978d93f1f45f139703ba2a0be3d083854cea77484fb2c2806660d2e8"
+    },
+    "https://cryptopotato.com/uniswap-adds-13137-new-addresses-in-its-biggest-growth-spike-since-2020/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "UNI",
+          "token_rules": [
+            "name:uniswap"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "UNI",
+          "token_rules": [
+            "name:uniswap"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "c48dc3b70b2effe004b0debf4b1575d2b895e397177a5902fd376eab1db4cf48",
+      "title_sha256": "42830ddea7ecd7eaa96e7501127afdc2a9ae5f793669116d07f83625a0b0f741"
+    },
+    "https://cryptopotato.com/metamask-trezor-walletconnect-and-other-industry-leaders-join-changenow-at-token2049/": {
+      "features": [],
+      "content_sha256": "27112ff29e5cc6295d2e901f6070b2c13f7b5c2ea6bbf5cb480dee8f7afa2f57",
+      "title_sha256": "b8bae5349dd4b3c3ab62618b54229266fed79fc680a83aea9aeabf535279a94b"
+    },
+    "https://cryptopotato.com/bitcoins-post-fomc-rollercoaster-continues-as-near-dumps-8-market-watch/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BCH",
+          "token_rules": [
+            "symbol:BCH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "7fc85e435bf4fdd78c4135a7cfa3d3041068c822625dc0098e909e89f7ffc9b0",
+      "title_sha256": "6a8d326b1ca221181480a052a207ecd7eb0307c47fd1c0c4019833e4db888087"
+    },
+    "https://cryptopotato.com/is-xrp-losing-ground-to-rlusd-at-ripple-ripple-ceo-brad-garlinghouse-responds/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP",
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "d0b1009fc35f5402a47cfcdabb5057b709111b8e443822d597839368ef93a52b",
+      "title_sha256": "45d86865dd04e7d606651a7327690c8b21804aacdf9f5d854cd657bf3e854d6c"
+    },
+    "https://cryptopotato.com/travala-unveils-ava-partners-a-new-route-to-crypto-payments-powered-by-ava/": {
+      "features": [],
+      "content_sha256": "b8eacebc5553b91e5723104a4499a4ae653fa4db7e39761a3f8527010ed34271",
+      "title_sha256": "c522717aca048a92fe62d7d7c346ca355dd0f8ad5eb5a45363c17d9342176e83"
+    },
+    "https://cryptopotato.com/3-reasons-why-ethereum-eth-could-drop-to-2000/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum",
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:if:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "a1359ec298c2ad6081baaf607ed0b3d50fe1b28702cfa36e55fadc2589b45d91",
+      "title_sha256": "111df16dd9c3300fff94f5ff30efd4f056529737a374e39e1c4412401367c09b"
+    },
+    "https://cryptopotato.com/bixbit-launches-antminer-firmware-with-up-to-40-hashrate-gains-and-integrated-mining-management/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "040625ee555793b5a17c72fe1ebc2fbdea6f6f24a82a606d5a758f2dad8f2f14",
+      "title_sha256": "f1dd11db4163c04551d4f335c64f61211ca54a44a01dc8ea768398cb8b1c3efe"
+    },
+    "https://cryptopotato.com/bitcoin-price-analysis-how-far-could-btc-crash-if-80k-support-breaks/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20",
+              "conviction:if:-0.20"
+            ],
+            "value": 0.1
+          },
+          "direction": "bearish",
+          "sentiment": {
+            "fired": [
+              "sentiment:crash:-0.40"
+            ],
+            "value": -0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "2e4bd84bfaf436cdbe74ba4f62e9350f8b19df56817c28e87c66479c7f58f2aa",
+      "title_sha256": "61021d55a972a94789b73048de2905892bee0339816fe5d10981ef552b3a1ace"
+    },
+    "https://cryptopotato.com/important-pi-network-news-and-pi-price-update/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "symbol:ETH"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "2f64f8b65955b1d6e472602558620b22a6f8cce20bc9dc22cf74ac6246fb7c73",
+      "title_sha256": "d469d394253e3d03e38a1080888b14b4a43d0755af88a53392a2805d6f9435b6"
+    },
+    "https://cryptopotato.com/hype-price-rises-15-following-nyse-plan-to-bring-hyperliquid-perps-to-the-us/": {
+      "features": [],
+      "content_sha256": "3da8a3afe4586d481a01ed16decac7abe6cd4d4059ed3161e7bc24526a57d274",
+      "title_sha256": "cc073170982202e1da1d15cf2ac94d230281ed92564c94afc183e539bdf0d6b2"
+    },
+    "https://cryptopotato.com/quantum-says-30000-qubits-could-break-a-bitcoin-key-in-an-hour/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "5c68c2f5bcf405123c4d5e10d45c38afb8032ad4d4e323a626cc65b2d183cd3a",
+      "title_sha256": "6c6213fafebe794364e0c53074151b8072f1407646d7ec9fa82d90bd857ff240"
+    },
+    "https://cryptopotato.com/key-shiba-inu-shib-metric-falls-to-a-5-year-low-good-news-for-the-bulls/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SHIB",
+          "token_rules": [
+            "name:shiba inu",
+            "symbol:SHIB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "13d18f6be75836982afe4b1146dc0d1160dc909180a138c37eb5c2941caf8aca",
+      "title_sha256": "c247fc4666de4fdcc8eb8f6a46a5bc0ee5ad9746d457d7bcd7231620004aea90"
+    },
+    "https://cryptopotato.com/these-3-crypto-stocks-now-sit-on-techs-stealth-bear-market-list/": {
+      "features": [],
+      "content_sha256": "7acf19d4e2108f24c4cd5055b987c0eaa2e6bdff5764b25c9086c86c56aa1dc0",
+      "title_sha256": "04c1de39862dc6419a3adb42869193a94a29b005343b422ba3d50a639f0c1dc4"
+    },
+    "https://cryptopotato.com/polymarket-trading-disrupted-after-users-report-2-6m-in-losses/": {
+      "features": [],
+      "content_sha256": "50eca4f6c4be59bad7a19cb089cc63f22ee7331b4551af5879359ac48edf88cb",
+      "title_sha256": "365bb2022fd9d89078a4bbd021ba5af650fd6a1a0c04423db771241ba9081848"
+    },
+    "https://cryptopotato.com/singapore-reports-3-5-million-in-losses-from-tampered-ledger-crypto-wallets/": {
+      "features": [],
+      "content_sha256": "7eb000f2af502ab58900bf9dfc6e3f21f8221262beab967b182c4e95c342a2dd",
+      "title_sha256": "17b152db66874ab861eab54727258e908033797ac8ac7bad042479637d7e4c08"
+    }
+  }
+}

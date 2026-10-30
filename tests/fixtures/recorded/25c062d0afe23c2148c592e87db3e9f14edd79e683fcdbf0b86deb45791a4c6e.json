@@ -1,0 +1,899 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:cryptonews",
+  "endpoint": "https://cryptonews.com/news/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:22.460194Z",
+  "original_response_sha256": "93770f35dd8a8e32848c2b047ee2c231322907aa30e070e9c0fc1077e6ed2bae",
+  "body": "<rss><channel><item><title /><link>https://cryptonews.com/news/copilot-ai-predicts-pi-network-binance-price/</link><pubDate>Thu, 29 Oct 2026 22:30:00 +0000</pubDate><guid>https://cryptonews.com/?p=514732</guid></item><item><title /><link>https://cryptonews.com/news/mark-zuckerbergs-meta-ai-predicts-near-protocol-explosion/</link><pubDate>Thu, 29 Oct 2026 16:25:00 +0000</pubDate><guid>https://cryptonews.com/?p=514815</guid></item><item><title /><link>https://cryptonews.com/news/ripple-nears-1b-revenue-bny-xrp-custody/</link><pubDate>Thu, 29 Oct 2026 15:34:00 +0000</pubDate><guid>https://cryptonews.com/?p=514713</guid></item><item><title /><link>https://cryptonews.com/news/canton-network-dtcc-30-trillion-tokenization-bitcoin-layer-2/</link><pubDate>Thu, 29 Oct 2026 08:48:02 +0000</pubDate><guid>https://cryptonews.com/?p=514704</guid></item><item><title /><link>https://cryptonews.com/news/bitwise-bitcoin-price-prediction-1-6-million/</link><pubDate>Thu, 29 Oct 2026 07:37:52 +0000</pubDate><guid>https://cryptonews.com/?p=514691</guid></item><item><title /><link>https://cryptonews.com/news/bitcoin-price-11b-options-expiry-fomc-uncertainty/</link><pubDate>Thu, 29 Oct 2026 07:00:25 +0000</pubDate><guid>https://cryptonews.com/?p=514687</guid></item><item><title /><link>https://cryptonews.com/news/sony-soneium-playstation-games-anime/</link><pubDate>Thu, 29 Oct 2026 06:35:17 +0000</pubDate><guid>https://cryptonews.com/?p=514683</guid></item><item><title /><link>https://cryptonews.com/news/perplexity-ai-predicts-somnia-crypto-about-to-explode/</link><pubDate>Thu, 29 Oct 2026 01:57:00 +0000</pubDate><guid>https://cryptonews.com/?p=514657</guid></item><item><title /><link>https://cryptonews.com/news/microsoft-copilot-ai-predicts-historic-btc-move-post-fomc/</link><pubDate>Wed, 28 Oct 2026 22:42:00 +0000</pubDate><guid>https://cryptonews.com/?p=514598</guid></item><item><title /><link>https://cryptonews.com/news/mark-zuckerbergs-meta-ai-predicts-astonishing-xrp-price/</link><pubDate>Wed, 28 Oct 2026 21:47:00 +0000</pubDate><guid>https://cryptonews.com/?p=514625</guid></item><item><title /><link>https://cryptonews.com/news/sam-altmans-chatgpt-ai-predicts-pepe-to-lead-a-meme-coin-resurgence/</link><pubDate>Wed, 28 Oct 2026 19:52:00 +0000</pubDate><guid>https://cryptonews.com/?p=514641</guid></item><item><title /><link>https://cryptonews.com/news/google-mpc-crypto-custody-fireblocks-security-flaw/</link><pubDate>Wed, 28 Oct 2026 11:57:50 +0000</pubDate><guid>https://cryptonews.com/?p=514627</guid></item><item><title /><link>https://cryptonews.com/news/coinbase-data-breach-self-custody-bank/</link><pubDate>Wed, 28 Oct 2026 11:12:30 +0000</pubDate><guid>https://cryptonews.com/?p=514620</guid></item><item><title /><link>https://cryptonews.com/news/bitcoin-price-bounces-nasdaq-kospi-soars-fomc-hike-fears/</link><pubDate>Wed, 28 Oct 2026 08:36:07 +0000</pubDate><guid>https://cryptonews.com/?p=514609</guid></item><item><title /><link>https://cryptonews.com/news/justin-sun-51m-pepe-memecoins-portfolio/</link><pubDate>Wed, 28 Oct 2026 07:48:26 +0000</pubDate><guid>https://cryptonews.com/?p=514599</guid></item><item><title /><link>https://cryptonews.com/news/ripples-rlusd-moodys-rating-xrp-faces-bigger-question/</link><pubDate>Wed, 28 Oct 2026 07:02:22 +0000</pubDate><guid>https://cryptonews.com/?p=514593</guid></item><item><title /><link>https://cryptonews.com/news/elon-musk-grok-ai-predicts-an-unbelievable-xrp-price/</link><pubDate>Tue, 27 Oct 2026 16:22:00 +0000</pubDate><guid>https://cryptonews.com/?p=514561</guid></item><item><title /><link>https://cryptonews.com/news/google-gemini-ai-predicts-pudgy-penguins-pengu-takeover/</link><pubDate>Tue, 27 Oct 2026 15:06:42 +0000</pubDate><guid>https://cryptonews.com/?p=514572</guid></item><item><title /><link>https://cryptonews.com/news/openai-chatgpt-ai-predicts-monumental-event-btc-2027/</link><pubDate>Tue, 27 Oct 2026 13:27:00 +0000</pubDate><guid>https://cryptonews.com/?p=514521</guid></item><item><title /><link>https://cryptonews.com/news/charles-hoskinsons-midnight-to-hit-50000-transactions-as-crypto-privacy-race-heats-up/</link><pubDate>Tue, 27 Oct 2026 11:37:00 +0000</pubDate><guid>https://cryptonews.com/?p=514531</guid></item></channel></rss>",
+  "post_features": {
+    "https://cryptonews.com/news/ripples-rlusd-moodys-rating-xrp-faces-bigger-question/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BNB",
+          "token_rules": [
+            "symbol:BNB"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "6e57a6e66fbc890fb7b448c8ea880cf1f122b5775c4c4d6e714dc4a45f5a9690",
+      "title_sha256": "70c7e0d56b860211aea88b905f898782133c5ee69363db94838639a8c1d5dab9"
+    },
+    "https://cryptonews.com/news/justin-sun-51m-pepe-memecoins-portfolio/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "PEPE",
+          "token_rules": [
+            "name:pepe"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "PEPE",
+          "token_rules": [
+            "name:pepe",
+            "name:pepe"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "PEPE",
+          "token_rules": [
+            "name:pepe"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "063eaf1cc97e652876325a83f1efb81eeaaf16eafa2e71dd701805511260edea",
+      "title_sha256": "2fe9794e4ae1231c27520bcd3fd63a9f4ff897d77f6c1aa85fda697f5ed6f452"
+    },
+    "https://cryptonews.com/news/bitcoin-price-bounces-nasdaq-kospi-soars-fomc-hike-fears/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:rally:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "39bc386a9f630edd274c27a1997dfa5dfb691427dc0e09fc1041fc3ee874e1b7",
+      "title_sha256": "c382762a56ed38fec9821eb8450c522d27b9bfcd28301e5f367fe009f6f9e2e5"
+    },
+    "https://cryptonews.com/news/coinbase-data-breach-self-custody-bank/": {
+      "features": [],
+      "content_sha256": "c3d056eca0168ef5681ac3f753270d36c46cf2ceea303ab2e11a07ed6c8f442e",
+      "title_sha256": "06c315137495a1912d1735632d5949a250d7ffa7e8565b15bc81b1051a588a33"
+    },
+    "https://cryptonews.com/news/google-mpc-crypto-custody-fireblocks-security-flaw/": {
+      "features": [],
+      "content_sha256": "1071632edaf2ee9b72a22765efe1bee30176f4d4beb8dc1c234061e0e348609b",
+      "title_sha256": "7453a03e05d4fd547096bbcd59bdacff15db75db49e3ae2bf718cedcd7c47a6e"
+    },
+    "https://cryptonews.com/news/sam-altmans-chatgpt-ai-predicts-pepe-to-lead-a-meme-coin-resurgence/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "PEPE",
+          "token_rules": [
+            "name:pepe"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:rally:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "PEPE",
+          "token_rules": [
+            "name:pepe",
+            "name:pepe",
+            "name:pepe"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "3e0f02b57b990df3dcf7f0b88666f2d2913ab7fd1152ffcbe7fcb2280e86a799",
+      "title_sha256": "aadaeea04d8c2879c7839cfccf9edeae03b33da674b0ccc7b5edcd0d248d0022"
+    },
+    "https://cryptonews.com/news/mark-zuckerbergs-meta-ai-predicts-astonishing-xrp-price/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "symbol:XRP",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "2f6bdc9b8cdc81cf0aba5c7ce7b626a0a036c39d6cc7c59b13ace1c73208ec72",
+      "title_sha256": "4b57c270069b0c36462e550a6a4568bbea9352ec40daff2c2ff828232bbef6ea"
+    },
+    "https://cryptonews.com/news/microsoft-copilot-ai-predicts-historic-btc-move-post-fomc/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:long:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "symbol:BTC",
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "7d1ced66fc5adbcfb67156edcac29ef581a092e202af733170530de77ff3a4b8",
+      "title_sha256": "cf6a1a04c5dd923db26f14fd038b8eb84e9029f10a5119ce4c014c2ddd087313"
+    },
+    "https://cryptonews.com/news/perplexity-ai-predicts-somnia-crypto-about-to-explode/": {
+      "features": [],
+      "content_sha256": "bb4626b8491477d19cc79537b07b7c7f70b4ccb4ab50d269fe22c8bbb01aba1e",
+      "title_sha256": "dbf9790d8bd936acc6d9cd28aa361fcfb09606543ef5efbb6d6aaa7e80f8a030"
+    },
+    "https://cryptonews.com/news/sony-soneium-playstation-games-anime/": {
+      "features": [],
+      "content_sha256": "741dc9e8a76cb46460b54a130e599ddfc5a3dde8cc101c96ebce21e5eed60590",
+      "title_sha256": "7944489164c3fa4e79399ab9cc43401f496144e63c70c46e76e2dfa0aa47efe5"
+    },
+    "https://cryptonews.com/news/bitcoin-price-11b-options-expiry-fomc-uncertainty/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "bullish",
+          "sentiment": {
+            "fired": [
+              "sentiment:rally:+0.40"
+            ],
+            "value": 0.4
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "7ce1d8705bb34bd21e16f92870cfacc3950d18f0b6308ac4f2691311eb08c170",
+      "title_sha256": "d1c17515b20c2af555c4a4297d090f61cbb8b8951d965f5eae28d69f3e94b823"
+    },
+    "https://cryptonews.com/news/bitwise-bitcoin-price-prediction-1-6-million/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "64f11d010f7fb1ef10ffe0f716cd7eb21d1257deddabdd88dfedd9454feb4332",
+      "title_sha256": "06bc625750b2a9682de1f71324aa3a43cbc1ea3d2cf38410fb427d2c84ae1bc7"
+    },
+    "https://cryptonews.com/news/canton-network-dtcc-30-trillion-tokenization-bitcoin-layer-2/": {
+      "features": [],
+      "content_sha256": "e7a099dd63a7255f1d494f132a985f35803a0a6d54d02b88c73c5f666a5a8ba3",
+      "title_sha256": "3fac4181ccc89d5659a8e127e595a37e674826e9d8455db03cda49286124b106"
+    },
+    "https://cryptonews.com/news/ripple-nears-1b-revenue-bny-xrp-custody/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple",
+            "symbol:XRP"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "4131617c68b0bb2020aad5f4db3c62b21610a7ae3869f2f594d9828aa9302c67",
+      "title_sha256": "a7d6e9dc57134f965790a3c53ea51b2c11cd7a1e59c3628b528dd42444c35ed1"
+    },
+    "https://cryptonews.com/news/mark-zuckerbergs-meta-ai-predicts-near-protocol-explosion/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "NEAR",
+          "token_rules": [
+            "name:near protocol"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "NEAR",
+          "token_rules": [
+            "name:near protocol"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "NEAR",
+          "token_rules": [
+            "name:near protocol"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "20e7b517b3ebd7d32f7b3038e94595226ba4d7d15e0b5a7a854da3ec10a2a8df",
+      "title_sha256": "5000eef8c61b02426c8c896a1900baf5287bbc5f29d25bbe7decb4e75345e8b6"
+    },
+    "https://cryptonews.com/news/copilot-ai-predicts-pi-network-binance-price/": {
+      "features": [],
+      "content_sha256": "1e01c72e8cee6836ef9350739b7826d8565d0eac0192762feb9418514a1b7db9",
+      "title_sha256": "44fc009abc4b1a0f46b036c116766bcfb4f9092a29b59caf8d4a6ae56aa30070"
+    }
+  }
+}

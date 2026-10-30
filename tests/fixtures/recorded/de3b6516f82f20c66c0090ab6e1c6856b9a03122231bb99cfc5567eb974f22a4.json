@@ -1,0 +1,423 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:cryptobriefing",
+  "endpoint": "https://cryptobriefing.com/feed/",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/rss+xml; charset=UTF-8"
+  },
+  "fetch_time": "2026-10-30T00:48:28.325593Z",
+  "original_response_sha256": "0af1888a9bbcf6ffebb970cfc5ded3e5e0d5d63d5d15cba343fdf5df2918f21f",
+  "body": "<rss><channel><item><title /><link>https://cryptobriefing.com/sk-hynix-us-nand-memory-facility-ai/</link><pubDate>Fri, 30 Oct 2026 00:36:21 +0000</pubDate><guid>https://cryptobriefing.com/?p=404566</guid></item><item><title /><link>https://cryptobriefing.com/google-gemini-4-carbon-tops-ai-index/</link><pubDate>Fri, 30 Oct 2026 00:29:24 +0000</pubDate><guid>https://cryptobriefing.com/?p=404563</guid></item><item><title /><link>https://cryptobriefing.com/sam-altman-ai-infrastructure-costs-20b-gigawatt/</link><pubDate>Fri, 30 Oct 2026 00:23:47 +0000</pubDate><guid>https://cryptobriefing.com/?p=404560</guid></item><item><title /><link>https://cryptobriefing.com/google-winds-down-jules-ai-antigravity/</link><pubDate>Fri, 30 Oct 2026 00:20:27 +0000</pubDate><guid>https://cryptobriefing.com/?p=404557</guid></item><item><title /><link>https://cryptobriefing.com/ice-plans-hyperliquid-based-perpetual-futures-for-us-markets-hype-token-surges/</link><pubDate>Fri, 30 Oct 2026 00:19:10 +0000</pubDate><guid>https://cryptobriefing.com/?p=404553</guid></item><item><title /><link>https://cryptobriefing.com/democrats-target-texas-senate-seat-in-2026-race-against-ken-paxton/</link><pubDate>Thu, 29 Oct 2026 23:49:26 +0000</pubDate><guid>https://cryptobriefing.com/?p=404548</guid></item><item><title /><link>https://cryptobriefing.com/openai-navier-stokes-proof-cost-drop/</link><pubDate>Thu, 29 Oct 2026 23:37:49 +0000</pubDate><guid>https://cryptobriefing.com/?p=404544</guid></item><item><title /><link>https://cryptobriefing.com/obama-endorses-jolly-in-florida-governor-race-against-donalds/</link><pubDate>Thu, 29 Oct 2026 23:08:54 +0000</pubDate><guid>https://cryptobriefing.com/?p=404540</guid></item><item><title /><link>https://cryptobriefing.com/mantra-privy-embedded-wallets-rwa/</link><pubDate>Thu, 29 Oct 2026 23:06:55 +0000</pubDate><guid>https://cryptobriefing.com/?p=404537</guid></item><item><title /><link>https://cryptobriefing.com/bybit-trading-withdrawals-unaffected-security-incidents/</link><pubDate>Thu, 29 Oct 2026 23:05:54 +0000</pubDate><guid>https://cryptobriefing.com/?p=404534</guid></item><item><title /><link>https://cryptobriefing.com/nvidia-may-provide-billions-in-credit-for-45b-anthropic-deal-the-information/</link><pubDate>Thu, 29 Oct 2026 23:04:35 +0000</pubDate><guid>https://cryptobriefing.com/?p=404530</guid></item><item><title /><link>https://cryptobriefing.com/spacex-ai-division-profitable-anthropic-deal/</link><pubDate>Thu, 29 Oct 2026 23:01:04 +0000</pubDate><guid>https://cryptobriefing.com/?p=404527</guid></item><item><title /><link>https://cryptobriefing.com/nvidia-credit-support-nscale-anthropic-deal/</link><pubDate>Thu, 29 Oct 2026 22:50:27 +0000</pubDate><guid>https://cryptobriefing.com/?p=404524</guid></item><item><title /><link>https://cryptobriefing.com/nvidia-credit-guarantees-nscale-data-center/</link><pubDate>Thu, 29 Oct 2026 22:47:13 +0000</pubDate><guid>https://cryptobriefing.com/?p=404521</guid></item><item><title /><link>https://cryptobriefing.com/reddit-ceo-huffman-google-ai-traffic-decline/</link><pubDate>Thu, 29 Oct 2026 22:38:17 +0000</pubDate><guid>https://cryptobriefing.com/?p=404518</guid></item><item><title /><link>https://cryptobriefing.com/stablecoins-over-80-percent-walletconnect-volume/</link><pubDate>Thu, 29 Oct 2026 22:37:28 +0000</pubDate><guid>https://cryptobriefing.com/?p=404515</guid></item><item><title /><link>https://cryptobriefing.com/bitgo-freezes-usd1-stolen-funds-address/</link><pubDate>Thu, 29 Oct 2026 22:10:58 +0000</pubDate><guid>https://cryptobriefing.com/?p=404509</guid></item><item><title /><link>https://cryptobriefing.com/binance-holds-165b-crypto-reserves/</link><pubDate>Thu, 29 Oct 2026 22:10:07 +0000</pubDate><guid>https://cryptobriefing.com/?p=404506</guid></item><item><title /><link>https://cryptobriefing.com/aave-freezes-avalanche-markets-binance-hacker/</link><pubDate>Thu, 29 Oct 2026 22:09:23 +0000</pubDate><guid>https://cryptobriefing.com/?p=404503</guid></item><item><title /><link>https://cryptobriefing.com/grok-bot-daily-active-users-growth/</link><pubDate>Thu, 29 Oct 2026 22:08:21 +0000</pubDate><guid>https://cryptobriefing.com/?p=404500</guid></item><item><title /><link>https://cryptobriefing.com/marvell-technology-lumentum-acquisition-talks/</link><pubDate>Thu, 29 Oct 2026 22:06:59 +0000</pubDate><guid>https://cryptobriefing.com/?p=404497</guid></item><item><title /><link>https://cryptobriefing.com/amazon-ceo-chip-business-triples-annually/</link><pubDate>Thu, 29 Oct 2026 21:56:52 +0000</pubDate><guid>https://cryptobriefing.com/?p=404494</guid></item><item><title /><link>https://cryptobriefing.com/suspected-binance-hacker-wallet-uni-holdings/</link><pubDate>Thu, 29 Oct 2026 21:53:27 +0000</pubDate><guid>https://cryptobriefing.com/?p=404491</guid></item><item><title /><link>https://cryptobriefing.com/glm-5-3-firefox-exploits-mozilla-patch/</link><pubDate>Thu, 29 Oct 2026 21:43:57 +0000</pubDate><guid>https://cryptobriefing.com/?p=404479</guid></item><item><title /><link>https://cryptobriefing.com/binance-suspected-hack-user-funds-safe/</link><pubDate>Thu, 29 Oct 2026 21:38:07 +0000</pubDate><guid>https://cryptobriefing.com/?p=404476</guid></item><item><title /><link>https://cryptobriefing.com/intel-ceo-lip-bu-tan-server-cpu-forecast/</link><pubDate>Thu, 29 Oct 2026 21:37:07 +0000</pubDate><guid>https://cryptobriefing.com/?p=404472</guid></item><item><title /><link>https://cryptobriefing.com/amazon-jassy-ai-shopping-agents-ads-impact/</link><pubDate>Thu, 29 Oct 2026 21:36:02 +0000</pubDate><guid>https://cryptobriefing.com/?p=404468</guid></item><item><title /><link>https://cryptobriefing.com/tether-freezes-usdt-suspected-binance-hack/</link><pubDate>Thu, 29 Oct 2026 21:36:00 +0000</pubDate><guid>https://cryptobriefing.com/?p=404467</guid></item><item><title /><link>https://cryptobriefing.com/intel-cfo-data-center-ai-revenue-10-billion/</link><pubDate>Thu, 29 Oct 2026 21:30:09 +0000</pubDate><guid>https://cryptobriefing.com/?p=404463</guid></item><item><title /><link>https://cryptobriefing.com/tether-freezes-971m-usdt-binance-hack/</link><pubDate>Thu, 29 Oct 2026 21:23:00 +0000</pubDate><guid>https://cryptobriefing.com/?p=404455</guid></item></channel></rss>",
+  "post_features": {
+    "https://cryptobriefing.com/tether-freezes-971m-usdt-binance-hack/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether",
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether",
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "992ba5e98d697c665ffb6801fc7dfd5f5c2955a96a43224f66f131f5fdb1d90f",
+      "title_sha256": "3f775ceee56d9f352cdc7059b998c0782e51001243d619184b967a0d22fd81f8"
+    },
+    "https://cryptobriefing.com/intel-cfo-data-center-ai-revenue-10-billion/": {
+      "features": [],
+      "content_sha256": "56da5420105627f1c92bdd83f9eef3714028893d0d963240d9c2e159f66a1dfc",
+      "title_sha256": "767bf7b84a4509553150e60de058ca32f65ce1edb509e90f65e313f28a8c9ca6"
+    },
+    "https://cryptobriefing.com/tether-freezes-usdt-suspected-binance-hack/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether",
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether",
+            "symbol:USDT"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "23f6028004f21912095d89e0c9fbdd3756d591532a8ded6f160dad6d4d31e455",
+      "title_sha256": "2a859982f1febbe1a80d02924c3b92652cfcc48002478ea5d31d8f6df981b0f9"
+    },
+    "https://cryptobriefing.com/amazon-jassy-ai-shopping-agents-ads-impact/": {
+      "features": [],
+      "content_sha256": "5adaef196f5762b5bf55b770fb6bbc0008f4bc1faf84214f56bb3bbcdfa84759",
+      "title_sha256": "eab8f2b8abf554a7cf1d0e29e5e8ab9d95bedb2a014b1a7236f6a81839981c8b"
+    },
+    "https://cryptobriefing.com/intel-ceo-lip-bu-tan-server-cpu-forecast/": {
+      "features": [],
+      "content_sha256": "e70b8f3dab5c8060cca160fbe33a12a4b787948e197b5667d909e47a62c257ab",
+      "title_sha256": "cead6df42e6ff8ffb134a638272953bce021b3bf40a5911eba61e5073b831b21"
+    },
+    "https://cryptobriefing.com/binance-suspected-hack-user-funds-safe/": {
+      "features": [],
+      "content_sha256": "0976943ea8387ffb296d9f5635afd8673f15d024215391ec8fff575b687fbcb2",
+      "title_sha256": "5b4b2e4d144f72051ebdfc90478bfcab23689fcdc8e598a90a748572992fe324"
+    },
+    "https://cryptobriefing.com/glm-5-3-firefox-exploits-mozilla-patch/": {
+      "features": [],
+      "content_sha256": "5e2aae1bb39e5a7c7298fa115433eea983a07b4bc6b8bf967400e9fede8baa45",
+      "title_sha256": "223dddbf852503f312941fe81ea44f3d4064bd003fd769c9f89f72ce2e5a27e5"
+    },
+    "https://cryptobriefing.com/suspected-binance-hacker-wallet-uni-holdings/": {
+      "features": [],
+      "content_sha256": "e2a7e8e5d21b8f2f339f743c96a8d94394ee674e54b6e731c499322e6b7da1aa",
+      "title_sha256": "37d87d2da74b433742610de864f44c68cfcf1ba5afe274ed3800d57221536b0f"
+    },
+    "https://cryptobriefing.com/amazon-ceo-chip-business-triples-annually/": {
+      "features": [],
+      "content_sha256": "9e8f3e115ec91ba614f2494ce65304d68c2ddac798fe0226708442b317705715",
+      "title_sha256": "2196e854010d3006684c46c39db41d04e5e080442b111d9671268e28422c0b53"
+    },
+    "https://cryptobriefing.com/marvell-technology-lumentum-acquisition-talks/": {
+      "features": [],
+      "content_sha256": "e3a372a634ad02e71bc0c6fa8fc2984591797d81dd9aa9000757255288fd162d",
+      "title_sha256": "85aae4c3830bea23646a8eff4e43d98ffca95cedeadb38db4df6a32e482fad9d"
+    },
+    "https://cryptobriefing.com/grok-bot-daily-active-users-growth/": {
+      "features": [],
+      "content_sha256": "a65b51f8420b9fd9479db21f820a60ee774651fda73ed4ca8ec9a58ae8b34195",
+      "title_sha256": "2b6edada79b8c5398bd7e3f52ae75055a4a6ec83ed42ea1d6e33d007491f90a5"
+    },
+    "https://cryptobriefing.com/aave-freezes-avalanche-markets-binance-hacker/": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AVAX",
+          "token_rules": [
+            "name:avalanche"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AAVE",
+          "token_rules": [
+            "name:aave"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "AVAX",
+          "token_rules": [
+            "name:avalanche"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "d396f51d0fe4b9ecb7c526292b360fb627d5b453d0c6d53f7fc42a4fea485ec0",
+      "title_sha256": "f30b7ce02742d0d0c9a60a6b1867830aef241c6c9eca6e6bc395203a4d14cb31"
+    },
+    "https://cryptobriefing.com/binance-holds-165b-crypto-reserves/": {
+      "features": [],
+      "content_sha256": "f77049fac15191b78d526adbc5a7b7b23c8ffadc248b06bf27f7216a6b7d6574",
+      "title_sha256": "af6312ad097f3750ffe6659090e9ce0e2b639aca3da5d6a1de11764188832452"
+    },
+    "https://cryptobriefing.com/bitgo-freezes-usd1-stolen-funds-address/": {
+      "features": [],
+      "content_sha256": "14b6e8461a27929ac1ce8427201924dc1341f13439a74636588fc6d464bf7fc2",
+      "title_sha256": "c1ddee6309782c3621116d2b504645dbf169ae7cefe8cc742d05a2daaea49d3e"
+    },
+    "https://cryptobriefing.com/stablecoins-over-80-percent-walletconnect-volume/": {
+      "features": [],
+      "content_sha256": "c74831c3e5f4bfbfc754756060ba16ef3382609f7ff5f52b2c79325200005668",
+      "title_sha256": "2ed048875e2230bb2c09134bc63ef00ba2e78c775f4b21a1ca19d5c9581728ae"
+    },
+    "https://cryptobriefing.com/reddit-ceo-huffman-google-ai-traffic-decline/": {
+      "features": [],
+      "content_sha256": "319969484459ed8f242f8a9211747c4c9351282d2c422ee7b7ef0096a5e78857",
+      "title_sha256": "5931768544ccd42f142d56f1081477857117767a7260d82a130f59b5bf42c1bc"
+    },
+    "https://cryptobriefing.com/nvidia-credit-guarantees-nscale-data-center/": {
+      "features": [],
+      "content_sha256": "dd9c2f792808cae030c35f5e466b57b7e5f8ed6fa61276773cd22fe1b086b859",
+      "title_sha256": "09ea205c989d7c8198e051f259650bef5aaeb9b027d2a473220adb4e4d13bfd4"
+    },
+    "https://cryptobriefing.com/nvidia-credit-support-nscale-anthropic-deal/": {
+      "features": [],
+      "content_sha256": "7ef78310814b2fb16219ae664ba8cb48b57124c4481837b3b0a9955e6a59a861",
+      "title_sha256": "f86504f353dc7b033296c7fe292a1aa8ce6b3d3767cef3fe18cc09ad7de824c0"
+    },
+    "https://cryptobriefing.com/spacex-ai-division-profitable-anthropic-deal/": {
+      "features": [],
+      "content_sha256": "6c4d2f4bbcb89c6740b53db0af6160b496c7893cefd79447ff820982bdccbf30",
+      "title_sha256": "b4c7481ccd10db184791c124d0511ef0d521ad016ebad780d04aeaf6fbb2ba43"
+    },
+    "https://cryptobriefing.com/nvidia-may-provide-billions-in-credit-for-45b-anthropic-deal-the-information/": {
+      "features": [],
+      "content_sha256": "4f36e4633e58a338f534fde5a71e917fdbfe6563ebfa3b45fceb85630ec90029",
+      "title_sha256": "aaf1dfe4f98582973dd381b2007f765dffe3f04583c63cb07b50f93979ddad7c"
+    },
+    "https://cryptobriefing.com/bybit-trading-withdrawals-unaffected-security-incidents/": {
+      "features": [],
+      "content_sha256": "50d56b8cad8fbc1e9e321d3d1b011d38fabe8695bdee3935eab0d4b0dcfc9807",
+      "title_sha256": "0fda85f56cf807e80c9282490d0cec5e8eb7b09561f90b9ebd9c9d767f0b9156"
+    },
+    "https://cryptobriefing.com/mantra-privy-embedded-wallets-rwa/": {
+      "features": [],
+      "content_sha256": "35a8e52b214b60a5c26030c845349c114333b2ddb3429f51e25b92a1a7dc0683",
+      "title_sha256": "0c4e203a579ffc0137b6652fe28317494de0c6e54043e55c5f9979966b26fe0f"
+    },
+    "https://cryptobriefing.com/obama-endorses-jolly-in-florida-governor-race-against-donalds/": {
+      "features": [],
+      "content_sha256": "2e94959ac5d54b533f78af057812c16af81356997f78988278cd0dbb5003d068",
+      "title_sha256": "354de00d973e9839de0f9de48d915d7a615a6a8143e921dffbed44e1e02fbd2a"
+    },
+    "https://cryptobriefing.com/openai-navier-stokes-proof-cost-drop/": {
+      "features": [],
+      "content_sha256": "883fd53dcbd7e2fcabc36100251d74d9c1a11972200260cc0ca72506ce3d7971",
+      "title_sha256": "fec725511814092ed3891ce265bb7157534881801df7c7af3f03fbc5d5a12295"
+    },
+    "https://cryptobriefing.com/democrats-target-texas-senate-seat-in-2026-race-against-ken-paxton/": {
+      "features": [],
+      "content_sha256": "be4269455d55429168745c8e447c1b6ffe97f7977eafd7c0db4da122b24f4740",
+      "title_sha256": "2d208724aee656d0e1b981f0321011a1c5c792db14e578134ddf82c0b2423ddc"
+    },
+    "https://cryptobriefing.com/ice-plans-hyperliquid-based-perpetual-futures-for-us-markets-hype-token-surges/": {
+      "features": [],
+      "content_sha256": "7323964e40fea0c0f9a17eda726d5be1b0dc0c887875dd6d793e2e06dd099942",
+      "title_sha256": "bbe13f881aa7b1ac87d2ac43627021af0195c7db41cc8d784b040aa7089fcee3"
+    },
+    "https://cryptobriefing.com/google-winds-down-jules-ai-antigravity/": {
+      "features": [],
+      "content_sha256": "5d09c9c00b1cd96010968d07634e4d31ab7522f51318fb7baea0849bb7e6393f",
+      "title_sha256": "df5032d882516f1c9801d26cd1ddfd3a0792c0bd40f37bcf0104d8e39eb1f901"
+    },
+    "https://cryptobriefing.com/sam-altman-ai-infrastructure-costs-20b-gigawatt/": {
+      "features": [],
+      "content_sha256": "c6c1d156f1914d1eb3ffc48f00520f12abee9e56abd0fd9e20fc8e720b557344",
+      "title_sha256": "846ebfd4e6f0d9e0fe269c2eb52d75d2127be6de40e4ceefe09f1513c9b33441"
+    },
+    "https://cryptobriefing.com/google-gemini-4-carbon-tops-ai-index/": {
+      "features": [],
+      "content_sha256": "f4d31f1199410fff9c3bd83fab000c8490a9d656aa6bdeb2ee93a77b6e29c3c1",
+      "title_sha256": "f38dd039b13b9ad0dca2c94fd4474758c0f8e7d95deb818f983f8d8a1f0d238b"
+    },
+    "https://cryptobriefing.com/sk-hynix-us-nand-memory-facility-ai/": {
+      "features": [],
+      "content_sha256": "6e83d182520c33cafaef5554e95a181ebbb17c5954627a052ea0c9e3702d8549",
+      "title_sha256": "9c3d4aef01617f58ebf9df0ce7fa6bafa841d3caa046116d4fcb9d8ff11633ab"
+    }
+  }
+}

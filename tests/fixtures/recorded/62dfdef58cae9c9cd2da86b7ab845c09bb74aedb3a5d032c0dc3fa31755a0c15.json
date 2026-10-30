@@ -1,0 +1,802 @@
+{
+  "recorded_test_fixture": true,
+  "redaction": "Publisher prose removed; never use as demo data.",
+  "source": "rss:decrypt",
+  "endpoint": "https://decrypt.co/feed",
+  "payload": null,
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/xml"
+  },
+  "fetch_time": "2026-10-30T00:48:15.231538Z",
+  "original_response_sha256": "2f5dd396ae158a4c7efe0599a93fd42984dda622d1a531249c69e2611dd29747",
+  "body": "<rss><channel><item><title /><link>https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum</link><pubDate>Thu, 29 Oct 2026 22:57:48 +0000</pubDate><guid>https://decrypt.co/?p=382194</guid></item><item><title /><link>https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto</link><pubDate>Thu, 29 Oct 2026 21:36:24 +0000</pubDate><guid>https://decrypt.co/?p=382191</guid></item><item><title /><link>https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains</link><pubDate>Thu, 29 Oct 2026 20:46:43 +0000</pubDate><guid>https://decrypt.co/?p=382188</guid></item><item><title /><link>https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms</link><pubDate>Thu, 29 Oct 2026 19:46:02 +0000</pubDate><guid>https://decrypt.co/?p=382183</guid></item><item><title /><link>https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident</link><pubDate>Thu, 29 Oct 2026 18:53:44 +0000</pubDate><guid>https://decrypt.co/?p=382185</guid></item><item><title /><link>https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees</link><pubDate>Thu, 29 Oct 2026 18:46:02 +0000</pubDate><guid>https://decrypt.co/?p=382181</guid></item><item><title /><link>https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority</link><pubDate>Thu, 29 Oct 2026 17:46:02 +0000</pubDate><guid>https://decrypt.co/?p=382179</guid></item><item><title /><link>https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means</link><pubDate>Thu, 29 Oct 2026 17:15:11 +0000</pubDate><guid>https://decrypt.co/?p=382171</guid></item><item><title /><link>https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode</link><pubDate>Thu, 29 Oct 2026 16:32:47 +0000</pubDate><guid>https://decrypt.co/?p=382161</guid></item><item><title /><link>https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us</link><pubDate>Thu, 29 Oct 2026 15:59:48 +0000</pubDate><guid>https://decrypt.co/?p=382149</guid></item><item><title /><link>https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue</link><pubDate>Thu, 29 Oct 2026 15:07:15 +0000</pubDate><guid>https://decrypt.co/?p=382145</guid></item><item><title /><link>https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana</link><pubDate>Thu, 29 Oct 2026 13:01:02 +0000</pubDate><guid>https://decrypt.co/?p=381850</guid></item><item><title /><link>https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog</link><pubDate>Thu, 29 Oct 2026 12:58:28 +0000</pubDate><guid>https://decrypt.co/?p=382138</guid></item><item><title /><link>https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in</link><pubDate>Thu, 29 Oct 2026 12:30:38 +0000</pubDate><guid>https://decrypt.co/?p=382135</guid></item><item><title /><link>https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto</link><pubDate>Thu, 29 Oct 2026 11:32:51 +0000</pubDate><guid>https://decrypt.co/?p=382132</guid></item><item><title /><link>https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets</link><pubDate>Thu, 29 Oct 2026 11:06:40 +0000</pubDate><guid>https://decrypt.co/?p=382124</guid></item><item><title /><link>https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc</link><pubDate>Wed, 28 Oct 2026 21:46:02 +0000</pubDate><guid>https://decrypt.co/?p=382116</guid></item><item><title /><link>https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand</link><pubDate>Wed, 28 Oct 2026 21:16:03 +0000</pubDate><guid>https://decrypt.co/?p=382114</guid></item><item><title /><link>https://decrypt.co/382101/ai-security-startup-upwind-raises-400m</link><pubDate>Wed, 28 Oct 2026 20:16:03 +0000</pubDate><guid>https://decrypt.co/?p=382101</guid></item><item><title /><link>https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey</link><pubDate>Wed, 28 Oct 2026 19:46:03 +0000</pubDate><guid>https://decrypt.co/?p=382100</guid></item><item><title /><link>https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia</link><pubDate>Wed, 28 Oct 2026 19:16:02 +0000</pubDate><guid>https://decrypt.co/?p=382090</guid></item><item><title /><link>https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike</link><pubDate>Wed, 28 Oct 2026 18:25:18 +0000</pubDate><guid>https://decrypt.co/?p=382092</guid></item><item><title /><link>https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions</link><pubDate>Wed, 28 Oct 2026 17:36:02 +0000</pubDate><guid>https://decrypt.co/?p=382065</guid></item><item><title /><link>https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor</link><pubDate>Wed, 28 Oct 2026 17:03:32 +0000</pubDate><guid>https://decrypt.co/?p=382066</guid></item><item><title /><link>https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock</link><pubDate>Wed, 28 Oct 2026 16:22:58 +0000</pubDate><guid>https://decrypt.co/?p=382061</guid></item><item><title /><link>https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds</link><pubDate>Wed, 28 Oct 2026 16:15:02 +0000</pubDate><guid>https://decrypt.co/?p=382059</guid></item><item><title /><link>https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect</link><pubDate>Wed, 28 Oct 2026 15:15:34 +0000</pubDate><guid>https://decrypt.co/?p=382044</guid></item><item><title /><link>https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks</link><pubDate>Wed, 28 Oct 2026 15:05:03 +0000</pubDate><guid>https://decrypt.co/?p=382043</guid></item><item><title /><link>https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies</link><pubDate>Wed, 28 Oct 2026 13:38:08 +0000</pubDate><guid>https://decrypt.co/?p=382035</guid></item><item><title /><link>https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain</link><pubDate>Wed, 28 Oct 2026 13:01:02 +0000</pubDate><guid>https://decrypt.co/?p=382007</guid></item><item><title /><link>https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval</link><pubDate>Wed, 28 Oct 2026 12:16:30 +0000</pubDate><guid>https://decrypt.co/?p=382030</guid></item><item><title /><link>https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars</link><pubDate>Wed, 28 Oct 2026 12:04:56 +0000</pubDate><guid>https://decrypt.co/?p=382029</guid></item><item><title /><link>https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data</link><pubDate>Wed, 28 Oct 2026 10:57:29 +0000</pubDate><guid>https://decrypt.co/?p=382022</guid></item><item><title /><link>https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted</link><pubDate>Wed, 28 Oct 2026 10:10:31 +0000</pubDate><guid>https://decrypt.co/?p=382009</guid></item><item><title /><link>https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom</link><pubDate>Tue, 27 Oct 2026 21:16:02 +0000</pubDate><guid>https://decrypt.co/?p=381992</guid></item><item><title /><link>https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets</link><pubDate>Tue, 27 Oct 2026 20:42:11 +0000</pubDate><guid>https://decrypt.co/?p=382004</guid></item><item><title /><link>https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans</link><pubDate>Tue, 27 Oct 2026 20:16:02 +0000</pubDate><guid>https://decrypt.co/?p=382002</guid></item><item><title /><link>https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor</link><pubDate>Tue, 27 Oct 2026 19:46:02 +0000</pubDate><guid>https://decrypt.co/?p=381988</guid></item></channel></rss>",
+  "post_features": {
+    "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted": {
+      "features": [],
+      "content_sha256": "24abad04d52dfe7eea80a59ba57b73d278a57656db9941ec3c9ef39d07055d32",
+      "title_sha256": "0ce3b08a848a287c619d4634da903a2acf1116f1d65349c92eb2e9e411179b56"
+    },
+    "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data": {
+      "features": [],
+      "content_sha256": "4bf872bbf0dcaaa9b0fea1502773fc59718837b62668ed7db152b58b842e576a",
+      "title_sha256": "310485295746653a825ebef7769c8bcd503dae4aec2181f7a41216c33f72ffa3"
+    },
+    "https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars": {
+      "features": [],
+      "content_sha256": "93440fc49764c0d4553eca43b3a378a57916e165a63a076c08c900a363120a6c",
+      "title_sha256": "acbbfdc0422b583c9b1bd72a8af26d8b88e2b6b265579177cd945e396dba8869"
+    },
+    "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "XRP",
+          "token_rules": [
+            "name:ripple"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "3395736b3d3c016e15134eaf904525c46a5a260a7e85d23499368c86146d9a8c",
+      "title_sha256": "035a4217742fe157797641cb6557a345b99e733bbbc4d3ef32c0e903adaeb43d"
+    },
+    "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain": {
+      "features": [],
+      "content_sha256": "748fb18442d6c826146c98646d97ab70ccc2ce4f29f00e5835f829bc84bc447c",
+      "title_sha256": "25022fc6afda145b2fd98fb93fc8b02ebf53bf9f783b349a9b71ab58f7f9bd38"
+    },
+    "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies": {
+      "features": [],
+      "content_sha256": "abd2f6cbaf4f55fabcac9eec44324555a4a592974f63288f75dc4b29efe9e6ee",
+      "title_sha256": "d96d216578781758e4ea4fe12c10ccfa99fdedd4c7b52de21b313aea2735f33f"
+    },
+    "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks": {
+      "features": [],
+      "content_sha256": "6c90faf00e10b865ad4e09c63afe4736365fef9b10e6383602d94e94de27b1dc",
+      "title_sha256": "f99dcb09a2f8ffe81bf9550e175546f1d7fcfff795c3e418d2dfefee67a3f0b6"
+    },
+    "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "b5288768aea19e22395fae0f8fc7371ed121feaa059fe555784e59ae3ef75a6c",
+      "title_sha256": "ced692d225e697daaf11744e52513a69596941ec2d4761e8f9f7b7edad0522d4"
+    },
+    "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "57f522a2a50805d09e047f8b4a51a6ca58ef217dd1b6f28f13f13323ac1a52bd",
+      "title_sha256": "4bb31c0f4938f42ce818424e1947b374b6faa2ba478e070b3a58fa9bebacdf36"
+    },
+    "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "APT",
+          "token_rules": [
+            "name:aptos"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "APT",
+          "token_rules": [
+            "name:aptos"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "c193f3bda7128d424eb421bc47e4e4aa21a6c6bf2f9044078fd56b6ba2d417cc",
+      "title_sha256": "c90d93d7b02b4b5376a2eec5a4ca1f0d2b4f11391d812e36d899476cdc6187ad"
+    },
+    "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor": {
+      "features": [],
+      "content_sha256": "d652399274cf443c639703caa42db79a4fda31bcfcf1af0cc41e108c5751e96d",
+      "title_sha256": "26ab03eb84aaffe6d44317483328e8cadad94075aa4f8c561326910768aa6a15"
+    },
+    "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions": {
+      "features": [],
+      "content_sha256": "d0ad28a4dfe8cadbc392d952db9b5e2e198c64ea40fbab8f70979277a564e01c",
+      "title_sha256": "103b65253b3660f614aa45f0e0688ac5beb718821cf647291e8e4ca3ed6a7a3c"
+    },
+    "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "381b189da77a02654ef383516e14b1048273f00fd328c14dadf91fb7658aa1a0",
+      "title_sha256": "cb7a64ceece88b018e9080448c58d0a64b5dce7a4a369d0c4baa63d3f74ae244"
+    },
+    "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia": {
+      "features": [],
+      "content_sha256": "03ef9734bc5aa7f2a300725f798c570879e878f3931389e43283762f0f2b990a",
+      "title_sha256": "455aef63a839b19abf6792bca3c01fa3a3893d7f4274c43172dc2ede8bcde955"
+    },
+    "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey": {
+      "features": [],
+      "content_sha256": "dc018c20292135f6cd8e8a4ae48270b324876e73f7d9266ffdd56b8bfb0a6d51",
+      "title_sha256": "d2e4ddc6e2f7e3b4b767dfb11af3716a87c3ac77c915bb1ef956d61d8fa351c1"
+    },
+    "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m": {
+      "features": [],
+      "content_sha256": "fadcd6f9eeb34e63ff1b726009509e0ed1aa4f4b0de7de03da56849fecedf89e",
+      "title_sha256": "e0886b2bee81c5463006e75152c9bfb0032fccafd109cbeed5eb4a164a961899"
+    },
+    "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand": {
+      "features": [],
+      "content_sha256": "71e4c7b76d8b23cb57265848679d473c43fba139615513cf2a38a8a6724df852",
+      "title_sha256": "f187532eaa242d97368e59703f6e681a2af637e101f00cff3b504902b7d08828"
+    },
+    "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin",
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:will:+0.15"
+            ],
+            "value": 0.65
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "dfaec6ddc1cd2ce70394d9adc328f9cdbca46770599b7e8435cb745d4a4876c6",
+      "title_sha256": "f98a433076006cf282ca2871f91219ab0978aa08588b012482a34804a26f429a"
+    },
+    "https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets": {
+      "features": [],
+      "content_sha256": "d37b16304d85758d74e9b5fb06bca2a50e950462b4dfd7e95585f39c6c6e5e4c",
+      "title_sha256": "9bfe19457e57afe28854edf7f5d068c5296f4f1f6ee339fb81447f620bdf2034"
+    },
+    "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto": {
+      "features": [],
+      "content_sha256": "5c79afd36340214700176d3c0c43e8ef7a826128d00ac67e73ecfa0893b306c9",
+      "title_sha256": "a99e7f9127f9f619505c5a089718abf9f44250e6fa93365abcb56e0e6c3c6f40"
+    },
+    "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "symbol:BTC"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:now:+0.25"
+            ],
+            "value": 0.25
+          }
+        }
+      ],
+      "content_sha256": "a99867a54620e3e2b07abe611eda499e6c520857626d33bf974e8a10030c798c",
+      "title_sha256": "8e4df0370571ef2a73951a702e372e727663a32186bd747cb02b55d4ac74545b"
+    },
+    "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog": {
+      "features": [],
+      "content_sha256": "0feb2e35f4726b4db1416fab3a04403a28887a8903a8ffbbefc92cfab5ca0842",
+      "title_sha256": "de27d94ee39b620b26d405253fa919c78adb27465c2f153942a251f943a51594"
+    },
+    "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "MATIC",
+          "token_rules": [
+            "name:polygon"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "SOL",
+          "token_rules": [
+            "name:solana"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "21387cffd2a9e59c2dfd36fc44d28d0a2feca475581129de3d6d8d70dad2b2d7",
+      "title_sha256": "ec9a12acb4c9c54688bef44a52c029f9a3842649efcac410cd6b710f3dc106f9"
+    },
+    "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue": {
+      "features": [],
+      "content_sha256": "f8565fbf6a62b6da5cfade6f69d17de7e5de5c289eeb12089bff7c1a5d9ca4d1",
+      "title_sha256": "0a7d5e0c95f74b7e6fa5b62371a02bce7140671f58a432f398ec30846159103e"
+    },
+    "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us": {
+      "features": [],
+      "content_sha256": "6b31726b693fbe154160bf11f8d7036aefefa157ea482d95f826b2e069ae5874",
+      "title_sha256": "d097efe8a8716aeef2e5f17b2960ee065fa826e7d8e3a3cdf6773441d6caf0aa"
+    },
+    "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50",
+              "conviction:could:-0.20"
+            ],
+            "value": 0.3
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "74c113dd2e3b12d1960723d19cb76f014c959a785f7befb65d94fd41bb65a549",
+      "title_sha256": "4bcbeffedfd0b0a421b789cd5029704fb181af93e2d75d353c2b8001f18d7a03"
+    },
+    "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "BTC",
+          "token_rules": [
+            "name:bitcoin"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "e0d1548b424e393a04e9c6a815693fc387e1a5cabdbff0a0b9ab31f019ca9ac9",
+      "title_sha256": "5c800f665800138d7492752ad7343ad9c0ae237b93b1dbcc182fee85a4ff8ca9"
+    },
+    "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority": {
+      "features": [],
+      "content_sha256": "43b4f04ad634709e77d5896de6beab5200aaed9d67f20ec2b0a545d4a9aaee18",
+      "title_sha256": "c62d3c7d6aae31ac33472401653a26f86ef6c6ef71ad78101303900cacc07a64"
+    },
+    "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees": {
+      "features": [],
+      "content_sha256": "1cd17660fb17c78523e4785fc034ce7b1e73341262accf0c535abe3db7b712f6",
+      "title_sha256": "9964d15715ccb457efed1547c527c401e7de52e8d973aec3e51e4489d90c07a0"
+    },
+    "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "POL",
+          "token_rules": [
+            "symbol:POL"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "2d8858b9ffc925e505529fed5cc7ce8212df6e8ac6c6623729f273a17aaf1f00",
+      "title_sha256": "f057e85a7d72bbed922ce117ed183008d124846c91bbae6da351f8d31caaaa6f"
+    },
+    "https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms": {
+      "features": [],
+      "content_sha256": "83f07e1e6608f28e1bd873d65818e6b454924cd3f295fb02c5597c2ce35f97d6",
+      "title_sha256": "7398d19ea0323f5312fc3298f10d554075967e9967ac79a25d5ef995bb899d05"
+    },
+    "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains": {
+      "features": [],
+      "content_sha256": "05c9de49df0390abf2ecfc57e7ab7e85cd91e2656dcf867e10d36aa3bd50565f",
+      "title_sha256": "0dfa1274287ce87082a455a15bc9044f8a46d2e7e03dc0c70402407944da5449"
+    },
+    "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        },
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "USDT",
+          "token_rules": [
+            "name:tether"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "59435d9258f2a8fbeac57bef99b8e051be4464178de7d03fa471ffb051dd9471",
+      "title_sha256": "00d3728f80a8c7512bddd4a01cb914da85ca8e66a77a833def521974b0a2cb2e"
+    },
+    "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum": {
+      "features": [
+        {
+          "conviction": {
+            "fired": [
+              "conviction:baseline:0.50"
+            ],
+            "value": 0.5
+          },
+          "direction": "neutral",
+          "sentiment": {
+            "fired": [
+              "sentiment:no_direction_words:0"
+            ],
+            "value": 0.0
+          },
+          "token": "ETH",
+          "token_rules": [
+            "name:ethereum"
+          ],
+          "urgency": {
+            "fired": [
+              "urgency:no_time_words:0"
+            ],
+            "value": 0.0
+          }
+        }
+      ],
+      "content_sha256": "509b2d80ec1797587a3082f296b27e110a5cc167d517728bb35c43875b86df89",
+      "title_sha256": "f8ca80e224a3e96d0d3bb9b9514aebdae33c317edf9aafe35dc476eea8139304"
+    }
+  }
+}
