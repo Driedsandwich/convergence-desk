@@ -1,0 +1,6 @@
+node_modules/
+wasm/
+config.json
+simulate.log
+simulate_output.json
+.env

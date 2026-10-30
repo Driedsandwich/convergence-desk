@@ -217,8 +217,18 @@ def main(argv=None):
         p.add_argument('--recordings',help=argparse.SUPPRESS)
         p.add_argument('--record-http',help=argparse.SUPPRESS)
     p=sub.add_parser('replay'); p.add_argument('snapshot')
+    p=sub.add_parser('cre-config', help='Export the top converged narrative for Chainlink CRE')
+    p.add_argument('record'); p.add_argument('--out', default='cre/config.json')
+    p=sub.add_parser('cre-attach', help='Attach an independent CRE result to a completed run')
+    p.add_argument('run_dir'); p.add_argument('simulate_output')
     args=parser.parse_args(argv)
     try:
+        if args.command == 'cre-config':
+            from .cre import export_config
+            return export_config(args.record, args.out)
+        if args.command == 'cre-attach':
+            from .cre import attach_result
+            return attach_result(args.run_dir, args.simulate_output)
         return replay(args.snapshot) if args.command=='replay' else run(args)
     except (Exception, KeyboardInterrupt) as error:
         print(f'Convergence Desk failed: {type(error).__name__}: {error}',file=sys.stderr)

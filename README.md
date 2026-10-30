@@ -79,6 +79,10 @@ Exclusions follow the recorded observations in [SOURCES_PROBE.md](docs/SOURCES_P
 - Local checkpoints and ledgers require a single writer. Use separate output and ledger paths for concurrent runs. Changing configuration requires a new output directory. Offline replay needs compatible code and preserved features; it cannot re-extract discarded text or authenticate a source from a hash alone.
 - A pivotal voice or accepted position is not guaranteed in a live run. “None in tested steps” is a local sensitivity result, not proof of general robustness.
 
+## Chainlink CRE workflow
+
+An optional TypeScript CRE workflow independently checks a converged narrative using Coinbase/Kraken candle consensus and an Ethereum USDC supply read. Export with `convergence-desk cre-config`, simulate with the CRE CLI, and attach the result with `convergence-desk cre-attach`; the original decision stays unchanged. See [setup, commands and verification status](docs/CRE.md). The workflow builds locally; successful simulation still requires your CRE login.
+
 ## Documentation and license
 
 [Architecture and schemas](docs/ARCHITECTURE.md) · [2:50 demo script](docs/DEMO_SCRIPT.md) · [Submission form draft](docs/SUBMISSION.md) · [Source probe](docs/SOURCES_PROBE.md).
