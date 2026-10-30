@@ -2,6 +2,8 @@
 
 ![Convergence Desk: many public signals converge into one checked decision](docs/assets/cover.png)
 
+**Demo video (3 min 25 s):** https://youtu.be/ocsOJSzqzmY
+
 Convergence Desk is a deterministic market research agent that turns public publisher narratives into an explicit practice decision: a position with size and exits, or a rejection with the failed rules. It counts each publisher once, checks completed candles across two venues, applies portfolio risk limits, and reruns controlled interventions to show what changes the result. Every run produces an offline HTML report and a hashed snapshot that can reproduce the decision without network access. It uses Python's standard library, requires zero API keys, and never places real orders.
 
 ## 60-second quickstart
