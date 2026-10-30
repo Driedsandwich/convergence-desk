@@ -4,3 +4,4 @@ config.json
 simulate.log
 simulate_output.json
 .env
+.cre_build_tmp.js

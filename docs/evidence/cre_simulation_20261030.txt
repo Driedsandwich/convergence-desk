@@ -1,0 +1,25 @@
+Initializing...
+Loading settings...
+! Using default private key for chain write simulation. To use your own key, set CRE_ETH_PRIVATE_KEY in your .env file or system environment.
+Checking RPC connectivity...
+Compiling workflow...
+✓ Workflow compiled
+✓ Simulation limits enabled
+  HTTP: req=120kb resp=250kb timeout=10s | ConfHTTP: req=125kb resp=500kb timeout=1m30s | Consensus obs=25kb | ChainWrite evm_report=50kb evm_gas=10000000 solana_report=265b solana_cu=300000 | WASM binary=100mb compressed=20mb
+  Binary hash: bf199f5b9f789eb28b272b7045353ca86d61d9bbf384932850b43a31b4c6193d
+  Config hash: 57a2ae28e140d2f778b625c5f9eaee0d558445b8e818c27123f0a329cd06b268
+2026-10-30T12:44:13Z [SIMULATION] Simulator Initialized
+
+2026-10-30T12:44:13Z [SIMULATION] Running trigger trigger=cron-trigger@1.0.0
+
+✓ Workflow Simulation Result:
+"{\"check\":\"chainlink-cre-market-evidence\",\"common_completed_endpoint\":\"2026-10-30T03:00:00.000Z\",\"cross_venue_status\":\"agreement\",\"direction\":\"bullish\",\"observed_at\":\"2026-10-30T03:44:13.871Z\",\"onchain\":{\"block_reference\":\"finalized\",\"chain\":\"ethereum-mainnet\",\"contract\":\"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48\",\"decimals\":\"6\",\"function\":\"totalSupply()\",\"read_at\":\"2026-10-30T03:44:14.666Z\",\"scope\":\"Current market-wide USDC supply; context only, not a directional vote or historical window value.\",\"value\":\"47499754554671964\"},\"record_decision_hash\":\"3248600b033fdf9d28c1dc35891b3d089cf749b0e7dc38507baa7eb8e91e4c15\",\"same_return_direction\":true,\"schema_version\":1,\"sha256\":\"fd7f2b4145f05807bb182ffe6f8458fd7a1af0a06c41f7eccfbe2379226aa6df\",\"spread\":\"0.0035222762562477595\",\"synthetic_for_tests\":false,\"thresholds\":{\"cross_venue_max_spread\":\"0.02\",\"market_min_return\":\"0.01\",\"market_min_volume_z\":\"1\",\"max_market_age_hours\":\"2\",\"volume_lookback\":\"5\"},\"token\":\"BTC\",\"venues\":{\"coinbase\":{\"anchor_at\":\"2026-10-28T03:00:00.000Z\",\"close\":\"77218.43\",\"endpoint_at\":\"2026-10-30T03:00:00.000Z\",\"fresh\":true,\"return_fraction\":\"-0.044533300337179504\",\"verdict\":\"contradict\",\"volume_z\":\"-2.20329771747234\"},\"kraken\":{\"anchor_at\":\"2026-10-28T03:00:00.000Z\",\"close\":\"76947.4\",\"endpoint_at\":\"2026-10-30T03:00:00.000Z\",\"fresh\":true,\"return_fraction\":\"-0.04809773935676698\",\"verdict\":\"contradict\",\"volume_z\":\"-2.4041614949162113\"}},\"verdict\":\"contradict\",\"window_end\":\"2026-10-30T03:23:48.389985Z\",\"window_start\":\"2026-10-28T03:23:48.389985Z\"}"
+
+2026-10-30T12:44:14Z [SIMULATION] Execution finished signal received
+2026-10-30T12:44:14Z [SIMULATION] Skipping WorkflowEngineV2
+
+╭──────────────────────────────────────────────────────╮
+│ Simulation complete! Ready to deploy your workflow?  │
+│                                                      │
+│ Run cre account access to request deployment access. │
+╰──────────────────────────────────────────────────────╯
