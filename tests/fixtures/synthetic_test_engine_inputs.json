@@ -1,0 +1,35 @@
+{
+  "synthetic_for_tests": true,
+  "description": "Invented unit-test inputs only. Never use as demo or live market data.",
+  "schema_version": 1,
+  "engine_version": "1",
+  "snapshot": {
+    "as_of": "2026-01-02T12:00:00Z",
+    "posts": [
+      {"source": "synthetic_social", "author_id": "alpha", "author_label": "Synthetic Alpha", "uri": "synthetic://post/alpha", "created_at": "2026-01-02T10:00:00Z", "text": "Confident buy $SOL now."},
+      {"source": "synthetic_social", "author_id": "beta", "author_label": "Synthetic Beta", "uri": "synthetic://post/beta", "created_at": "2026-01-02T11:00:00Z", "text": "High conviction bullish Solana today."},
+      {"source": "synthetic_social", "author_id": "gamma", "author_label": "Synthetic Gamma", "uri": "synthetic://post/gamma", "created_at": "2026-01-02T11:30:00Z", "text": "Maybe buy $BTC soon."}
+    ],
+    "voices": [
+      {"id": "alpha", "label": "Synthetic Alpha", "source": "synthetic_social", "trust_weight": 0.8},
+      {"id": "beta", "label": "Synthetic Beta", "source": "synthetic_social", "trust_weight": 0.7},
+      {"id": "gamma", "label": "Synthetic Gamma", "source": "synthetic_social", "trust_weight": 0.4}
+    ],
+    "market_bars": [
+      {"symbol": "SOL", "start": "2026-01-01T12:00:00Z", "open": 100.0, "high": 101.0, "low": 99.0, "close": 100.0, "volume": 100.0, "source": "synthetic_market"},
+      {"symbol": "SOL", "start": "2026-01-02T08:00:00Z", "open": 101.0, "high": 102.0, "low": 100.0, "close": 101.0, "volume": 80.0, "source": "synthetic_market"},
+      {"symbol": "SOL", "start": "2026-01-02T09:00:00Z", "open": 102.0, "high": 103.0, "low": 101.0, "close": 102.0, "volume": 100.0, "source": "synthetic_market"},
+      {"symbol": "SOL", "start": "2026-01-02T10:00:00Z", "open": 103.0, "high": 104.0, "low": 102.0, "close": 103.0, "volume": 120.0, "source": "synthetic_market"},
+      {"symbol": "SOL", "start": "2026-01-02T10:30:00Z", "open": 104.0, "high": 105.0, "low": 103.0, "close": 104.0, "volume": 90.0, "source": "synthetic_market"},
+      {"symbol": "SOL", "start": "2026-01-02T11:00:00Z", "open": 105.0, "high": 106.0, "low": 104.0, "close": 105.0, "volume": 110.0, "source": "synthetic_market"},
+      {"symbol": "SOL", "start": "2026-01-02T12:00:00Z", "open": 110.0, "high": 111.0, "low": 109.0, "close": 110.0, "volume": 160.0, "source": "synthetic_market"}
+    ],
+    "risk_limits": {"account_size": 10000.0, "max_position_pct": 0.1, "max_loss_per_trade_pct": 0.01, "max_daily_loss_pct": 0.03, "max_open_positions": 3, "stop_pct": 0.05, "take_profit_r": 2.0, "max_hold_hours": 24.0},
+    "rules": {"window_hours": 24.0, "quorum_weight": 1.5, "min_distinct_voices": 2, "min_conviction": 0.5, "market_min_return": 0.01, "market_min_volume_z": 1.0, "volume_lookback": 5, "max_market_age_hours": 2.0, "quorum_step": 0.1, "conviction_step": 0.1, "require_market_evidence": true},
+    "chain_events": [],
+    "open_positions": [],
+    "realized_loss_today": 0.0,
+    "source_health": [],
+    "degraded_notes": []
+  }
+}
