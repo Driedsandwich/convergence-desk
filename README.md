@@ -81,7 +81,9 @@ Exclusions follow the recorded observations in [SOURCES_PROBE.md](docs/SOURCES_P
 
 ## Chainlink CRE workflow
 
-An optional TypeScript CRE workflow independently checks a converged narrative using Coinbase/Kraken candle consensus and an Ethereum USDC supply read. Export with `convergence-desk cre-config`, simulate with the CRE CLI, and attach the result with `convergence-desk cre-attach`; the original decision stays unchanged. See [setup, commands and verification status](docs/CRE.md). The workflow builds locally; successful simulation still requires your CRE login.
+An optional TypeScript CRE workflow independently checks a converged narrative using Coinbase/Kraken candle consensus and an Ethereum USDC supply read. Export with `convergence-desk cre-config`, simulate with the CRE CLI, and attach the result with `convergence-desk cre-attach`; the original decision stays unchanged. See [setup, commands and verification status](docs/CRE.md). Running the simulation yourself requires a free CRE account and `cre login`.
+
+Simulated with the CRE CLI on 2026-10-30 ([log](docs/evidence/cre_simulation_20261030.log)): verdict `contradict` with cross-venue agreement, matching the Python agent's own market check.
 
 ## Documentation and license
 

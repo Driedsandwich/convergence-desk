@@ -2,7 +2,7 @@
 
 This optional TypeScript workflow orchestrates Coinbase Exchange and Kraken HTTP reads, consensus over their normalized completed candles, an Ethereum USDC `totalSupply()` EVM read, and a market-evidence verdict. The Python agent exports one converged narrative and imports the result as an **independent second check**. Existing decisions, snapshots, hashes, ledgers and default run output are unchanged.
 
-**Verification here:** CRE CLI v1.39.0 installed; SDK v1.23.0 workflow compiled to WASM; 17 TypeScript tests and 135 Python tests passed. Simulation stopped at authentication. **No successful CRE simulation or deployment is claimed.** A successful authenticated simulation remains necessary for the quoted bounty requirement.
+**Verification:** CRE CLI v1.39.0, SDK v1.23.0. The workflow compiled to WASM; 17 TypeScript tests and the Python test suite pass. An authenticated `cre workflow simulate` run completed on 2026-10-30 at 03:44 UTC ([log](evidence/cre_simulation_20261030.log)): for the run's top converged narrative (BTC bullish over a 48-hour window) the workflow read completed hourly bars from Coinbase and Kraken, found cross-venue agreement (close spread 0.35%) but a price move against the narrative, returned the verdict `contradict` — the same verdict the Python agent reached — and read the Ethereum USDC `totalSupply()` as context. The workflow was simulated, not deployed; it has no on-chain write step.
 
 ## Install and authenticate
 
